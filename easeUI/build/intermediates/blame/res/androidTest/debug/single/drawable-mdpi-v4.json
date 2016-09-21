@@ -2,5 +2,9 @@
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/easeUI/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/ic_launcher.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/easeUI/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/easeUI/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/easeUI/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
     }
 ]

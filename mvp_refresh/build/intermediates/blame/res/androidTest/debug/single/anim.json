@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_top.xml",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/anim/slide_in_from_top.xml"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_top.xml",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/anim/slide_out_to_top.xml"
     },
@@ -8,11 +12,23 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/anim/slide_out_to_bottom.xml"
     },
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_bottom.xml",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/anim/slide_in_from_bottom.xml"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_bottom.xml",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/anim/slide_in_from_bottom.xml"
     },
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_bottom.xml",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/anim/slide_out_to_bottom.xml"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_top.xml",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/anim/slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_top.xml",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/anim/slide_out_to_top.xml"
     }
 ]

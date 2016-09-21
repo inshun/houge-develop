@@ -4,7 +4,15 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/wheel/build/intermediates/bundles/debug/res/drawable/wheel_val.xml"
     },
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/wheel/build/intermediates/res/merged/androidTest/debug/drawable/wheel_bg.xml",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/wheel/build/intermediates/bundles/debug/res/drawable/wheel_bg.xml"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/wheel/build/intermediates/res/merged/androidTest/debug/drawable/wheel_bg.xml",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/wheel/build/intermediates/bundles/debug/res/drawable/wheel_bg.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/wheel/build/intermediates/res/merged/androidTest/debug/drawable/wheel_val.xml",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/wheel/build/intermediates/bundles/debug/res/drawable/wheel_val.xml"
     }
 ]

@@ -1,1179 +1,1179 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:2:1-683:12
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:2:1-683:12
 	package
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:3:5-28
-		INJECTED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:3:5-28
-		INJECTED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/debug/AndroidManifest.xml
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/debug/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:6:5-32
-		INJECTED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:6:5-32
-		INJECTED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/debug/AndroidManifest.xml
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:6:5-32
+		INJECTED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:6:5-32
+		INJECTED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/debug/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:5:5-28
-		INJECTED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:5:5-28
-		INJECTED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/debug/AndroidManifest.xml
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:2:11-69
 	android:installLocation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:4:5-45
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:4:5-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:4:5-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:4:5-45
 uses-sdk
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:8:5-10:41
-MERGED from [com.android.support:multidex:1.0.1] /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
-MERGED from [houge-develop:mvp_refresh:unspecified] /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/mvp_refresh/unspecified/AndroidManifest.xml:7:5-9:41
-MERGED from [houge-develop:androidPullToRefreshLibrary:unspecified] /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/AndroidManifest.xml:7:5-9:40
-MERGED from [houge-develop:wheel:unspecified] /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/wheel/unspecified/AndroidManifest.xml:7:5-9:40
-MERGED from [houge-develop:easeUI:unspecified] /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/AndroidManifest.xml:7:5-9:41
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [houge-develop:mvp_refresh:unspecified] /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/mvp_refresh/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [houge-develop:androidPullToRefreshLibrary:unspecified] /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/AndroidManifest.xml:7:5-9:40
+MERGED from [houge-develop:wheel:unspecified] /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/wheel/unspecified/AndroidManifest.xml:7:5-9:40
+MERGED from [houge-develop:easeUI:unspecified] /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/AndroidManifest.xml:7:5-9:41
 	android:targetSdkVersion
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:10:9-38
-		INJECTED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml
-		INJECTED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/debug/AndroidManifest.xml
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:9:9-35
-		INJECTED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml
-		INJECTED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/debug/AndroidManifest.xml
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:9:9-35
+		INJECTED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml
+		INJECTED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/debug/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:13:5-81
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:13:22-78
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:13:22-78
 uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:14:5-82
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:14:5-82
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:14:22-79
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:14:22-79
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:15:5-79
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:15:5-79
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:15:22-76
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:15:22-76
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:16:5-79
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:16:22-76
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:16:22-76
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:17:5-76
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:17:5-76
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:17:22-73
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:17:22-73
 uses-permission#android.permission.CAMERA
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:18:5-65
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:18:5-65
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:18:22-62
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:18:22-62
 uses-permission#android.permission.CALL_PHONE
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:19:5-69
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:19:5-69
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:19:22-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:19:22-66
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:20:5-76
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:20:5-76
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:20:22-73
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:20:22-73
 uses-permission#android.permission.DISABLE_KEYGUARD
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:21:5-75
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:21:5-75
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:21:22-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:21:22-72
 uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:22:5-88
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:22:5-88
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:22:22-85
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:22:22-85
 uses-permission#android.permission.FLASHLIGHT
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:23:5-69
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:23:5-69
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:23:22-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:23:22-66
 uses-permission#android.permission.GET_TASKS
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:24:5-68
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:24:5-68
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:24:22-65
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:24:22-65
 uses-permission#android.permission.INTERNET
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:25:5-67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:25:5-67
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:25:22-64
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:25:22-64
 uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:26:5-80
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:26:5-80
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:26:22-77
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:26:22-77
 uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:27:5-84
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:27:5-84
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:27:22-81
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:27:22-81
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:28:5-81
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:28:5-81
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:28:22-78
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:28:22-78
 uses-permission#android.permission.READ_LOGS
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:29:5-68
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:29:5-68
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:29:22-65
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:29:22-65
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:30:5-75
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:30:5-75
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:30:22-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:30:22-72
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:31:5-73
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:31:5-73
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:31:22-70
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:31:22-70
 uses-permission#android.permission.RECEIVE_USER_PRESENT
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:32:5-79
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:32:5-79
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:32:22-76
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:32:22-76
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:33:5-70
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:33:5-70
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:33:22-67
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:33:22-67
 uses-permission#android.permission.READ_CONTACTS
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:34:5-72
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:34:5-72
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:34:22-69
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:34:22-69
 uses-permission#android.permission.RECORD_AUDIO
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:35:5-71
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:35:5-71
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:35:22-68
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:35:22-68
 uses-permission#android.permission.SEND_SMS
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:36:5-67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:36:5-67
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:36:22-64
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:36:22-64
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:37:5-66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:37:5-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:37:22-63
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:37:22-63
 uses-permission#android.permission.WAKE_LOCK
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:38:5-68
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:38:5-68
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:38:22-65
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:38:22-65
 uses-permission#android.permission.UPDATE_APP_OPS_STATS
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:40:5-79
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:40:5-79
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:40:22-76
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:40:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:41:5-81
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:41:5-81
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:41:22-78
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:41:22-78
 uses-permission#com.android.launcher.permission.READ_SETTINGS
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:42:5-85
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:42:5-85
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:42:22-82
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:42:22-82
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:43:5-80
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:43:5-80
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:43:22-77
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:43:22-77
 uses-feature#android.hardware.camera
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:45:5-60
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:45:5-60
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:45:19-57
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:45:19-57
 uses-feature#android.hardware.camera.flash
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:46:5-66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:46:5-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:46:19-63
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:46:19-63
 uses-feature#android.hardware.camera.autofocus
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:47:5-70
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:47:5-70
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:47:19-67
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:47:19-67
 uses-permission#android.permission.BLUETOOTH
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:49:5-68
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:49:5-68
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:49:22-65
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:49:22-65
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:50:5-74
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:50:5-74
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:50:22-71
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:50:22-71
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:52:5-78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:52:5-78
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:52:22-75
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:52:22-75
 uses-permission#getui.permission.GetuiService.com.ysp.houge
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:54:5-83
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:54:5-83
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:54:22-80
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:54:22-80
 uses-permission#android.permission.SET_DEBUG_APP
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:55:5-72
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:55:5-72
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:55:22-69
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:55:22-69
 uses-permission#android.permission.GET_ACCOUNTS
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:56:5-71
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:56:5-71
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:56:22-68
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:56:22-68
 uses-permission#android.permission.USE_CREDENTIALS
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:57:5-74
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:57:5-74
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:57:22-71
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:57:22-71
 uses-permission#android.permission.MANAGE_ACCOUNTS
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:58:5-74
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:58:5-74
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:58:22-71
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:58:22-71
 permission#getui.permission.GetuiService.com.ysp.houge
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:60:5-62:55
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:60:5-62:55
 	android:protectionLevel
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:62:9-41
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:62:9-41
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:61:9-67
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:61:9-67
 supports-screens
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:64:5-68:39
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:64:5-68:39
 	android:largeScreens
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:66:9-36
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:66:9-36
 	android:smallScreens
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:68:9-36
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:68:9-36
 	android:normalScreens
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:67:9-37
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:67:9-37
 	android:anyDensity
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:65:9-34
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:65:9-34
 application
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:70:5-682:19
-MERGED from [houge-develop:mvp_refresh:unspecified] /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/mvp_refresh/unspecified/AndroidManifest.xml:11:5-14:19
-MERGED from [houge-develop:androidPullToRefreshLibrary:unspecified] /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/AndroidManifest.xml:11:5-20
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:70:5-682:19
+MERGED from [houge-develop:mvp_refresh:unspecified] /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/mvp_refresh/unspecified/AndroidManifest.xml:11:5-14:19
+MERGED from [houge-develop:androidPullToRefreshLibrary:unspecified] /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/AndroidManifest.xml:11:5-20
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:74:9-41
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:74:9-41
 	android:allowBackup
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:72:9-35
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:72:9-35
 	android:icon
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:73:9-38
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:73:9-38
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:75:9-40
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:75:9-40
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:71:9-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:71:9-55
 meta-data#com.baidu.lbsapi.API_KEY
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:78:9-80:56
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:78:9-80:56
 	android:value
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:80:13-53
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:80:13-53
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:79:13-52
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:79:13-52
 service#com.baidu.location.f
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:82:9-85:49
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:82:9-85:49
 	android:enabled
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:84:13-35
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:84:13-35
 	android:process
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:85:13-38
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:85:13-38
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:83:13-48
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:83:13-48
 meta-data#EASEMOB_APPKEY
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:88:9-90:46
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:88:9-90:46
 	android:value
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:90:13-43
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:90:13-43
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:89:13-42
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:89:13-42
 service#com.easemob.chat.EMChatService
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:93:9-66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:93:9-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:93:18-63
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:93:18-63
 receiver#com.easemob.chat.EMMonitorReceiver
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:95:9-106:20
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:95:9-106:20
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:95:19-68
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:95:19-68
 intent-filter#android.intent.action.PACKAGE_REMOVED
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:96:13-100:29
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:96:13-100:29
 action#android.intent.action.PACKAGE_REMOVED
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:97:17-80
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:97:17-80
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:97:25-77
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:97:25-77
 data
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:99:17-50
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:99:17-50
 	android:scheme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:99:23-47
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:99:23-47
 intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:102:13-105:29
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:102:13-105:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:103:17-79
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:103:17-79
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:103:25-76
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:103:25-76
 action#android.intent.action.USER_PRESENT
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:104:17-77
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:104:17-77
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:104:25-74
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:104:25-74
 meta-data#UMENG_APPKEY
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:109:9-111:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:109:9-111:66
 	android:value
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:111:13-53
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:111:13-53
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:110:13-40
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:110:13-40
 meta-data#UMENG_CHANNEL
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:112:9-114:54
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:112:9-114:54
 	android:value
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:114:13-51
-		INJECTED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:114:13-51
+		INJECTED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:113:13-41
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:113:13-41
 activity#com.ysp.houge.lisenter.WXEntryActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:119:9-124:75
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:119:9-124:75
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:123:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:123:13-49
 	android:exported
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:122:13-36
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:122:13-36
 	android:configChanges
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:121:13-74
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:121:13-74
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:124:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:124:13-72
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:120:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:120:13-66
 activity#com.ysp.houge.lisenter.WBShareActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:126:9-134:20
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:126:9-134:20
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:129:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:129:13-49
 	android:configChanges
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:128:13-63
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:128:13-63
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:127:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:127:13-66
 intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:130:13-133:29
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:130:13-133:29
 action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:131:17-92
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:131:17-92
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:131:25-89
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:131:25-89
 category#android.intent.category.DEFAULT
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:132:17-76
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:132:17-76
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:132:27-73
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:132:27-73
 activity#com.sina.weibo.sdk.component.WeiboSdkBrowser
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:135:9-139:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:135:9-139:67
 	android:exported
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:138:13-37
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:138:13-37
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:139:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:139:13-55
 	android:configChanges
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:137:13-63
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:137:13-63
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:136:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:136:13-72
 activity#com.tencent.tauth.AuthActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:145:9-157:20
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:145:9-157:20
 	android:launchMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:147:13-44
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:147:13-44
 	android:noHistory
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:148:13-37
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:148:13-37
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:146:13-58
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:146:13-58
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:149:13-156:29
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:149:13-156:29
 action#android.intent.action.VIEW
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:150:17-69
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:150:17-69
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:150:25-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:150:25-66
 category#android.intent.category.BROWSABLE
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:153:17-78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:153:17-78
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:153:27-75
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:153:27-75
 activity#com.tencent.connect.common.AssistActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:158:9-161:75
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:158:9-161:75
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:160:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:160:13-49
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:161:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:161:13-72
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:159:13-69
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:159:13-69
 meta-data#PUSH_APPID
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:166:9-168:54
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:166:9-168:54
 	android:value
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:168:13-51
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:168:13-51
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:167:13-38
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:167:13-38
 meta-data#PUSH_APPKEY
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:169:9-171:54
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:169:9-171:54
 	android:value
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:171:13-51
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:171:13-51
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:170:13-39
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:170:13-39
 meta-data#PUSH_APPSECRET
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:172:9-174:54
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:172:9-174:54
 	android:value
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:174:13-51
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:174:13-51
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:173:13-42
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:173:13-42
 receiver#com.ysp.houge.receiver.PushReceiver
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:176:9-182:20
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:176:9-182:20
 	android:exported
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:178:13-37
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:178:13-37
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:177:13-63
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:177:13-63
 intent-filter#com.igexin.sdk.action.JyMFGcoh2I8tvw62OhC5G6
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:179:13-181:29
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:179:13-181:29
 action#com.igexin.sdk.action.JyMFGcoh2I8tvw62OhC5G6
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:180:17-87
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:180:17-87
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:180:25-84
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:180:25-84
 service#com.igexin.sdk.PushService
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:184:9-188:54
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:184:9-188:54
 	android:process
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:188:13-43
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:188:13-43
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:187:13-47
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:187:13-47
 	android:exported
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:186:13-36
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:186:13-36
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:185:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:185:13-54
 service#com.igexin.sdk.PushServiceUser
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:190:9-193:62
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:190:9-193:62
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:193:13-51
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:193:13-51
 	android:exported
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:192:13-36
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:192:13-36
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:191:13-58
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:191:13-58
 receiver#com.igexin.sdk.PushReceiver
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:195:9-206:20
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:195:9-206:20
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:195:19-61
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:195:19-61
 intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.igexin.sdk.action.refreshls
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:196:13-205:29
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:196:13-205:29
 action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:198:17-79
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:198:17-79
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:198:25-76
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:198:25-76
 action#com.igexin.sdk.action.refreshls
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:200:17-74
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:200:17-74
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:200:25-71
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:200:25-71
 action#android.intent.action.MEDIA_MOUNTED
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:202:17-78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:202:17-78
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:202:25-75
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:202:25-75
 action#android.intent.action.ACTION_POWER_CONNECTED
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:203:17-87
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:203:17-87
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:203:25-84
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:203:25-84
 action#android.intent.action.ACTION_POWER_DISCONNECTED
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:204:17-90
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:204:17-90
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:204:25-87
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:204:25-87
 receiver#com.igexin.sdk.PushManagerReceiver
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:207:9-213:20
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:207:9-213:20
 	android:exported
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:209:13-37
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:209:13-37
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:208:13-62
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:208:13-62
 intent-filter#com.igexin.sdk.action.pushmanager
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:210:13-212:29
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:210:13-212:29
 action#com.igexin.sdk.action.pushmanager
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:211:17-76
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:211:17-76
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:211:25-73
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:211:25-73
 activity#com.igexin.sdk.PushActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:215:9-221:84
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:215:9-221:84
 	android:process
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:219:13-43
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:219:13-43
 	android:excludeFromRecents
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:217:13-46
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:217:13-46
 	android:exported
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:218:13-37
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:218:13-37
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:221:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:221:13-72
 	android:taskAffinity
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:220:13-67
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:220:13-67
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:216:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:216:13-55
 service#com.igexin.download.DownloadService
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:223:9-225:46
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:223:9-225:46
 	android:process
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:225:13-43
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:225:13-43
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:224:13-63
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:224:13-63
 receiver#com.igexin.download.DownloadReceiver
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:227:9-231:20
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:227:9-231:20
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:227:19-70
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:227:19-70
 intent-filter#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:228:13-230:29
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:228:13-230:29
 provider#com.igexin.download.DownloadProvider
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:233:9-236:46
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:233:9-236:46
 	android:authorities
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:235:13-58
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:235:13-58
 	android:process
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:236:13-43
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:236:13-43
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:234:13-64
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:234:13-64
 activity#com.igexin.getuiext.activity.GetuiExtActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:238:9-245:75
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:238:9-245:75
 	android:process
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:243:13-43
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:243:13-43
 	android:excludeFromRecents
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:241:13-46
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:241:13-46
 	android:exported
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:242:13-37
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:242:13-37
 	android:configChanges
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:240:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:240:13-72
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:245:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:245:13-72
 	android:taskAffinity
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:244:13-62
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:244:13-62
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:239:13-73
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:239:13-73
 receiver#com.igexin.getuiext.service.PayloadReceiver
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:247:9-254:20
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:247:9-254:20
 	android:exported
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:249:13-37
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:249:13-37
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:248:13-71
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:248:13-71
 service#com.igexin.getuiext.service.GetuiExtService
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:256:9-258:46
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:256:9-258:46
 	android:process
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:258:13-43
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:258:13-43
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:257:13-71
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:257:13-71
 activity#com.ysp.houge.ui.login.SplashActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:264:9-274:20
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:264:9-274:20
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:267:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:267:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:266:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:266:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:268:13-51
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:268:13-51
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:265:13-65
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:265:13-65
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:269:13-273:29
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:269:13-273:29
 action#android.intent.action.MAIN
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:270:17-69
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:270:17-69
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:270:25-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:270:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:272:17-77
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:272:17-77
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:272:27-74
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:272:27-74
 activity#com.ysp.houge.ui.login.SplashGuideViewActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:276:9-281:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:276:9-281:67
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:279:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:279:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:278:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:278:13-45
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:281:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:281:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:280:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:280:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:277:13-61
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:277:13-61
 activity#com.ysp.houge.ui.login.LoginActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:283:9-288:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:283:9-288:67
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:286:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:286:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:285:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:285:13-45
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:288:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:288:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:287:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:287:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:284:13-64
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:284:13-64
 activity#com.ysp.houge.ui.login.RegisterAgreementWebView
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:290:9-294:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:290:9-294:67
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:292:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:292:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:294:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:294:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:293:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:293:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:291:13-62
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:291:13-62
 activity#com.ysp.houge.ui.login.PerfectRegisterInfoActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:296:9-300:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:296:9-300:67
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:298:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:298:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:300:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:300:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:299:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:299:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:297:13-78
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:297:13-78
 activity#com.ysp.houge.ui.recommend.WorkTypeListActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:302:9-306:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:302:9-306:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:305:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:305:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:304:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:304:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:306:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:306:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:303:13-75
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:303:13-75
 activity#com.ysp.houge.ui.login.FindPwdActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:308:9-313:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:308:9-313:67
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:311:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:311:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:310:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:310:13-45
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:313:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:313:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:312:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:312:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:309:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:309:13-66
 activity#com.ysp.houge.widget.image.selector.MultiImageSelectorActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:315:9-320:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:315:9-320:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:319:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:319:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:318:13-62
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:318:13-62
 	android:configChanges
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:317:13-59
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:317:13-59
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:320:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:320:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:316:13-90
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:316:13-90
 activity#com.ysp.houge.ui.map.ChooseMapActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:322:9-326:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:322:9-326:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:325:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:325:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:324:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:324:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:326:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:326:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:323:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:323:13-66
 activity#com.ysp.houge.ui.recommend.RecommendNeedSettingActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:328:9-331:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:328:9-331:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:330:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:330:13-49
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:331:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:331:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:329:13-83
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:329:13-83
 activity#com.ysp.houge.ui.recommend.RecommendSkillSettingActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:333:9-337:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:333:9-337:66
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:335:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:335:13-49
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:337:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:337:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:336:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:336:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:334:13-84
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:334:13-84
 activity#com.ysp.houge.ui.HomeActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:339:9-346:64
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:339:9-346:64
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:344:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:344:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:342:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:342:13-45
 	android:launchMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:343:13-44
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:343:13-44
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:346:13-52
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:346:13-52
 	android:configChanges
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:341:13-74
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:341:13-74
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:345:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:345:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:340:13-57
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:340:13-57
 activity#com.ysp.houge.ui.me.meinfo.MeInfoActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:348:9-352:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:348:9-352:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:351:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:351:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:350:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:350:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:352:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:352:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:349:13-69
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:349:13-69
 activity#com.ysp.houge.ui.me.meinfo.MeInfoNicknameActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:354:9-359:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:354:9-359:67
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:357:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:357:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:356:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:356:13-45
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:359:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:359:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:358:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:358:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:355:13-77
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:355:13-77
 activity#com.ysp.houge.ui.me.meinfo.MeInfoSexActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:361:9-365:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:361:9-365:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:364:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:364:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:363:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:363:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:365:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:365:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:362:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:362:13-72
 activity#com.ysp.houge.ui.me.meinfo.auth.MeAuthenticationActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:367:9-370:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:367:9-370:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:369:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:369:13-49
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:370:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:370:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:368:13-84
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:368:13-84
 activity#com.ysp.houge.ui.me.setting.SettingActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:372:9-376:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:372:9-376:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:375:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:375:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:374:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:374:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:376:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:376:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:373:13-71
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:373:13-71
 activity#com.ysp.houge.ui.me.setting.FeedBackActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:378:9-383:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:378:9-383:67
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:381:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:381:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:380:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:380:13-45
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:383:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:383:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:382:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:382:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:379:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:379:13-72
 activity#com.ysp.houge.ui.me.setting.AboutUsActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:385:9-389:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:385:9-389:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:388:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:388:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:387:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:387:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:389:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:389:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:386:13-71
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:386:13-71
 activity#com.ysp.houge.ui.me.setting.ChangePasswordActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:391:9-396:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:391:9-396:67
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:394:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:394:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:393:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:393:13-45
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:396:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:396:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:395:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:395:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:392:13-78
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:392:13-78
 activity#com.ysp.houge.ui.message.SystemMessageActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:398:9-402:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:398:9-402:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:401:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:401:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:400:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:400:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:402:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:402:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:399:13-74
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:399:13-74
 activity#com.ysp.houge.ui.me.WebViewActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:404:9-419:20
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:404:9-419:20
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:408:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:408:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:407:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:407:13-45
 	android:configChanges
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:406:13-48
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:406:13-48
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:409:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:409:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:405:13-63
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:405:13-63
 activity#com.ysp.houge.ui.publish.NeedPulishActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:421:9-424:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:421:9-424:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:424:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:424:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:423:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:423:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:422:13-58
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:422:13-58
 activity#com.ysp.houge.ui.publish.SkillPulishActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:426:9-429:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:426:9-429:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:429:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:429:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:428:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:428:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:427:13-59
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:427:13-59
 activity#com.ysp.houge.ui.me.CouponListActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:431:9-434:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:431:9-434:78
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:433:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:433:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:434:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:434:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:432:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:432:13-66
 activity#com.ysp.houge.ui.details.UserDetailsActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:436:9-438:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:436:9-438:78
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:438:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:438:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:437:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:437:13-72
 activity#com.ysp.houge.ui.details.SkillDetailsActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:440:9-443:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:440:9-443:78
 	android:launchMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:442:13-43
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:442:13-43
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:443:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:443:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:441:13-73
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:441:13-73
 activity#com.ysp.houge.ui.login.RegisterActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:445:9-448:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:445:9-448:67
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:448:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:448:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:447:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:447:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:446:13-67
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:446:13-67
 activity#com.ysp.houge.ui.me.address.AddressManagerActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:450:9-453:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:450:9-453:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:453:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:453:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:452:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:452:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:451:13-78
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:451:13-78
 activity#com.ysp.houge.ui.me.address.AddAddressActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:455:9-458:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:455:9-458:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:458:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:458:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:457:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:457:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:456:13-74
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:456:13-74
 activity#com.ysp.houge.ui.me.TimeManagerActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:460:9-463:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:460:9-463:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:463:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:463:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:462:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:462:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:461:13-67
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:461:13-67
 activity#com.ysp.houge.ui.order.OrderActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:465:9-468:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:465:9-468:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:468:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:468:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:467:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:467:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:466:13-64
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:466:13-64
 activity#com.ysp.houge.ui.order.OrderDetailsActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:470:9-473:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:470:9-473:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:473:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:473:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:472:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:472:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:471:13-71
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:471:13-71
 activity#com.ysp.houge.ui.me.setting.NewMessageNotificationActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:475:9-478:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:475:9-478:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:478:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:478:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:477:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:477:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:476:13-86
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:476:13-86
 activity#com.ysp.houge.ui.me.balance.BalanceActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:480:9-483:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:480:9-483:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:483:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:483:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:482:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:482:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:481:13-71
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:481:13-71
 activity#com.ysp.houge.ui.me.LoveMeListActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:485:9-488:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:485:9-488:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:488:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:488:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:487:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:487:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:486:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:486:13-66
 activity#com.ysp.houge.ui.me.CommentListActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:490:9-493:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:490:9-493:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:493:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:493:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:492:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:492:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:491:13-67
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:491:13-67
 activity#com.ysp.houge.ui.me.footprint.MyFootprintActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:495:9-498:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:495:9-498:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:498:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:498:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:497:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:497:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:496:13-77
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:496:13-77
 activity#com.ysp.houge.ui.me.MakeMoneyByShareActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:500:9-503:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:500:9-503:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:503:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:503:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:502:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:502:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:501:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:501:13-72
 activity#com.ysp.houge.ui.me.MyBuyActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:505:9-508:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:505:9-508:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:508:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:508:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:507:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:507:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:506:13-61
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:506:13-61
 activity#com.ysp.houge.ui.me.MyNeedActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:510:9-513:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:510:9-513:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:513:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:513:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:512:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:512:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:511:13-62
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:511:13-62
 activity#com.ysp.houge.ui.me.MySellActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:515:9-518:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:515:9-518:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:518:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:518:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:517:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:517:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:516:13-62
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:516:13-62
 activity#com.ysp.houge.ui.me.MySkillActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:520:9-523:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:520:9-523:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:523:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:523:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:522:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:522:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:521:13-63
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:521:13-63
 activity#com.ysp.houge.ui.me.AdvanceSalaryActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:525:9-528:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:525:9-528:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:528:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:528:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:527:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:527:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:526:13-69
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:526:13-69
 activity#com.ysp.houge.ui.me.safeguard.ApplyServiceSafeguardActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:530:9-533:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:530:9-533:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:533:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:533:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:532:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:532:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:531:13-87
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:531:13-87
 activity#com.ysp.houge.ui.me.safeguard.SubmitCashDeposit
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:535:9-538:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:535:9-538:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:538:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:538:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:537:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:537:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:536:13-75
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:536:13-75
 activity#com.ysp.houge.ui.me.safeguard.UnfreezeCashDeposit
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:540:9-543:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:540:9-543:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:543:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:543:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:542:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:542:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:541:13-77
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:541:13-77
 activity#com.ysp.houge.ui.me.balance.WithdrawDepositActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:545:9-548:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:545:9-548:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:548:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:548:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:547:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:547:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:546:13-79
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:546:13-79
 activity#com.ysp.houge.ui.me.WithdrawalWebview
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:550:9-553:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:550:9-553:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:553:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:553:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:552:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:552:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:551:13-65
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:551:13-65
 activity#com.ysp.houge.ui.useless.WithdrawDepositSuccessActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:555:9-558:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:555:9-558:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:558:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:558:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:557:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:557:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:556:13-83
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:556:13-83
 activity#com.ysp.houge.ui.me.balance.RechargeActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:560:9-563:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:560:9-563:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:563:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:563:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:562:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:562:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:561:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:561:13-72
 activity#com.ysp.houge.ui.newjoin.NewJoinSkillActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:565:9-568:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:565:9-568:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:568:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:568:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:567:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:567:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:566:13-73
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:566:13-73
 activity#com.ysp.houge.ui.newjoin.NewJoinNeedActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:570:9-573:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:570:9-573:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:573:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:573:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:572:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:572:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:571:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:571:13-72
 activity#com.ysp.houge.ui.search.SearchActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:575:9-578:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:575:9-578:67
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:578:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:578:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:577:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:577:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:576:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:576:13-66
 activity#com.ysp.houge.ui.order.CommentActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:580:9-583:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:580:9-583:67
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:583:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:583:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:582:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:582:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:581:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:581:13-66
 activity#com.ysp.houge.ui.details.NeedDetailsActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:585:9-588:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:585:9-588:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:588:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:588:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:587:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:587:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:586:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:586:13-72
 activity#com.ysp.houge.ui.photoview.PhotoViewActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:590:9-593:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:590:9-593:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:593:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:593:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:592:13-71
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:592:13-71
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:591:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:591:13-72
 activity#com.easemob.easeui.ui.EaseShowBigImageActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:595:9-598:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:595:9-598:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:598:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:598:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:597:13-71
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:597:13-71
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:596:13-74
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:596:13-74
 activity#com.ysp.houge.ui.order.PayActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:600:9-603:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:600:9-603:66
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:603:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:603:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:602:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:602:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:601:13-62
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:601:13-62
 activity#com.ysp.houge.ui.message.ChatActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:605:9-610:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:605:9-610:67
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:608:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:608:13-49
 	android:launchMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:607:13-44
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:607:13-44
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:610:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:610:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:609:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:609:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:606:13-65
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:606:13-65
 activity#com.easemob.easeui.ui.EaseBaiduMapActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:612:9-616:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:612:9-616:66
 	android:launchMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:614:13-44
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:614:13-44
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:616:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:616:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:615:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:615:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:613:13-70
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:613:13-70
 activity#com.ysp.houge.ui.map.ResidentAddressActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:618:9-622:66
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:618:9-622:66
 	android:launchMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:620:13-44
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:620:13-44
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:622:13-54
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:622:13-54
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:621:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:621:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:619:13-59
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:619:13-59
 activity#com.ysp.houge.ui.useless.ChooseLoginOrRegisterActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:625:9-629:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:625:9-629:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:628:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:628:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:627:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:627:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:629:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:629:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:626:13-82
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:626:13-82
 activity#com.ysp.houge.ui.useless.ChatActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:631:9-637:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:631:9-637:67
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:635:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:635:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:634:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:634:13-45
 	android:hardwareAccelerated
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:633:13-48
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:633:13-48
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:637:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:637:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:636:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:636:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:632:13-65
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:632:13-65
 activity#com.ysp.houge.ui.useless.CharacteristicListActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:639:9-643:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:639:9-643:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:642:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:642:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:641:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:641:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:643:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:643:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:640:13-79
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:640:13-79
 activity#com.ysp.houge.ui.useless.MePrePaidRecordListActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:645:9-649:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:645:9-649:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:648:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:648:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:647:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:647:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:649:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:649:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:646:13-80
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:646:13-80
 activity#com.ysp.houge.ui.useless.MeInfoEducationActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:651:9-655:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:651:9-655:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:654:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:654:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:653:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:653:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:655:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:655:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:652:13-76
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:652:13-76
 activity#com.ysp.houge.ui.useless.MeInfoPaidAccountActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:657:9-661:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:657:9-661:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:660:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:660:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:659:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:659:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:661:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:661:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:658:13-78
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:658:13-78
 activity#com.ysp.houge.ui.useless.MeInfoChooseSchoolActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:663:9-668:76
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:663:9-668:76
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:666:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:666:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:665:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:665:13-45
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:668:13-64
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:668:13-64
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:667:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:667:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:664:13-79
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:664:13-79
 activity#com.ysp.houge.ui.useless.MeAuthenticationSuccessActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:670:9-674:78
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:670:9-674:78
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:673:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:673:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:672:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:672:13-45
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:674:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:674:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:671:13-84
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:671:13-84
 activity#com.ysp.houge.ui.useless.ChangePhoneActivity
-ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:676:9-681:67
+ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:676:9-681:67
 	android:screenOrientation
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:679:13-49
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:679:13-49
 	android:label
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:678:13-45
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:678:13-45
 	android:windowSoftInputMode
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:681:13-55
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:681:13-55
 	android:theme
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:680:13-66
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:680:13-66
 	android:name
-		ADDED from /Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/AndroidManifest.xml:677:13-72
+		ADDED from /Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/AndroidManifest.xml:677:13-72

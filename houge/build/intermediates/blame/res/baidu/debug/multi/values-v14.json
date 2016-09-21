@@ -1,5 +1,107 @@
 [
     {
+        "outputFile": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/incremental/mergeBaiduDebugResources/merged.dir/values-v14/values-v14.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/values-v14/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 47,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 55,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/values-v14/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 55,
+                        "endOffset": 108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 159,
+                    "endColumn": 54,
+                    "endOffset": 209
+                },
+                "from": {
+                    "file": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/values-v14/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 114,
+                        "endColumn": 54,
+                        "endOffset": 164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 214,
+                    "endColumn": 37,
+                    "endOffset": 247
+                },
+                "from": {
+                    "file": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/values-v14/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 37,
+                        "endOffset": 203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 252,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 398
+                },
+                "from": {
+                    "file": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/values-v14/styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 366
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/incremental/mergeBaiduDebugResources/merged.dir/values-v14/values-v14.xml",
         "map": [
             {

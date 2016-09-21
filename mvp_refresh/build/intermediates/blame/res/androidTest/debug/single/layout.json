@@ -1,11 +1,27 @@
 [
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/layout/load_ing.xml",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/bundles/debug/res/layout/load_ing.xml"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/layout/load_ing.xml",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/bundles/debug/res/layout/load_ing.xml"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/layout/load_error.xml",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/bundles/debug/res/layout/load_error.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/layout/load_empty.xml",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/bundles/debug/res/layout/load_empty.xml"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/layout/load_empty.xml",
@@ -16,11 +32,19 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/layout/pull_to_refresh_header_vertical.xml"
     },
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/layout/layout_listview_foot.xml",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/bundles/debug/res/layout/layout_listview_foot.xml"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/layout/load_error.xml",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/bundles/debug/res/layout/load_error.xml"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/layout/layout_listview_foot.xml",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/bundles/debug/res/layout/layout_listview_foot.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/layout/pull_to_refresh_header_vertical.xml"
     }
 ]

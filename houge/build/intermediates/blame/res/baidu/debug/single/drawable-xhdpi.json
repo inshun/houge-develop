@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tips_popup_win_bg.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tips_popup_win_bg.9.png"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_attestation.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skill_attestation.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_nearby_selected_s.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_nearby_selected_s.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/examine_error.png",
@@ -12,64 +20,64 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_jiehuoaddress.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_search_icon.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_search_icon.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/top_arrow_sub_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/top_arrow_sub_orange.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/default_error.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/default_error.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/service_safeguard.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/service_safeguard.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_four.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_four.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/part_time_job_horizontal_bg_normal.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/part_time_job_horizontal_bg_normal.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/list_orange.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/list_orange.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/asy.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/asy.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_bar_bg.9.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_bar_bg.9.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_beizhu.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_beizhu.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_phone.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_phone.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/map_address_bg.9.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/map_address_bg.9.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_location_on.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/me_sell.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/me_sell.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_message_default.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_message_default.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_need_details_three.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_need_details_three.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_search_orange.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_search_orange.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/me_sell.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/me_sell.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_wxcircle.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_wxcircle.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_douban_off.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_douban_off.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommend_more_orange.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/recommend_more_orange.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/search_history_icon.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/search_history_icon.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommenddetail_icon_introduction.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/recommenddetail_icon_introduction.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/add_record.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/add_record.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_more_orange_66.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_more_orange_66.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_common_btn_small_blue_unpressed.9.png",
@@ -84,14 +92,6 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_sex_female.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_facebook.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_facebook.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/local_def.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/local_def.png"
-    },
-    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_me_selected_s.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_me_selected_s.png"
     },
@@ -100,40 +100,64 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/actionsheet_single_normal.9.png"
     },
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_sex_male.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_sex_male.png"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_nearby_default.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_nearby_default.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_message_selected_b.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_message_selected_b.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_six.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_six.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_back_bt_selected.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_back_bt_selected.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_share_blue_66.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_share_blue_66.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_sel_blue.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_sel_blue.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_system_message.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_system_message.png"
     },
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_love.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skill_love.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_two.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_two.png"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_one.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_one.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_wechat_gray.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_wechat_gray.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_more_blue_66.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_more_blue_66.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_btn_i_want_niuren.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_btn_i_want_niuren.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/btn_selected.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/btn_selected.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/round_green.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/round_green.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/button_all_city.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/button_all_city.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_renren_off.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_renren_off.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/search_type_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/search_type_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_diangmianzhifu.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_diangmianzhifu.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_login_pressed.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_button_login_pressed.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_jia.png",
@@ -144,10 +168,6 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/official_custom_service.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_btn_back_normal.9.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_btn_back_normal.9.png"
-    },
-    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/btn_back.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/btn_back.png"
     },
@@ -156,24 +176,16 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/map_blue.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_qq_off.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_qq_off.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/local_sel.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/local_sel.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommenddetail_icon_time.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/recommenddetail_icon_time.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_tx_off.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_tx_off.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_tx_off.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_tx_off.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/goods_title_blue.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/goods_title_blue.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_diandian.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_diandian.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/activities.png",
@@ -184,88 +196,92 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/recommenddetail_icon_place.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/android_downloading.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/android_downloading.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_me_default.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_me_default.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_two.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_two.png"
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/android_downloading.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/android_downloading.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/chat_to_bg_normal.9.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/chat_to_bg_normal.9.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/top_arrow_sub_blue.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/top_arrow_sub_blue.png"
-    },
-    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_register.9.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_register.9.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/sort_def.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/sort_def.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_oauth_check_on.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_oauth_check_on.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_star_gray.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_star_gray.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_follow_on.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_follow_on.png"
-    },
-    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/map_orange.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/map_orange.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_message.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_message.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_back_bt_selected.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_star_gray.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_star_gray.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_no_data.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_no_data.png"
     },
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_right_bt_selected.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_right_bt_selected.png"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_zhifubao.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_zhifubao.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/splash.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/splash.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_recommend_selected_b.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_recommend_selected_b.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/part_time_job_horizontal_add_pressed.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/part_time_job_horizontal_add_pressed.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/change_login_status_sell.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/change_login_status_sell.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/part_time_job_horizontal_bg_pressed.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/part_time_job_horizontal_bg_pressed.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/splash.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_wxcircle_gray.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_btn_back_normal.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_btn_back_normal.9.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_coordinate.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_coordinate.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_twitter.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_twitter.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/me_skill.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/me_skill.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_bar_bg.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_bar_bg.9.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/map_close_blue_press.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/map_close_blue_press.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/login_three_picture.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/login_three_picture.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_qzone_on.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_qzone_on.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_love.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skill_love.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_at_normal.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_at_normal.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_share_orange_66.png",
@@ -276,8 +292,8 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/avatar.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_three.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_three.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/map_close_blue_def.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/map_close_blue_def.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_action_back_selected.png",
@@ -288,44 +304,68 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/search_type_orange.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/default_check.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/default_check.png"
-    },
-    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_seven.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_seven.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_fetch_image.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_fetch_image.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/address_manager.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/address_manager.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/part_time_job_horizontal_add_pressed.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/part_time_job_horizontal_add_pressed.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_aio_input_bar_bg.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skin_aio_input_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_sex_female.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_sex_female.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/about.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/about.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_btn_i_want_niuren.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_btn_i_want_niuren.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_message_default.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_message_default.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/part_time_job_horizontal_add_normal.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/part_time_job_horizontal_add_normal.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_me_selected_b.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_me_selected_b.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_btn_normal.9.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_btn_normal.9.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_login_pressed.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_button_login_pressed.png"
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/part_time_job_horizontal_add_normal.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/part_time_job_horizontal_add_normal.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_time.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_time.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_rate_bg.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skill_rate_bg.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_me_selected_b.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_me_selected_b.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_refersh.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_refersh.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/button_all_city_select.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/button_all_city_select.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/my_footprint.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/my_footprint.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_action_back_normal.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_action_back_normal.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/actionsheet_single_pressed.9.png",
@@ -336,20 +376,32 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_pulish_skill.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/push.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/push.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_blue.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_button_blue.9.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/chat_from_bg_normal.9.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/chat_from_bg_normal.9.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_oauth_check_off.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_red.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/push.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/push.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_wxcircle.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_wxcircle.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_common_btn_small_blue_pressed.9.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_common_btn_small_blue_pressed.9.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_yuer.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_yuer.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_dangmianfu_blue.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_dangmianfu_blue.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/btn_selected.png",
@@ -360,8 +412,12 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tips_popup_win_bg.9.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_btn_i_want_jiehuo.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_btn_i_want_jiehuo.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/love.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/love.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/push.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/push.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_yuer.png",
@@ -372,32 +428,40 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/my_footprint.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/time_manager.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/time_manager.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_map_user_def.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_map_user_def.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/examining.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/examining.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_search_blue.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_search_blue.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/change_login_status_buy.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/change_login_status_buy.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/add_img.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/add_img.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_message_selected_s.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_message_selected_s.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_location_ic.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_location_ic.png"
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/change_login_status_buy.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/change_login_status_buy.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/start.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/start.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_btn_i_want_jiehuo.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_btn_i_want_jiehuo.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_jiehuoaddress.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_jiehuoaddress.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_tab_left_pressed.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommenddetail_icon_place.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/recommenddetail_icon_place.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/search_text_left.png",
@@ -408,40 +472,24 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_sel_orange.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_five.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_five.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/asy.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/asy.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_qzone_off.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_qzone_off.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_icon_arrow_right_normal.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skin_icon_arrow_right_normal.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_light_bar_bg.9.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_light_bar_bg.9.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_pulish_s.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_pulish_s.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_login_normal.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_button_login_normal.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/system_custom_service.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/system_custom_service.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/head_up.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/head_up.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_twitter.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_twitter.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/change_login_status_sell.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/change_login_status_sell.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_qq_on.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_qq_on.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_attestation.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skill_attestation.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_beizhu.png",
@@ -452,8 +500,12 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_right_bt_normal.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_more_blue_66.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_more_blue_66.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/default_error.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/default_error.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/im_more_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/im_more_orange.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_refersh.png",
@@ -464,32 +516,20 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_action_back_normal.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_renren_on.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_renren_on.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_need_details_two.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_need_details_two.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_douban_on.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_douban_on.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/top_arrow_sub_blue.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/top_arrow_sub_blue.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_one.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_one.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_me_default.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_me_default.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/search_blue.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/search_blue.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/map_close_blue_def.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/map_close_blue_def.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/official.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/official.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/color_rating_sel.png",
@@ -500,88 +540,92 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_diangmianzhifu_orange.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_tab_left_normal.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_tab_left_normal.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/chat_time_bg.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/chat_time_bg.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_follow_on.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_follow_on.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_def.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_def.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_location_on.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_location_on.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_sina_on.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_sina_on.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_follow_off.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_follow_off.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_map_user_famal.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_map_user_famal.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/search_orange.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/search_orange.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_recommend_default.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_recommend_default.png"
-    },
-    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/add_img.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/add_img.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_diangmianzhifu.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_diangmianzhifu.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/play_record.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/play_record.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_more.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_more.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/actionsheet_single_normal.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/actionsheet_single_normal.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/login_four_picture.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/login_four_picture.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_nearby_selected_b.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_nearby_selected_b.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_default_avatar.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_default_avatar.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_two.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_two.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/examine_success.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/examine_success.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/im_more_orange.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/im_more_orange.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_add.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_add.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_nav_bar_bg.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_nav_bar_bg.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_qzone_on.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_qzone_on.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_login_normal.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_button_login_normal.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_jian.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_jian.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/me_buy.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/me_buy.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_default_avatar.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_default_avatar.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_google.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_google.png"
     },
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/sort_blue.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/sort_blue.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_pulish_skill.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_pulish_skill.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_zhifubao.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_zhifubao.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_facebook.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_facebook.png"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_user_icon_wuman.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skill_user_icon_wuman.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_google.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_google.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommend_more_blue.png",
@@ -592,68 +636,68 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/comment.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/login_one_picture.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/login_one_picture.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_jia.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_jia.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/pick_up.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/pick_up.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_star_orange.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_star_orange.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/head_up_blue.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/head_up_blue.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_btn_normal.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_btn_normal.9.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/sort_blue.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/sort_blue.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_three.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_three.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/round_green.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/round_green.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_btn_back_press.9.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_btn_back_press.9.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/submit_success_icon.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/submit_success_icon.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_need_details_one.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/record_need_details_one.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_sel_blue.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_sel_blue.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_four.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_four.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_right_bt_normal.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_right_bt_normal.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/bg_loading_image.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/bg_loading_image.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/ios_downloading.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/ios_downloading.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommend_more_def.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/recommend_more_def.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/love.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/love.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_dangmianfu_blue.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_dangmianfu_blue.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/btn_back.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/btn_back.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_pulish_need.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_pulish_need.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/search_history_icon.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/search_history_icon.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_aio_input_bar_bg.9.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_aio_input_bar_bg.9.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/sort_def.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/sort_def.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_more_orange_66.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_more_orange_66.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/search_type_gray.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/search_type_gray.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_diandian.png",
@@ -672,16 +716,12 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/address_manager.png"
     },
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_tab_right_pressed.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommenddetail_icon_count.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/recommenddetail_icon_count.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_recommend_selected_b.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_recommend_selected_b.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/color_rating_def.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/color_rating_def.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/view_clear_left_img.png",
@@ -696,16 +736,8 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/make_money_by_share.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_sex_male.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_sex_male.png"
-    },
-    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_grey.9.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_button_grey.9.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/sort_orange.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/sort_orange.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/map_close_orange_press.png",
@@ -716,20 +748,16 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skill_user_icon_man.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/round_white.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/round_white.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/map_close_orange_press.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/map_close_orange_press.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_wxcircle_gray.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_wxcircle_gray.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/system_custom_service.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/system_custom_service.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_pulish_b.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_pulish_b.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/login_four_picture.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/login_four_picture.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_message_selected_s.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_message_selected_s.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/button_all_city.png",
@@ -740,56 +768,36 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/submit_success_icon.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/goods_title_orange.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/goods_title_orange.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_level_message.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skill_level_message.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_right_bt_selected.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_right_bt_selected.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommend_more_blue.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/recommend_more_blue.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_wechat.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_wechat.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_icon_arrow_right_pressed.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_icon_arrow_right_pressed.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_six.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_six.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_back_bt_normal.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_back_bt_normal.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_btn_disable.9.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_btn_disable.9.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_blue.9.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_button_blue.9.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/me_need.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/me_need.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommenddetail_icon_time.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/recommenddetail_icon_time.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/me_skill.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/me_skill.png"
     },
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_pulish_s.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_pulish_s.png"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/search_blue.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/search_blue.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/about.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/about.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_one.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_one.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_tab_right_pressed.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_tab_right_pressed.png"
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/about.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/about.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/advance_salary.png",
@@ -800,12 +808,16 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_canle_push_need.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_map_user_mal.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_map_user_mal.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/me_need.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/me_need.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/login_two_picture.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/login_two_picture.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/head_up_gray.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/head_up_gray.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_user_icon_nosex.png",
@@ -816,24 +828,40 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_sina_off.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_map_user_def.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_map_user_def.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_search_blue.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_search_blue.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_sina_on.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_sina_on.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_bind_bg.9.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_bind_bg.9.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_share.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skill_share.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_user_icon_wuman.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skill_user_icon_wuman.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/color_rating_def.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/color_rating_def.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/play_record.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/play_record.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_four.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_four.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/bg_loading_image.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/bg_loading_image.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_recommend_default.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_recommend_default.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/part_time_job_horizontal_bg_pressed.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/part_time_job_horizontal_bg_pressed.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_at_selected.png",
@@ -864,20 +892,24 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/text_indicator.png"
     },
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_qzone_off.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_four.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_four.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/map_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/map_orange.png"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/view_clear_text_bg_write.9.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/view_clear_text_bg_write.9.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/btn_unselected.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/btn_unselected.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/pick_up.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/pick_up.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_need_details_one.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_need_details_one.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_red.9.png",
@@ -892,8 +924,936 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_location_off.png"
     },
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/make_money_by_share.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/make_money_by_share.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/start.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/start.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_add.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_add.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_three.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_three.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_share_blue_66.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_share_blue_66.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_coordinate.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_coordinate.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/goods_title_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/goods_title_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/im_more_blue.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/im_more_blue.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/activities.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/activities.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/default_check.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/default_check.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/login_three_picture.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/login_three_picture.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_nearby_default.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_nearby_default.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/view_clear_left_img.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/view_clear_left_img.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/ios_downloading.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/ios_downloading.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_message_selected_b.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_message_selected_b.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/local_def.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/local_def.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_user_icon_man.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skill_user_icon_man.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/head_up_blue.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/head_up_blue.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/me_buy.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/me_buy.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_fetch_image.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/head_up_orange.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/head_up_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_douban_off.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/map_close_blue_press.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/map_close_blue_press.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_search_icon.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_register.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_register.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/service_safeguard.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/service_safeguard.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/list_orange.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/list_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/color_rating_sel.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/color_rating_sel.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_bar_bg.9.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/asy.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/asy.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_user_icon_nosex.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skill_user_icon_nosex.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/map_address_bg.9.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/map_address_bg.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/me_sell.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/me_sell.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_search_orange.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_search_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommend_more_orange.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/recommend_more_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommenddetail_icon_introduction.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/recommenddetail_icon_introduction.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/official.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/official.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_facebook.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/local_def.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/local_def.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_gcoding.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_gcoding.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_renren_off.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_message_selected_b.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_message_selected_b.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommend_more_def.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/recommend_more_def.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/time_manager.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/time_manager.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/login_two_picture.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/login_two_picture.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_back_bt_selected.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_share_orange_66.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_share_orange_66.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/sorlistview_show_head_toast_bg.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/sorlistview_show_head_toast_bg.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_def.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_def.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_btn_disable.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_btn_disable.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_wechat_gray.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_btn_i_want_niuren.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_btn_i_want_niuren.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/round_green.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/round_green.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_renren_off.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_oauth_check_on.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_btn_back_normal.9.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_btn_back_normal.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/actionsheet_single_pressed.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/actionsheet_single_pressed.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/local_sel.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/local_sel.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_qq_off.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/official_custom_service.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/official_custom_service.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommenddetail_icon_time.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/recommenddetail_icon_time.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_tx_off.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_star_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_star_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/examining.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/examining.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommend_more_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/recommend_more_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_grey.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_me_selected_s.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_me_selected_s.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_two.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_two.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/change_login_status_buy.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/change_login_status_buy.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_location_ic.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_pulish_b.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_pulish_b.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/top_arrow_sub_blue.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/top_arrow_sub_blue.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_oauth_check_on.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/sort_def.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/sort_def.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_follow_on.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_message.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_message.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_btn_back_press.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_btn_back_press.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/list_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/list_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_common_btn_small_blue_pressed.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skin_common_btn_small_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/splash.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_seven.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_seven.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_tab_left_pressed.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/part_time_job_horizontal_add_pressed.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/part_time_job_horizontal_add_pressed.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/part_time_job_horizontal_bg_pressed.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/part_time_job_horizontal_bg_pressed.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_five.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_five.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/avatar.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/avatar.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_phone.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_phone.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_nav_bar_bg.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_nearby_selected_b.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_nearby_selected_b.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_twitter.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_need_details_two.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/record_need_details_two.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/login_three_picture.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/login_three_picture.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_love.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skill_love.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_three.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_three.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/default_check.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/default_check.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_light_bar_bg.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/button_all_city_select.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/button_all_city_select.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_renren_on.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_fetch_image.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_login_pressed.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/local_sel.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/local_sel.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_time.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_time.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_me_selected_b.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_me_selected_b.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/view_clear_text_bg_write.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/view_clear_text_bg_write.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/chat_from_bg_normal.9.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/chat_from_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_x_button.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_common_btn_small_blue_pressed.9.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_common_btn_small_blue_pressed.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_icon_arrow_right_pressed.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skin_icon_arrow_right_pressed.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_jian.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_jian.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_btn_i_want_jiehuo.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_btn_i_want_jiehuo.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/time_manager.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/time_manager.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/examining.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/examining.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_location_ic.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/start.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/start.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_recommend_selected_s.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_recommend_selected_s.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_common_btn_small_blue_unpressed.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skin_common_btn_small_blue_unpressed.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_five.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_five.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_qzone_off.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_light_bar_bg.9.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_message.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_message.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_more.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_more.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_pulish_s.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_pulish_s.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_login_normal.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_location_off.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/comment.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/comment.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_at_selected.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/system_custom_service.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/system_custom_service.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_bind_bg.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/head_up.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/head_up.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_qq_on.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_canle_push_need.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_canle_push_need.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_more_blue_66.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_more_blue_66.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_renren_on.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_douban_on.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_need_details_two.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_need_details_two.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_me_default.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_me_default.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_qq_on.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/official.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/official.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/examine_error.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/examine_error.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_tab_left_normal.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_location_on.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_sina_on.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_follow_off.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_recommend_default.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_recommend_default.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/goods_title_blue.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/goods_title_blue.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_diangmianzhifu.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_diangmianzhifu.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_more.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_more.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_search_icon.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/map_address_bg.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/map_address_bg.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_default_avatar.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/map_blue.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/map_blue.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_common_btn_small_blue_disabled.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skin_common_btn_small_blue_disabled.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_two.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_two.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/examine_success.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/examine_success.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/im_more_orange.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/im_more_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_qzone_on.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_jian.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_jian.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_one.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_one.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/head_up.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/head_up.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_map_user_mal.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_map_user_mal.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_system_message.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_system_message.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/chat_from_bg_normal.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/chat_from_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/sort_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/sort_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/login_one_picture.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/login_one_picture.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_login.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_login.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/service_safeguard.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/service_safeguard.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/head_up_blue.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/head_up_blue.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_three.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_three.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_btn_back_press.9.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_btn_back_press.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_sina_off.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_four.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_four.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_white.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/bg_loading_image.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/bg_loading_image.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommend_more_def.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/recommend_more_def.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/love.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/love.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_dangmianfu_blue.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_dangmianfu_blue.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_btn_press.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_btn_press.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_aio_input_bar_bg.9.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_aio_input_bar_bg.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/search_history_icon.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/search_history_icon.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_need_details_three.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/record_need_details_three.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_three.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_three.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_recommend_selected_b.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_recommend_selected_b.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_tx_on.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/color_rating_def.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/color_rating_def.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_search_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_search_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_sex_male.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_sex_male.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_time.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_time.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/sort_orange.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/sort_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/round_white.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/round_white.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_follow_off.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_wxcircle_gray.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_back_orange_66.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_back_orange_66.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_sel_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_sel_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_share.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/skill_share.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_pulish_b.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_pulish_b.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_back_blue_66.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_back_blue_66.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/login_four_picture.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/login_four_picture.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/advance_salary.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/advance_salary.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_tab_right_normal.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/goods_title_orange.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/goods_title_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/part_time_job_horizontal_add_normal.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/part_time_job_horizontal_add_normal.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_right_bt_selected.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_right_bt_selected.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_diangmianzhifu_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_diangmianzhifu_orange.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_wechat.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_icon_arrow_right_pressed.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_icon_arrow_right_pressed.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_push_need_six.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_push_need_six.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_back_bt_normal.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_header_btn_disable.9.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_header_btn_disable.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/part_time_job_horizontal_bg_normal.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/part_time_job_horizontal_bg_normal.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/me_need.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/me_need.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_button_blue.9.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/android_downloading.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/android_downloading.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/login_one_picture.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/login_one_picture.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_tab_right_pressed.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommenddetail_icon_introduction.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/recommenddetail_icon_introduction.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_map_user_mal.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_map_user_mal.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_qq_off.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_douban_on.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_map_user_def.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_map_user_def.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_search_blue.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_search_blue.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_back_bt_normal.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_share.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skill_share.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/im_more_blue.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/im_more_blue.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_two.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_splash_two.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_wechat.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/search_text_left.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/search_text_left.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/list_blue.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/list_blue.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_pulish_need.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_pulish_need.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/pick_up.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/pick_up.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/record_need_details_one.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/record_need_details_one.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/round_white.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/round_white.png"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_at_normal.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/head_up_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/head_up_orange.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_tx_on.png",
@@ -908,36 +1868,60 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_common_btn_small_blue_disabled.9.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_add.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_add.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_tab_right_normal.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_tab_right_normal.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_action_back_selected.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_action_back_selected.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/sorlistview_show_head_toast_bg.9.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/sorlistview_show_head_toast_bg.9.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_share_blue_66.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_share_blue_66.png"
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_tab_right_normal.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/recommenddetail_icon_count.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/recommenddetail_icon_count.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_gcoding.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_gcoding.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/im_more_blue.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/im_more_blue.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/examine_success.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/examine_success.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_title_tab_left_normal.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/search_orange.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/search_orange.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_oauth_check_off.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_oauth_check_off.png"
     },
     {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/umeng_socialize_wechat_gray.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/umeng_socialize_wechat_gray.png"
+    },
+    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/head_up_gray.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/head_up_gray.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/chat_to_bg_normal.9.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/chat_to_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_no_data.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/icon_no_data.png"
+    },
+    {
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/text_indicator.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/text_indicator.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skill_rate_bg.png",
@@ -948,28 +1932,20 @@
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/icon_back_orange_66.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/ios_downloading.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/ios_downloading.png"
-    },
-    {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/tab_icon_recommend_selected_s.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/tab_icon_recommend_selected_s.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/me_buy.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/me_buy.png"
-    },
-    {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_icon_arrow_right_normal.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_icon_arrow_right_normal.png"
+        "merged": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/btn_unselected.png",
+        "source": "/Users/zhangjianlong/sourcetreelocalpath/houge-develop/houge/src/main/res/drawable-xhdpi/btn_unselected.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/chat_time_bg.9.png",
         "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/chat_time_bg.9.png"
     },
     {
-        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/head_up_orange.png",
-        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/head_up_orange.png"
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/skin_icon_arrow_right_normal.png",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/drawable-xhdpi/skin_icon_arrow_right_normal.png"
     },
     {
         "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/drawable-xhdpi/icon_splash_login.9.png",
