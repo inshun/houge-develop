@@ -1,0 +1,404 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 用来存放actionbar的容器布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <!-- 头部公共模块 start -->
+
+            <RelativeLayout
+                android:id="@+id/rela_user_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_default"
+                android:paddingBottom="10dp"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:paddingTop="10dp" >
+
+                <!-- 头像 -->
+
+                <ImageView
+                    android:id="@+id/iv_avatar"
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:background="@drawable/shapa_sex_def"
+                    android:padding="1dp"
+                    android:src="@drawable/user_small" />
+
+                <LinearLayout
+                    android:id="@+id/line_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/iv_avatar"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_toRightOf="@+id/iv_avatar"
+                    android:divider="@drawable/shapa_driver_8dp"
+                    android:gravity="center_vertical"
+                    android:showDividers="middle" >
+
+                    <!-- 昵称 -->
+
+                    <TextView
+                        android:id="@+id/tv_nickname"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+
+                    <!-- 服务保障 -->
+
+                    <TextView
+                        android:id="@+id/tv_service_safeguard"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@color/color_service_safeguard"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:text="@string/service_safeguard"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/smail_text" />
+
+                    <!-- 学生认证 -->
+
+                    <TextView
+                        android:id="@+id/tv_student_auth"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@color/color_student_auth"
+                        android:paddingLeft="2dp"
+                        android:paddingRight="2dp"
+                        android:text="@string/student_auth"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/smail_text" />
+                </LinearLayout>
+
+                <!-- 评分 -->
+
+                <TextView
+                    android:id="@+id/tv_rate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/iv_avatar"
+                    android:layout_alignLeft="@+id/line_name"
+                    android:layout_marginBottom="8dp"
+                    android:layout_toRightOf="@+id/iv_avatar"
+                    android:drawablePadding="4dp"
+                    android:drawableRight="@drawable/start"
+                    android:gravity="center_vertical"
+                    android:textColor="@android:color/holo_orange_light"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginTop="10dp" />
+            <!-- 余额，评价以及喜欢的人模块 -->
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp" >
+
+                <!-- 余额外层线性布局 -->
+
+                <LinearLayout
+                    android:id="@+id/line_user_balance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal" >
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/balance" />
+                    <!-- 余额 -->
+
+                    <TextView
+                        android:id="@+id/tv_balance"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginRight="12dp"
+                        android:maxLength="10"
+                        android:textColor="@color/orange" />
+                </LinearLayout>
+                <!-- 留言 -->
+
+                <TextView
+                    android:id="@+id/tv_all_comment"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp"
+                    android:layout_alignParentRight="true"
+                    android:drawablePadding="4dp"
+                    android:drawableRight="@drawable/skill_level_message"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textColor="@color/gray_color"
+                    android:visibility="gone" />
+                <!-- 喜欢我的 -->
+
+                <TextView
+                    android:id="@+id/tv_love_me"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_marginRight="12dp"
+                    android:layout_toLeftOf="@+id/tv_all_comment"
+                    android:drawablePadding="4dp"
+                    android:drawableRight="@drawable/skill_love"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textColor="@color/gray_color"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginTop="30dp" />
+
+            <!-- 我购买的 -->
+
+            <RelativeLayout
+                android:id="@+id/rela_me_buy"
+                style="@style/me_rl_style"
+                android:layout_height="48dp" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:drawableLeft="@drawable/me_buy"
+                    android:drawablePadding="12dp"
+                    android:text="@string/me_buy" />
+
+                <TextView
+                    android:id="@+id/tv_me_buy_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/unread_bg"
+                    android:gravity="center"
+                    android:paddingLeft="4dp"
+                    android:paddingRight="4dp"
+                    android:textColor="@color/white"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <!-- 我的需求 -->
+
+            <RelativeLayout
+                android:id="@+id/rela_my_need"
+                style="@style/me_rl_style" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:drawableLeft="@drawable/me_need"
+                    android:drawablePadding="12dp"
+                    android:text="@string/my_need" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <!-- 收获地址管理 -->
+
+            <RelativeLayout
+                android:id="@+id/rela_add_manager"
+                style="@style/me_rl_style" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:drawableLeft="@drawable/address_manager"
+                    android:drawablePadding="12dp"
+                    android:text="@string/address_manger" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginTop="10dp" />
+
+            <!-- 我的发布 -->
+
+            <RelativeLayout
+                android:id="@+id/rela_me_seller"
+                style="@style/me_rl_style" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:drawableLeft="@drawable/me_sell"
+                    android:drawablePadding="12dp"
+                    android:text="@string/me_seller" />
+
+                <TextView
+                    android:id="@+id/tv_me_sell_count"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:background="@drawable/unread_bg"
+                    android:gravity="center"
+                    android:paddingLeft="4dp"
+                    android:paddingRight="4dp"
+                    android:textColor="@color/white"
+                    android:visibility="gone" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <!-- 我的技能 -->
+
+            <RelativeLayout
+                android:id="@+id/rela_me_skill"
+                style="@style/me_rl_style" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:drawableLeft="@drawable/me_skill"
+                    android:drawablePadding="12dp"
+                    android:text="@string/me_skill" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <!-- 时间管理 -->
+
+            <RelativeLayout android:id="@+id/rela_time_manager"
+                style="@style/me_rl_style"
+                android:visibility="gone" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:drawableLeft="@drawable/time_manager"
+                    android:drawablePadding="12dp"
+                    android:text="@string/time_manager" />
+            </RelativeLayout>
+
+
+            <!-- 接活地址 -->
+
+            <RelativeLayout android:id="@+id/rela_address"
+                style="@style/me_rl_style" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:drawableLeft="@drawable/icon_jiehuoaddress"
+                    android:drawablePadding="12dp"
+                    android:text="接活地址" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <!-- 预支工资 -->
+
+            <RelativeLayout
+                android:id="@+id/rela_advance_salary"
+                style="@style/me_rl_style"
+                android:visibility="gone" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:drawableLeft="@drawable/advance_salary"
+                    android:drawablePadding="12dp"
+                    android:text="@string/advance_salary" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" android:visibility="gone" />
+
+            <!-- 服务保障 -->
+
+            <RelativeLayout
+                android:id="@+id/rela_service_safeguard"
+                style="@style/me_rl_style" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:drawableLeft="@drawable/service_safeguard"
+                    android:drawablePadding="12dp"
+                    android:text="@string/service_safeguard" />
+
+                <TextView
+                    android:id="@+id/tv_safeguard_money"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15dp"
+                    android:textColor="@color/color_999999"
+                     />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginTop="10dp" />
+
+            <!-- 我的足迹 -->
+
+            <RelativeLayout
+                android:id="@+id/rela_my_footprint"
+                style="@style/me_rl_style" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:drawableLeft="@drawable/my_footprint"
+                    android:drawablePadding="12dp"
+                    android:text="@string/my_footprint" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <!-- 分享赚钱 -->
+
+            <RelativeLayout
+                android:id="@+id/rela_make_money_by_share"
+                style="@style/me_rl_style"
+                android:visibility="gone" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:drawableLeft="@drawable/make_money_by_share"
+                    android:drawablePadding="12dp"
+                    android:text="@string/make_money_by_share" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" android:visibility="gone" />
+
+            <View
+                style="@style/lineStyle"
+                android:layout_height="30dp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

@@ -1,0 +1,347 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <!-- 用来存放actionbar的容器布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/color_e5e5e5"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:padding="10dp">
+
+                <!-- 商品图片 -->
+
+                <ImageView
+                    android:id="@+id/iv_order_img"
+                    android:layout_width="80dp"
+                    android:layout_height="80dp"
+                    android:contentDescription="@null"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/defaultpic"/>
+
+                <!-- 订单名称 -->
+
+                <TextView
+                    android:id="@+id/tv_order_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="12dp"
+                    android:layout_marginRight="12dp"
+                    android:layout_marginTop="10dp"
+                    android:layout_toRightOf="@+id/iv_order_img"
+                    android:singleLine="true"/>
+
+                <!-- 总金额 -->
+
+                <TextView
+                    android:id="@+id/tv_order_total"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/iv_order_img"
+                    android:layout_marginBottom="8dp"
+                    android:layout_marginLeft="12dp"
+                    android:layout_marginRight="12dp"
+                    android:layout_toRightOf="@+id/iv_order_img"
+                    android:textColor="@color/color_app_theme_orange_bg"
+                    android:textSize="20sp"/>
+            </RelativeLayout>
+
+            <View style="@style/lineStyle"/>
+            <!-- 安全协议 -->
+
+            <TextView
+                android:id="@+id/tv_order_safe_deal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/color_333333"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="@string/safety_promise"
+                android:textColor="@color/white"
+                android:textSize="@dimen/smail_text"
+                android:visibility="gone"/>
+
+            <!-- 优惠券 -->
+
+            <TextView
+                android:id="@+id/tv_order_choose_coupon"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/color_333333"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="@string/choose_discount_coupon"
+                android:textColor="@color/white"
+                android:textSize="@dimen/smail_text"
+                android:visibility="gone"/>
+
+            <LinearLayout
+                android:id="@+id/line_add_and_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:orientation="vertical">
+
+                <View
+                    style="@style/lineStyle"/>
+
+                <LinearLayout
+                    android:id="@+id/line_order_contact_way"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/btn_default"
+                    android:divider="@drawable/shapa_driver_8dp"
+                    android:gravity="center_vertical"
+                    android:minHeight="48dp"
+                    android:padding="10dp"
+                    android:showDividers="middle">
+
+                    <ImageView
+                        android:id="@+id/imageView1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/icon_add"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/contact_way"/>
+
+                    <!-- 联系方式 -->
+
+                    <TextView
+                        android:id="@+id/tv_order_contact_way"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:hint="@string/choose_contact_way"
+                        android:lineSpacingExtra="4dp"/>
+                </LinearLayout>
+
+                <View style="@style/lineStyle"/>
+
+                <LinearLayout
+                    android:id="@+id/line_order_service_time"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/btn_default"
+                    android:divider="@drawable/shapa_driver_8dp"
+                    android:gravity="center_vertical"
+                    android:minHeight="48dp"
+                    android:padding="10dp"
+                    android:showDividers="middle">
+
+                    <ImageView
+                        android:id="@+id/imageView2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/icon_time"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/server_time"/>
+
+                    <!-- 服务时间 -->
+
+                    <TextView
+                        android:id="@+id/tv_order_service_time"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:hint="@string/choose_sercer_time"/>
+                </LinearLayout>
+
+                <View style="@style/lineStyle"/>
+            </LinearLayout>
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginTop="10dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_default"
+                android:divider="@drawable/shapa_driver_8dp"
+                android:gravity="center_vertical"
+                android:minHeight="48dp"
+                android:padding="10dp"
+                android:showDividers="middle">
+
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icon_beizhu"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/memo_explain"/>
+
+                <!-- 备注 -->
+
+                <com.ysp.houge.widget.ClearEditText
+                    android:id="@+id/tv_order_memo"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@null"
+                    android:maxLength="120"
+                    android:maxLines="4"
+                    android:minHeight="28dp"
+                    android:textSize="14sp"/>
+            </LinearLayout>
+
+            <View style="@style/lineStyle"/>
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginTop="10dp"/>
+
+            <!-- 支付宝支付 -->
+
+            <LinearLayout
+                android:id="@+id/line_order_pay_way_alipay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_default"
+                android:divider="@drawable/shapa_driver_8dp"
+                android:gravity="center_vertical"
+                android:minHeight="48dp"
+                android:padding="10dp"
+                android:showDividers="middle">
+
+                <ImageView
+                    android:id="@+id/iv_icon_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@null"
+                    android:src="@drawable/icon_zhifubao"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/pay_way_alipay"/>
+
+                <ImageView
+                    android:id="@+id/iv_order_alipay_choose_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@null"/>
+            </LinearLayout>
+
+            <View style="@style/lineStyle"/>
+
+            <!-- 当面支付 -->
+
+            <LinearLayout
+                android:id="@+id/line_order_pay_way_face_to_face"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_default"
+                android:divider="@drawable/shapa_driver_8dp"
+                android:gravity="center_vertical"
+                android:minHeight="48dp"
+                android:padding="10dp"
+                android:showDividers="middle">
+
+                <ImageView
+                    android:id="@+id/iv_icon_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@null"
+                    android:src="@drawable/icon_diangmianzhifu"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/pay_by_face_to_face"/>
+
+                <ImageView
+                    android:id="@+id/iv_order_face_to_face_choose_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@null"/>
+            </LinearLayout>
+
+            <View style="@style/lineStyle"/>
+
+            <!-- 余额支付 -->
+
+            <LinearLayout
+                android:id="@+id/line_order_pay_way_balance"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_default"
+                android:divider="@drawable/shapa_driver_8dp"
+                android:gravity="center_vertical"
+                android:minHeight="48dp"
+                android:padding="10dp"
+                android:showDividers="middle">
+
+                <ImageView
+                    android:id="@+id/iv_icon_3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@null"
+                    android:src="@drawable/icon_yuer"/>
+
+                <TextView
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/pay_by_balance"/>
+
+                <TextView
+                    android:id="@+id/tv_balance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_e5e5e5"/>
+
+                <ImageView
+                    android:id="@+id/iv_order_balance_choose_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@null"/>
+            </LinearLayout>
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginBottom="10dp"/>
+        </LinearLayout>
+    </ScrollView>
+
+    <View style="@style/lineStyle"/>
+
+    <TextView
+        android:id="@+id/tv_order_pay"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/btn_default"
+        android:gravity="center"
+        android:text="@string/pay"
+        android:textColor="@color/color_app_theme_orange_bg"
+        android:textSize="16sp"/>
+
+</LinearLayout>

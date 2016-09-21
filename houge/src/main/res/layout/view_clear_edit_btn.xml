@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/mSearchLayout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/activity_bg" >
+
+    <RelativeLayout
+        android:id="@+id/mSearch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_margin="10dp"
+        android:layout_toLeftOf="@+id/mSearchBtn"
+        android:background="@drawable/view_clear_text_bg_write" >
+
+        <ImageView
+            android:id="@+id/mClearLeftImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:scaleType="fitXY"
+            android:src="@drawable/view_clear_left_img" />
+
+        <EditText
+            android:id="@+id/mClearText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toLeftOf="@+id/mClearImg"
+            android:layout_toRightOf="@+id/mClearLeftImg"
+            android:background="@null"
+            android:hint="请输入内容"
+            android:paddingLeft="10dp"
+            android:singleLine="true"
+            android:textColor="@color/color_7d7d7d"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/mClearImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="5dp"
+            android:scaleType="matrix"
+            android:src="@drawable/clear"
+            android:visibility="invisible" />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/mSearchBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dip"
+        android:background="@null"
+        android:paddingBottom="5dip"
+        android:paddingTop="5dip"
+        android:text="搜索"
+        android:textColor="@color/color_3474ba"
+        android:textSize="14sp" />
+
+    <View
+        android:id="@+id/mDivider"
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_below="@+id/mSearch"
+        android:background="@color/color_e5e5e5" />
+
+</RelativeLayout>

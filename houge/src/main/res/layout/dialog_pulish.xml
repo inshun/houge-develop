@@ -1,0 +1,70 @@
+<LinearLayout android:id="@+id/line_out_side_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="80dp">
+
+    <LinearLayout
+        android:id="@+id/line_pulish_skill"
+        android:layout_width="120dp"
+        android:layout_height="135dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="35dp"
+        android:background="@drawable/shapa_orange_radius"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="12dp"
+        android:paddingTop="12dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_pulish_skill"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="发布技能"
+            android:textColor="@color/white"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="有技能就能赚钱"
+            android:textColor="@color/white"
+            android:textSize="@dimen/smail_text"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/line_pulish_need"
+        android:layout_width="120dp"
+        android:layout_height="135dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="35dp"
+        android:background="@drawable/shapa_blue_radius"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="12dp"
+        android:paddingTop="12dp">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_pulish_need"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="发布需求"
+            android:textColor="@color/white"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="让服务者找上您"
+            android:textColor="@color/white"
+            android:textSize="@dimen/smail_text"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/src/main/assets"/><source path="/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/src/debug/assets"/></dataSet></merger>

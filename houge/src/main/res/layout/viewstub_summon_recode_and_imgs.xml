@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 召唤时录音以及图片的 ViewStub 延迟加载布局 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:paddingBottom="10dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:paddingTop="10dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <!-- 录音 -->
+
+        <ImageView
+            android:id="@+id/iv_recode"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:visibility="gone" />
+
+        <!-- 第一张图片 -->
+
+        <ImageView
+            android:id="@+id/iv_img_one"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:scaleType="centerCrop" />
+
+        <!-- 第二张图片 -->
+
+        <ImageView
+            android:id="@+id/iv_img_two"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:scaleType="centerCrop" />
+        <!-- 第三张图片 -->
+
+        <ImageView
+            android:id="@+id/iv_img_three"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:scaleType="centerCrop" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_delete_img_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:text="*  图片长按可以删除哦"
+        android:textColor="@color/color_adadad"
+        android:textSize="@dimen/smail_text" />
+
+        <!--android:text="录音点击试听,长按可以删除哦"-->
+</LinearLayout>

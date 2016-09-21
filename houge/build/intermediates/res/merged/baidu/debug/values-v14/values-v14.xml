@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="publshskillprice">20dp</dimen>
+    <string name="publish_skill_price_name">售价</string>
+    <string name="publish_skill_price_unit">/</string>
+    <string name="test">返回按钮</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style>
+</resources>

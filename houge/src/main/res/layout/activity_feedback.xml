@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 用来存放actionbar的容器布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/et_feedback"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dip"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/borner_gray"
+        android:gravity="top"
+        android:hint="@string/feedback_hint"
+        android:maxLength="180"
+        android:minHeight="150dip"
+        android:padding="10dp"
+        android:textSize="14sp" />
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:id="@+id/bt_submit"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/btn_default"
+        android:gravity="center"
+        android:text="@string/submit"
+        android:textSize="16sp" />
+
+    <View style="@style/lineStyle" />
+
+</LinearLayout>

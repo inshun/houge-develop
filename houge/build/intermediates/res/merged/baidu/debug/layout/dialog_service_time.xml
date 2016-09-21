@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.ysp.houge.widget.HorizontalListView
+        android:id="@+id/lv_date"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:scrollbars="none" >
+    </com.ysp.houge.widget.HorizontalListView>
+
+    <GridView
+        android:id="@+id/gv_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="0dp"
+        android:listSelector="@color/color_00ffffff"
+        android:numColumns="4"
+        android:padding="0dp"
+        android:scrollbars="none" >
+    </GridView>
+
+</LinearLayout>

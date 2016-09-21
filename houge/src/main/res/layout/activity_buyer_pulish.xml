@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <!-- 存放actionbar的布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/rl_actionbar"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:id="@+id/line_out_side_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+          <!--  <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:padding="20dp"
+                android:text="@string/summon_is_free"/>-->
+
+            <View style="@style/lineStyle"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/summon"/>
+
+                <!-- 召唤标题 -->
+
+                <EditText
+                    android:id="@+id/et_summon_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_marginLeft="20dp"
+                    android:background="@null"
+                    android:hint="@string/summon_hint"
+                    android:maxLength="18"
+                    android:singleLine="true"
+                    android:textSize="14sp">
+
+                    <requestFocus/>
+                </EditText>
+            </LinearLayout>
+
+            <View style="@style/lineStyle"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/expand"/>
+
+                <!-- 召唤详情 -->
+
+                <EditText
+                    android:id="@+id/et_summon_expand"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:hint="@string/xpand_hint"
+                    android:minHeight="48dp"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="2dp"
+                    android:textSize="14sp"/>
+            </LinearLayout>
+
+            <!-- 语音及图片 -->
+
+            <ViewStub
+                android:id="@+id/vs_voice_and_img"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout="@layout/viewstub_summon_recode_and_imgs"/>
+
+            <View style="@style/lineStyle"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:orientation="horizontal"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/service_pay"/>
+
+                <!-- 单价 -->
+
+                <EditText
+                    android:id="@+id/et_pay_num"
+                    android:layout_width="0dp"
+                    android:layout_height="48dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:hint="@string/price"
+                    android:inputType="numberDecimal"
+                    android:maxLength="8"
+                    android:singleLine="true"
+                    android:textSize="14sp"/>
+            </LinearLayout>
+
+            <View style="@style/lineStyle"/>
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginTop="10dp"/>
+
+            <LinearLayout
+                android:id="@+id/line_server_date"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:background="@drawable/btn_default"
+                android:orientation="horizontal"
+                android:padding="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/server_time"/>
+
+                <!-- 服务时间 -->
+
+                <TextView
+                    android:id="@+id/tv_server_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:background="@null"
+                    android:hint="@string/choose_sercer_time"
+                    android:singleLine="true"/>
+            </LinearLayout>
+
+            <View style="@style/lineStyle"/>
+
+            <LinearLayout
+                android:id="@+id/line_contact_way"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_default"
+                android:minHeight="48dp"
+                android:orientation="horizontal"
+                android:padding="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/contact_way"/>
+
+                <!-- 服务地点 -->
+
+                <TextView
+                    android:id="@+id/tv_contact_way"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:background="@null"
+                    android:hint="@string/choose_contact_way"
+                    android:maxLines="4"/>
+            </LinearLayout>
+
+
+
+            <!-- 下一步 -->
+
+            <TextView
+                android:layout_marginTop="20dp"
+                android:id="@+id/tv_next_step"
+                android:layout_width="match_parent"
+                android:layout_height="48dip"
+                android:background="@drawable/btn_default"
+                android:gravity="center"
+                android:text="发布"/>
+
+            <View style="@style/lineStyle"/>
+
+            <ImageButton
+                android:id="@+id/ibtn_pick"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="20dp"
+                android:background="@null"
+                android:scaleType="centerInside"
+                android:src="@drawable/pick_up"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

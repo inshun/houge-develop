@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/btn_default"
+    android:divider="@drawable/shapa_driver_8dp"
+    android:orientation="vertical"
+    android:paddingBottom="12dp"
+    android:paddingTop="12dp"
+    android:showDividers="middle" >
+
+    <TextView
+        android:id="@+id/tv_audit_mes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/status_text_bg"
+        android:paddingBottom="8dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:paddingTop="8dp"
+        android:textColor="@color/status_text"
+        android:textSize="@dimen/smail_text"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <!-- 状态 -->
+
+        <TextView
+            android:id="@+id/tv_skill_status"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:gravity="center"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:textColor="@color/color_app_theme_orange_bg" />
+
+
+        <ImageView
+            android:id="@+id/iv_more"
+            android:layout_width="40dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:scaleType="centerInside"
+            android:src="@drawable/icon_more" />
+
+        <!-- 留言数量 -->
+
+       <!-- <TextView
+            android:id="@+id/tv_leave_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:drawablePadding="8dp"
+            android:drawableRight="@drawable/skill_level_message"
+            android:textColor="@color/color_e5e5e5" />-->
+
+        <!-- 赞的数量 -->
+
+       <!-- <TextView
+            android:id="@+id/tv_zan_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_toLeftOf="@+id/tv_leave_count"
+            android:drawablePadding="8dp"
+            android:drawableRight="@drawable/skill_love"
+            android:textColor="@color/color_e5e5e5" />-->
+    </RelativeLayout>
+
+
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp">
+
+        <!-- 技能名称 -->
+
+        <TextView
+            android:id="@+id/tv_skill_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true" />
+
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp">
+
+        <!-- 价格单位 -->
+
+        <TextView
+            android:id="@+id/tv_skill_unit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <!-- 已售数量 -->
+
+        <TextView
+            android:id="@+id/tv_sell_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true" />
+    </RelativeLayout>
+
+
+
+    <HorizontalScrollView
+        android:id="@+id/hsv_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:scrollbars="none"
+        android:visibility="gone" >
+
+        <LinearLayout
+            android:id="@+id/line_img_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@color/white"
+            android:divider="@drawable/shapa_driver_8dp"
+            android:orientation="horizontal"
+            android:showDividers="middle" >
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <!-- 描述 -->
+        <TextView
+            android:id="@+id/tv_skill_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="4"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp" />
+    </RelativeLayout>
+
+    <View style="@style/lineStyle"/>
+
+
+</LinearLayout>

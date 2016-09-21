@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/btn_default"
+    android:divider="@drawable/shapa_driver_8dp"
+    android:orientation="horizontal"
+    android:paddingBottom="12dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:paddingTop="12dp"
+    android:showDividers="middle" >
+
+    <ImageView
+        android:id="@+id/iv_user_avatar"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/shapa_sex_mal"
+        android:contentDescription="@null"
+        android:padding="1dp"
+        android:src="@drawable/user_small" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:orientation="vertical"
+        android:showDividers="middle" >
+
+        <!-- 评论标题 -->
+
+        <TextView
+            android:id="@+id/tv_commnet_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:singleLine="true" />
+
+        <!-- 评论主体 -->
+
+        <TextView
+            android:id="@+id/tv_comment_body"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:maxLines="2" />
+
+        <!-- 评论日期 -->
+
+        <TextView
+            android:id="@+id/tv_comment_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+
+</LinearLayout>

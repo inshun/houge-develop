@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 用来存放actionbar的容器布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <!-- 头像 -->
+
+            <RelativeLayout
+                android:id="@+id/rl_face"
+                style="@style/me_rl_style"
+                android:layout_height="65dp" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:text="@string/avatar" />
+
+                <!-- 头像 -->
+
+                <ImageView
+                    android:id="@+id/iv_face"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:scaleType="fitXY" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <!-- 昵称 -->
+
+            <RelativeLayout
+                android:id="@+id/rl_nickName"
+                style="@style/me_rl_style" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:text="@string/nick" />
+
+                <ImageView
+                    android:id="@+id/iv_narrow1"
+                    style="@style/me_right_narrow_style" />
+
+                <!-- 昵称 -->
+
+                <TextView
+                    android:id="@+id/tv_nickName"
+                    style="@style/me_right_text_style"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="8dip"
+                    android:layout_toLeftOf="@+id/iv_narrow1" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <View style="@style/lineStyle" />
+
+            <!-- 性别 -->
+
+            <RelativeLayout
+                android:id="@+id/rl_sex"
+                style="@style/me_rl_style" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:text="@string/sex" />
+
+                <ImageView
+                    android:id="@+id/iv_narrow3"
+                    style="@style/me_right_narrow_style" />
+
+                <TextView
+                    android:id="@+id/tv_sex"
+                    style="@style/me_right_text_style"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="8dip"
+                    android:layout_toLeftOf="@+id/iv_narrow3" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginTop="20dp" />
+
+            <!-- 实名认证 -->
+
+            <RelativeLayout
+                android:id="@+id/rl_auth"
+                style="@style/me_rl_style" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:text="@string/authentication" />
+
+                <ImageView
+                    android:id="@+id/iv_narrow4"
+                    style="@style/me_right_narrow_style" />
+
+                <TextView
+                    android:id="@+id/tv_auth"
+                    style="@style/me_right_text_style"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="8dip"
+                    android:layout_toLeftOf="@+id/iv_narrow4" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <!-- 学生认证 -->
+
+            <RelativeLayout
+                android:id="@+id/rl_student_auth"
+                style="@style/me_rl_style" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:text="@string/student_auth" />
+
+                <ImageView
+                    android:id="@+id/iv_narrow5"
+                    style="@style/me_right_narrow_style" />
+
+                <TextView
+                    android:id="@+id/tv_student_auth"
+                    style="@style/me_right_text_style"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="8dip"
+                    android:layout_toLeftOf="@+id/iv_narrow5" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <!-- 企业认证 -->
+
+            <RelativeLayout
+                android:id="@+id/rl_company_auth"
+                style="@style/me_rl_style" >
+
+                <TextView
+                    style="@style/me_left_text_style"
+                    android:text="@string/company_auth" />
+
+                <ImageView
+                    android:id="@+id/iv_narrow6"
+                    style="@style/me_right_narrow_style" />
+
+                <TextView
+                    android:id="@+id/tv_company_auth"
+                    style="@style/me_right_text_style"
+                    android:layout_marginLeft="8dip"
+                    android:layout_marginRight="8dip"
+                    android:layout_toLeftOf="@+id/iv_narrow6" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

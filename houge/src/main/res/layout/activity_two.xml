@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF">
+    <!--因为图片太小，所以背景用白色， 而且SB的是图片模糊，分辨率太低，想换找老板撕逼-->
+
+    <RelativeLayout
+        android:id="@+id/rela_vp_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="500dp" >
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/vp_skill_imgs"
+            android:layout_width="fill_parent"
+            android:layout_height="500dp" >
+        </android.support.v4.view.ViewPager>
+
+        <com.ysp.houge.widget.EmoDotView
+            android:id="@+id/mEmoDotView"
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="8dp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="35dp">
+
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="160dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="17dp"
+            android:background="@drawable/icon_splash_login"
+            android:textSize="20sp"
+            android:textColor="@color/album_list_feeditem_sel"
+            android:text="登录"/>
+        <Button
+            android:id="@+id/btn_register"
+            android:layout_width="160dp"
+            android:layout_height="50dp"
+            android:textSize="20sp"
+            android:textColor="@color/album_list_feeditem_sel"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/icon_splash_register"
+            android:text="注册"/>
+
+    </LinearLayout>
+</RelativeLayout>

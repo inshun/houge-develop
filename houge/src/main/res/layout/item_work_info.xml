@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/tv_work_info_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@+id/tv_work_info_delete"
+            android:text="dhfsdlf"
+            android:textColor="@color/color_999999"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_work_info_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="@string/delete"
+            android:textColor="@color/color_999999"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <HorizontalScrollView
+        android:id="@+id/mHorizontalScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dip"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <com.ysp.houge.widget.ImageViewSubClass
+                android:id="@+id/mImg1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dip"
+                android:scaleType="centerCrop" />
+
+            <com.ysp.houge.widget.ImageViewSubClass
+                android:id="@+id/mImg2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dip"
+                android:scaleType="centerCrop" />
+
+            <com.ysp.houge.widget.ImageViewSubClass
+                android:id="@+id/mImg3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dip"
+                android:scaleType="centerCrop" />
+
+            <com.ysp.houge.widget.ImageViewSubClass
+                android:id="@+id/mImg4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dip"
+                android:scaleType="centerCrop" />
+
+            <com.ysp.houge.widget.ImageViewSubClass
+                android:id="@+id/mImg5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dip"
+                android:scaleType="centerCrop" />
+
+            <com.ysp.houge.widget.ImageViewSubClass
+                android:id="@+id/mImg6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dip"
+                android:scaleType="centerCrop" />
+
+            <com.ysp.houge.widget.ImageViewSubClass
+                android:id="@+id/mImg7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dip"
+                android:scaleType="centerCrop" />
+
+            <com.ysp.houge.widget.ImageViewSubClass
+                android:id="@+id/mImg8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dip"
+                android:scaleType="centerCrop" />
+
+            <com.ysp.houge.widget.ImageViewSubClass
+                android:id="@+id/mImg9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="5dip"
+                android:scaleType="centerCrop" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <TextView
+        android:id="@+id/tv_work_info_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dip"
+        android:layout_toLeftOf="@+id/tv_work_info_delete"
+        android:text="dhfsdlf"
+        android:textColor="@color/color_999999"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/tv_system_message_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dip"
+        android:gravity="right"
+        android:text="6月2日"
+        android:textColor="@color/color_999999"
+        android:textSize="16sp" />
+
+</LinearLayout>

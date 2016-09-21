@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/btn_default"
+    android:divider="@drawable/shapa_driver_8dp"
+    android:orientation="vertical"
+    android:paddingBottom="12dp"
+    android:paddingTop="12dp"
+    android:showDividers="middle" >
+
+    <!-- 审核消息 -->
+
+    <TextView
+        android:id="@+id/tv_audit_mes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/status_text_bg"
+        android:paddingBottom="8dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:paddingTop="8dp"
+        android:textColor="@color/status_text"
+        android:textSize="@dimen/smail_text" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp" >
+
+        <!-- 状态 -->
+
+        <TextView
+            android:id="@+id/tv_need_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/red" />
+
+
+        <!-- 重新编辑 -->
+
+        <TextView
+            android:id="@+id/tv_need_reedit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:paddingBottom="4dp"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:paddingTop="4dp"
+            android:text="@string/delete" />
+    </RelativeLayout>
+
+    <View
+        style="@style/lineStyle"
+        android:layout_height="2dp" />
+
+    <LinearLayout
+        android:id="@+id/line_need_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:showDividers="middle" >
+
+        <!-- 需求图片 -->
+
+        <ImageView
+            android:id="@+id/iv_need_img"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:contentDescription="@null"
+            android:scaleType="centerCrop"
+            android:src="@drawable/defaultpic" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@drawable/shapa_driver_8dp"
+            android:orientation="vertical"
+            android:showDividers="middle" >
+
+            <!-- 名字 -->
+
+            <TextView
+                android:id="@+id/tv_need_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxLines="2" />
+
+            <!-- 需求金额 -->
+
+            <TextView
+                android:id="@+id/tv_need_money"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

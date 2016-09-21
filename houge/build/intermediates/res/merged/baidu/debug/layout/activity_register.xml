@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 用来存放actionbar的容器布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:showDividers="middle" >
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:text="@string/phone_number" />
+
+        <!-- 手机号 -->
+
+        <com.ysp.houge.widget.ClearEditText
+            android:id="@+id/cet_phone_num"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="@string/please_input_telephone"
+            android:inputType="phone"
+            android:maxLength="11"
+            android:textSize="14sp" >
+
+            <requestFocus />
+        </com.ysp.houge.widget.ClearEditText>
+    </LinearLayout>
+
+    <View style="@style/lineStyle" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        android:background="@color/white"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:showDividers="middle" >
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_default"
+            android:text="@string/check_code"
+            android:textSize="14sp" />
+
+        <!-- 验证码 -->
+
+        <EditText
+            android:id="@+id/et_code"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:hint="@string/please_input_checkcode"
+            android:inputType="number"
+            android:maxLength="4"
+            android:textSize="14sp" >
+        </EditText>
+
+        <View
+            style="@style/lineStyle"
+            android:layout_width="1dp"
+            android:layout_height="36dp"
+            android:layout_marginBottom="6dp"
+            android:layout_marginTop="6dp" />
+
+        <!-- 发送验证码 -->
+
+        <Button
+            android:id="@+id/btn_get_code"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:background="@drawable/btn_default"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip"
+            android:text="@string/send_check_code"
+            android:textColor="@color/color_555555"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <View style="@style/lineStyle" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:showDividers="middle" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:showDividers="middle" >
+
+        <TextView
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:text="@string/set_password2" />
+
+        <!-- 密码 -->
+
+        <com.ysp.houge.widget.ClearEditText
+            android:id="@+id/cet_password"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="@string/password_hint"
+            android:inputType="textPassword"
+            android:maxLength="16"
+            android:textSize="14sp" >
+        </com.ysp.houge.widget.ClearEditText>
+    </LinearLayout>
+
+    <View style="@style/lineStyle" />
+
+    <!-- 语音短信 -->
+
+    <TextView
+        android:id="@+id/tv_send_voice_sms"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:gravity="center_horizontal"
+        android:visibility="gone" />
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginTop="60dip" />
+
+    <Button
+        android:id="@+id/btn_next"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/btn_default"
+        android:gravity="center"
+        android:padding="10dip"
+        android:text="@string/next_step"
+        android:textColor="@color/color_555555"
+        android:textSize="16sp" />
+
+    <View style="@style/lineStyle" />
+
+</LinearLayout>

@@ -1,0 +1,458 @@
+<android.support.v4.widget.SwipeRefreshLayout android:id="@+id/mRefreshListView"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_eaeaea">
+
+    <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <!-- 订单状态 -->
+
+            <TextView
+                android:id="@+id/tv_status_desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/status_text_bg"
+                android:maxLines="3"
+                android:paddingBottom="8dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="8dp"
+                android:textColor="@color/status_text"
+                android:textSize="@dimen/smail_text" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp" >
+
+                <TextView
+                    android:id="@+id/tv_order_status"
+                    android:layout_width="0dp"
+                    android:layout_height="50dp"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/color_app_theme_orange_bg" />
+
+                <Button
+
+                    android:id="@+id/btn_status_operate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp"
+                    android:background="@drawable/shapa_orange_radius"
+                    android:gravity="center"
+                    android:minWidth="80dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:textColor="@color/white"
+
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <View style="@style/lineStyle" />
+
+            <LinearLayout
+                android:id="@+id/line_good"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_default"
+                android:divider="@drawable/shapa_driver_8dp"
+                android:gravity="center_vertical"
+                android:padding="10dp"
+                android:showDividers="middle" >
+
+                <!-- 订单图片 -->
+
+                <ImageView
+                    android:id="@+id/iv_order_details_img"
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
+                    android:contentDescription="@null"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/defaultpic" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="65dp"
+                    android:layout_weight="1"
+                    android:divider="@drawable/shapa_driver_8dp"
+                    android:orientation="vertical"
+                    android:showDividers="middle" >
+
+                    <!-- 订单名称 -->
+
+                    <TextView
+                        android:id="@+id/tv_order_details_title"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true" />
+
+                    <!-- 订单价格 -->
+
+                    <TextView
+                        android:id="@+id/tv_order_details_price"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:textColor="@color/color_app_theme_orange_bg" />
+
+                    <!-- 订单计价单位 -->
+
+                    <TextView
+                        android:id="@+id/tv_order_details_unit"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:singleLine="true"
+                        android:textColor="@color/color_e5e5e5"
+                        android:textSize="@dimen/smail_text" />
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/btn_change_price"
+                    android:layout_width="60dp"
+                    android:layout_height="35dp"
+                    android:background="@drawable/btn_light_gray_normal"
+                    android:gravity="center"
+                    android:text="@string/change_price"
+                    android:textColor="@color/color_999999"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <View style="@style/lineStyle" />
+
+            <!-- 服务人员信息 -->
+
+            <LinearLayout
+                android:id="@+id/line_service_user"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/btn_default"
+                android:divider="@drawable/shapa_driver_8dp"
+                android:gravity="center_vertical"
+                android:paddingBottom="8dp"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:paddingTop="8dp"
+                android:showDividers="middle" >
+
+                <!-- 服务人员头像 -->
+
+                <ImageView
+                    android:id="@+id/iv_servicer_icon"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:background="@drawable/shapa_sex_def"
+                    android:contentDescription="@null"
+                    android:padding="1dp"
+                    android:src="@drawable/user_small" />
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:orientation="vertical" >
+
+                    <!-- 服务人员名称 -->
+
+                    <TextView
+                        android:id="@+id/tv_servicer_nick"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:divider="@drawable/shapa_driver_8dp"
+                        android:showDividers="middle" >
+
+                        <!-- 评级 -->
+
+                        <TextView
+                            android:id="@+id/tv_rate"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@color/color_app_theme_orange_bg"
+                            android:paddingLeft="2dp"
+                            android:paddingRight="2dp"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/smail_text" />
+
+                        <!-- 服务保障 -->
+
+                        <TextView
+                            android:id="@+id/tv_service_safeguard"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@android:color/holo_green_light"
+                            android:paddingLeft="2dp"
+                            android:paddingRight="2dp"
+                            android:text="@string/service_safeguard"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/smail_text"
+                            android:visibility="gone" />
+
+                        <!-- 认证 -->
+
+                        <TextView
+                            android:id="@+id/tv_auth"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:background="@android:color/holo_blue_light"
+                            android:paddingLeft="2dp"
+                            android:paddingRight="2dp"
+                            android:text="@string/student_auth"
+                            android:textColor="@color/white"
+                            android:textSize="@dimen/smail_text"
+                            android:visibility="gone" />
+                    </LinearLayout>
+                </LinearLayout>
+
+                <!-- 打电话 -->
+
+                <ImageView
+                    android:id="@+id/iv_call_phone"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:contentDescription="@null"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/icon_phone" />
+
+                <!-- 发送短信 -->
+
+                <ImageView
+                    android:id="@+id/iv_send_message"
+                    android:layout_width="35dp"
+                    android:layout_height="35dp"
+                    android:contentDescription="@null"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/icon_message" />
+            </LinearLayout>
+
+            <View style="@style/lineStyle" />
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginTop="20dp" />
+
+            <!-- 订单详细信息 -->
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:padding="10dp" >
+
+                <!-- 订单号 -->
+
+                <TextView
+                    android:id="@+id/tv_order_num"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/color_e5e5e5"
+                    android:textSize="@dimen/smail_text" />
+
+                <!-- 订单时间 -->
+
+                <TextView
+                    android:id="@+id/tv_order_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:textColor="@color/color_e5e5e5"
+                    android:textSize="@dimen/smail_text" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+            <!-- 联系方式 -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:divider="@drawable/shapa_driver_8dp"
+                android:gravity="center_vertical"
+                android:minHeight="48dp"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:showDividers="middle" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@null"
+                    android:src="@drawable/recommenddetail_icon_place" />
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/contact_way"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/tv_service_contanct_way"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginLeft="10dp" />
+
+            <!-- 服务时间 -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:divider="@drawable/shapa_driver_8dp"
+                android:gravity="center_vertical"
+                android:minHeight="48dp"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:showDividers="middle" >
+
+                <ImageView
+                    android:id="@+id/imageView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@null"
+                    android:src="@drawable/recommenddetail_icon_time" />
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/server_time"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/tv_service_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginLeft="10dp" />
+
+            <!-- 备注 -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:divider="@drawable/shapa_driver_8dp"
+                android:gravity="center_vertical"
+                android:minHeight="48dp"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:showDividers="middle" >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@null"
+                    android:src="@drawable/recommenddetail_icon_introduction" />
+
+                <TextView
+                    android:layout_width="60dp"
+                    android:layout_height="wrap_content"
+                    android:text="@string/memo_explain"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/tv_service_memo"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <View style="@style/lineStyle" />
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginTop="10dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:divider="@drawable/shapa_driver_8dp"
+                android:gravity="center_vertical"
+                android:minHeight="48dp"
+                android:orientation="horizontal"
+                android:padding="10dp"
+                android:showDividers="middle" >
+
+                <!-- 支付方式图标 -->
+
+                <ImageView
+                    android:id="@+id/iv_pay_way_icon"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:contentDescription="@null" />
+
+                <!-- 支付方式以及价格文本 -->
+
+                <TextView
+                    android:id="@+id/tv_service_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:textSize="12sp" />
+            </LinearLayout>
+
+            <View style="@style/lineStyle" />
+
+            <LinearLayout
+                android:id="@+id/line_cancle_order_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <View
+                    style="@style/lineStyle"
+                    android:layout_marginTop="10dp" />
+
+                <!-- 取消订单 -->
+
+                <TextView
+                    android:id="@+id/tv_cancle_order"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/btn_default"
+                    android:gravity="center"
+                    android:minHeight="48dp"
+                    android:text="@string/cancle_order"
+                    android:textSize="16sp" />
+
+                <View style="@style/lineStyle" />
+            </LinearLayout>
+
+            <View
+                style="@style/lineStyle"
+                android:layout_height="60dp" />
+        </LinearLayout>
+
+    </ScrollView>
+</android.support.v4.widget.SwipeRefreshLayout>

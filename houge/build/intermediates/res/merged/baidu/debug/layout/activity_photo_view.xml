@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black" >
+
+    <com.ysp.houge.widget.HackyViewPager
+        android:id="@+id/vp_photo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/black" />
+
+    <LinearLayout
+        android:id="@+id/line_finish"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:gravity="center_vertical" android:minWidth="50dp"
+        android:padding="12dp"
+        android:showDividers="middle" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="50dp"
+            android:contentDescription="@null"
+            android:scaleType="centerInside"
+            android:src="@drawable/menu_left_normal" />
+
+        <TextView
+            android:id="@+id/tv_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+</RelativeLayout>

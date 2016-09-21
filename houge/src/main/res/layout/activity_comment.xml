@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <!-- 用来存放actionbar的容器布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="@string/rate"
+        android:textColor="@color/color_999999" />
+
+    <com.ysp.houge.widget.ColoredRatingBar
+        android:id="@+id/crb_scort"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp" />
+
+    <View style="@style/lineStyle" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="@string/evaluate"
+        android:textColor="@color/color_999999" />
+
+    <com.ysp.houge.widget.ClearEditText
+        android:id="@+id/cet_commnet"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/borner_gray"
+        android:gravity="center_vertical"
+        android:hint="@string/comment_hint"
+        android:maxLength="200"
+        android:minHeight="48dp"
+        android:padding="8dp"
+        android:textSize="14sp" >
+
+        <requestFocus />
+    </com.ysp.houge.widget.ClearEditText>
+
+    <View style="@style/lineStyle" />
+
+    <View
+        style="@style/lineStyle"
+        android:layout_height="10dp"
+        android:background="@color/activity_bg" />
+
+    <View style="@style/lineStyle" />
+
+    <TextView
+        android:id="@+id/tv_sure"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/btn_default"
+        android:gravity="center"
+        android:text="@string/sure" />
+
+    <View style="@style/lineStyle" />
+
+    <View
+        style="@style/lineStyle"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/activity_bg" />
+
+</LinearLayout>

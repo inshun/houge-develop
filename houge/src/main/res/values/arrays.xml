@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 兼职列表 tyn -->
+    <string-array name="part_time_job_list">
+        <item>发传单</item>
+        <item>促销</item>
+        <item>主持</item>
+        <item>驻唱</item>
+        <item>电子商务</item>
+        <item>服务员</item>
+        <item>模特</item>
+        <item>保安</item>
+        <item>设计</item>
+        <item>翻译</item>
+        <item>家教</item>
+        <item>迎宾</item>
+    </string-array>
+    <!-- 女生特点 tyn -->
+    <string-array name="girl_characteristic">
+        <item>高颜值</item>
+        <item>修长</item>
+        <item>能说会道</item>
+        <item>外向</item>
+        <item>内向</item>
+        <item>勤快</item>
+    </string-array>
+    <!-- 男生特点 tyn -->
+    <string-array name="boy_characteristic">
+        <item>聪明</item>
+        <item>帅气</item>
+        <item>强壮</item>
+        <item>力气大</item>
+    </string-array>
+
+</resources>

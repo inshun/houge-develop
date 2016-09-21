@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/color/skin_black.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/color/skin_black.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/color/skin_black_item.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/color/skin_black_item.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/color/default_text_color.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/color/default_text_color.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/color/actionbar_text_color.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/color/actionbar_text_color.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/color/skin_bar_text.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/color/skin_bar_text.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/color/tab_txt_color_selector.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/color/tab_txt_color_selector.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/color/skin_blue_item.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/color/skin_blue_item.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/color/folder_text_color.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/color/folder_text_color.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/color/skin_color_button_blue.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/color/skin_color_button_blue.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/color/home_tab_text_color_selector.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/color/home_tab_text_color_selector.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/color/skin_bar_btn.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/color/skin_bar_btn.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/color/skin_gray3.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/color/skin_gray3.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/color/skin_dark_gray_item.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/color/skin_dark_gray_item.xml"
+    }
+]

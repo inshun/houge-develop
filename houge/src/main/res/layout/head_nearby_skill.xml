@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 附近列表item头部 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/color_e5e5e5"
+    android:orientation="vertical" >
+
+    <!-- 最新加入 -->
+
+    <TextView
+        android:id="@+id/tv_new_join_and_skill"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/status_text_bg"
+        android:gravity="center"
+        android:padding="8dp"
+        android:textColor="@color/color_app_theme_orange_bg" />
+
+    <RelativeLayout
+        android:id="@+id/rela_genius_banner"
+        android:layout_width="match_parent"
+        android:layout_height="100dp" >
+
+        <!-- 牛人banner -->
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/vp_nearby_skill_genius"
+            android:layout_width="match_parent"
+            android:layout_height="100dp" >
+        </android.support.v4.view.ViewPager>
+
+        <!-- 指示器 -->
+
+        <com.ysp.houge.widget.EmoDotView
+            android:id="@+id/mEmoDotView"
+            android:layout_width="match_parent"
+            android:layout_height="10dip"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="8dp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/line_nearby_skills"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical" >
+
+        <!-- 第一行 -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <!-- 第一行 第一个 -->
+
+            <LinearLayout
+                android:id="@+id/line_nearby_one"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_default"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:paddingBottom="8dp" >
+
+                <!-- 图片 -->
+
+                <ImageView
+                    android:id="@+id/iv_img_one"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:contentDescription="@null"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/defaultpic" />
+
+                <!-- 项目名称 -->
+
+                <TextView
+                    android:id="@+id/tv_name_one"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp" />
+
+                <!-- 喜欢的数量 -->
+
+                <TextView
+                    android:id="@+id/tv_love_one"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/skill_love"
+                    android:drawablePadding="8dp"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/color_e5e5e5" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="match_parent" />
+
+            <!-- 第一行 第二个 -->
+
+            <LinearLayout
+                android:id="@+id/line_nearby_two"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_default"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:paddingBottom="8dp" >
+
+                <!-- 图片 -->
+
+                <ImageView
+                    android:id="@+id/iv_img_two"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:contentDescription="@null"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/defaultpic" />
+
+                <!-- 项目名称 -->
+
+                <TextView
+                    android:id="@+id/tv_name_two"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp" />
+
+                <!-- 喜欢的数量 -->
+
+                <TextView
+                    android:id="@+id/tv_love_two"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/skill_love"
+                    android:drawablePadding="8dp"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/color_e5e5e5" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- 第二行 -->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp" >
+
+            <!-- 第二行 第一个 -->
+
+            <LinearLayout
+                android:id="@+id/line_nearby_three"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_default"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:paddingBottom="8dp" >
+
+                <!-- 图片 -->
+
+                <ImageView
+                    android:id="@+id/iv_img_three"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:contentDescription="@null"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/defaultpic" />
+
+                <!-- 项目名称 -->
+
+                <TextView
+                    android:id="@+id/tv_name_three"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp" />
+
+                <!-- 喜欢的数量 -->
+
+                <TextView
+                    android:id="@+id/tv_love_three"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/skill_love"
+                    android:drawablePadding="8dp"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/color_e5e5e5" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent" />
+
+            <!-- 第二行 第二个 -->
+
+            <LinearLayout
+                android:id="@+id/line_nearby_four"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="@drawable/btn_default"
+                android:gravity="center_horizontal"
+                android:orientation="vertical"
+                android:paddingBottom="8dp" >
+
+                <!-- 图片 -->
+
+                <ImageView
+                    android:id="@+id/iv_img_four"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:adjustViewBounds="true"
+                    android:contentDescription="@null"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/defaultpic" />
+
+                <!-- 项目名称 -->
+
+                <TextView
+                    android:id="@+id/tv_name_four"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="8dp" />
+
+                <!-- 喜欢的数量 -->
+
+                <TextView
+                    android:id="@+id/tv_love_four"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawableLeft="@drawable/skill_love"
+                    android:drawablePadding="8dp"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/color_e5e5e5" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

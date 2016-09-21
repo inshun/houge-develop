@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/color_e5e5e5"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:id="@+id/menu_head_left_iv"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:scaleType="centerInside" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp"
+            android:background="@color/white" >
+
+            <!-- 搜索类型 -->
+
+            <TextView
+                android:id="@+id/tv_seatch_type"
+                android:layout_width="wrap_content"
+                android:layout_height="42dp"
+                android:drawablePadding="4dp"
+                android:drawableRight="@drawable/search_type_gray"
+                android:gravity="center_vertical"
+                android:padding="8dp"
+                android:text="@string/search_skill" />
+
+            <com.ysp.houge.widget.ClearEditText
+                android:id="@+id/cet_search"
+                android:layout_width="0dp"
+                android:layout_height="42dp"
+                android:layout_weight="1"
+                android:background="@null"
+                android:drawableLeft="@drawable/search_text_left"
+                android:drawablePadding="4dp"
+                android:gravity="center_vertical"
+                android:hint="@string/search_hint"
+                android:maxLength="12"
+                android:paddingRight="10dp"
+                android:singleLine="true"
+                android:textSize="14sp" >
+
+                <requestFocus />
+            </com.ysp.houge.widget.ClearEditText>
+
+            <ImageView
+                android:id="@+id/iv_search"
+                android:layout_width="52dp"
+                android:layout_height="42dp"
+                android:scaleType="centerInside"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/line_search_context"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+</LinearLayout>

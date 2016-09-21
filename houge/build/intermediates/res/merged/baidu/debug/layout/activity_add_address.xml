@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 用来存放actionbar的容器布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp" >
+
+        <TextView
+            android:layout_width="75dip"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="@string/address_with_space" />
+
+        <!-- 地图上选择的地址 -->
+
+        <EditText
+            android:id="@+id/et_map_address"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:editable="false"
+            android:hint="@string/map_choose_address"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <View
+        style="@style/lineStyle"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp" >
+
+        <TextView
+            android:layout_width="75dip"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="@string/details_address" />
+
+        <!-- 详细地址 -->
+
+        <EditText
+            android:id="@+id/et_details_address"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="@string/enter_details_address"
+            android:maxLength="18"
+            android:maxLines="2"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <View
+        style="@style/lineStyle"
+        android:layout_height="1dp" />
+
+    <View
+        style="@style/lineStyle"
+        android:layout_height="1dp"
+        android:layout_marginTop="20dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp" >
+
+        <TextView
+            android:layout_width="75dip"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="@string/contacts" />
+
+        <!-- 联系人 -->
+
+        <EditText
+            android:id="@+id/et_contact"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="@string/enter_contacts"
+            android:maxLength="5"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <View style="@style/lineStyle" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp" >
+
+        <TextView
+            android:layout_width="75dip"
+            android:layout_height="wrap_content"
+            android:gravity="right"
+            android:text="@string/contact_num" />
+
+        <!-- 联系电话 -->
+
+        <EditText
+            android:id="@+id/et_contact_num"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="@string/enter_contact_num"
+            android:inputType="phone"
+            android:maxLength="11"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <View
+        style="@style/lineStyle"
+        android:layout_height="1dp" />
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+
+
+    <com.ysp.houge.widget.NeedDetailsView
+        android:id="@+id/dv_head_view_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.ysp.houge.widget.NeedDetailsView>
+
+    <com.ysp.houge.widget.CommentView
+        android:id="@+id/cv_head_view_commend"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" >
+    </com.ysp.houge.widget.CommentView>
+
+</LinearLayout>

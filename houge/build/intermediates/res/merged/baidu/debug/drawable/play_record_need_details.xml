@@ -1,0 +1,16 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false" >
+
+    <!-- 定义一个动画帧，Drawable为，持续时间220毫秒 -->
+
+    <item
+        android:drawable="@drawable/record_need_details_three"
+        android:duration="220"/>
+    <item
+        android:drawable="@drawable/record_need_details_one"
+        android:duration="220"/>
+    <item
+        android:drawable="@drawable/record_need_details_two"
+        android:duration="220"/>
+
+</animation-list>

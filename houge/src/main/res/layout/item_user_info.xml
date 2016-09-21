@@ -1,0 +1,93 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/btn_default"
+    android:padding="12dp" >
+
+    <!-- 头像 -->
+
+    <ImageView
+        android:id="@+id/iv_user_avatar"
+        android:layout_width="65dp"
+        android:layout_height="65dp"
+        android:background="@drawable/shapa_sex_def"
+        android:contentDescription="@string/avatar"
+        android:padding="1dp"
+        android:src="@drawable/user_small" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="12dp"
+        android:layout_toRightOf="@+id/iv_user_avatar"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:showDividers="middle" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:divider="@drawable/shapa_driver_8dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:showDividers="middle" >
+
+            <!-- 昵称 -->
+
+            <TextView
+                android:id="@+id/tv_user_nick"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <!-- 服务保障 -->
+
+            <TextView
+                android:id="@+id/tv_service_safeguard"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/color_service_safeguard"
+                android:paddingLeft="2dp"
+                android:paddingRight="2dp"
+                android:text="@string/service_safeguard"
+                android:textColor="@color/white"
+                android:textSize="@dimen/smail_text"
+                android:visibility="gone" />
+
+            <!-- 认证 -->
+
+            <TextView
+                android:id="@+id/tv_auth"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/color_student_auth"
+                android:paddingLeft="2dp"
+                android:paddingRight="2dp"
+                android:text="@string/student_auth"
+                android:textColor="@color/white"
+                android:textSize="@dimen/smail_text"
+                android:visibility="gone" />
+
+            <!-- 距离 -->
+
+            <TextView
+                android:id="@+id/tv_userinfo_distance"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right" />
+        </LinearLayout>
+
+        <!-- 星级 -->
+
+        <TextView
+            android:id="@+id/tv_userinf_start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="4dp"
+            android:drawableRight="@drawable/start"
+            android:gravity="center_vertical" />
+    </LinearLayout>
+
+</RelativeLayout>

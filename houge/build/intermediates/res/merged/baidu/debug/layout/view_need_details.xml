@@ -1,0 +1,289 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+
+    <LinearLayout
+        android:id="@+id/line_user_info_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="5dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:paddingTop="5dp" >
+
+        <!-- 用户头像 -->
+
+        <RelativeLayout
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="@color/white" >
+
+            <ImageView
+                android:id="@+id/iv_user_icon"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="@null" />
+
+            <ImageView
+                android:id="@+id/iv_user_icon_bg"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_centerInParent="true"
+                android:contentDescription="@null" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@drawable/shapa_driver_8dp"
+                android:gravity="center_vertical"
+                android:showDividers="middle"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true">
+
+                <!-- 昵称 -->
+
+                <TextView
+                    android:id="@+id/tv_user_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxEms="10"
+                    android:textColor="#999"
+                    android:textSize="12sp" />
+
+                <!-- 评级 -->
+
+                <TextView
+                    android:id="@+id/tv_rate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/color_app_theme_orange_bg"
+                    android:paddingLeft="2dp"
+                    android:paddingRight="2dp"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/smail_text" />
+
+                <!-- 服务保障 -->
+
+                <TextView
+                    android:id="@+id/tv_service_safeguard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/holo_green_light"
+                    android:paddingLeft="2dp"
+                    android:paddingRight="2dp"
+                    android:text="@string/service_safeguard"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/smail_text"
+                    android:visibility="gone" />
+
+                <!-- 认证 -->
+
+                <TextView
+                    android:id="@+id/tv_auth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/holo_blue_light"
+                    android:paddingLeft="2dp"
+                    android:paddingRight="2dp"
+                    android:text="@string/student_auth"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/smail_text"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <View style="@style/lineStyle" />
+
+
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingRight="12dp"
+        android:showDividers="middle" >
+
+        <ImageView
+            android:id="@+id/iv_orange_icon"
+            android:layout_width="4dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            android:src="@drawable/goods_title_blue" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="@string/salary"
+            android:textColor="@color/color_app_theme_blue_bg"
+            android:textSize="14sp"/>
+
+        <!-- 价格 -->
+
+        <TextView
+            android:id="@+id/tv_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/color_app_theme_blue_bg"
+            android:textSize="14sp"/>
+    </LinearLayout>
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginLeft="10dp" />
+
+    <!-- 技能名称 -->
+
+    <TextView
+        android:id="@+id/tv_skill_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawablePadding="8dp"
+        android:gravity="center_vertical"
+        android:minHeight="20dp"
+        android:layout_marginTop="6dp"
+        android:paddingLeft="12dp"
+        android:textColor="@color/color_app_theme_blue_bg"
+        android:paddingRight="12dp"
+        android:singleLine="true" />
+
+    <!--&lt;!&ndash; 播放录音 &ndash;&gt;-->
+
+    <!--<ImageView-->
+        <!--android:id="@+id/iv_play_record"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="48dp"-->
+        <!--android:layout_marginLeft="12dp"-->
+        <!--android:layout_marginRight="12dp"-->
+        <!--android:layout_marginTop="12dp"-->
+        <!--android:background="@drawable/shapa_round_border_blue"-->
+        <!--android:contentDescription="@null"-->
+        <!--android:scaleType="centerInside"-->
+        <!--android:src="@drawable/record_need_details_three" />-->
+
+    <!-- 技能描述 -->
+
+    <TextView
+        android:id="@+id/tv_skill_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="6dp"
+        android:paddingLeft="12dp"
+        android:textColor="@color/color_app_theme_blue_bg"
+        android:paddingRight="12dp"
+        android:paddingTop="2dp" />
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginLeft="10dp" />
+
+
+    <RelativeLayout
+        android:id="@+id/rela_actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp" >
+
+        <!-- 距离米数 -->
+        <TextView
+            android:layout_toRightOf="@+id/iv_coordinate"
+            android:id="@+id/tv_distance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/recommenddetail_icon_place"
+            android:layout_alignParentBottom="true"
+            android:textColor="#999"
+            android:drawablePadding="3dp"
+            android:gravity="center_vertical"
+            android:maxLines="2"
+            android:minHeight="48dp"
+            android:paddingRight="3dp"
+            android:layout_alignParentTop="true" />
+
+        <TextView
+            android:id="@+id/tv_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawableLeft="@drawable/recommenddetail_icon_time"
+            android:drawablePadding="3dp"
+            android:gravity="center_vertical"
+            android:maxLines="2"
+            android:minHeight="48dp"
+            android:textColor="@color/color_999999"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <TextView
+            android:id="@+id/tv_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="3dp"
+            android:gravity="center_vertical"
+            android:maxLines="2"
+            android:minHeight="48dp"
+            android:textSize="13sp"
+            android:textColor="@color/color_999999"
+            android:layout_alignParentTop="true"
+            android:layout_toRightOf="@+id/tv_distance"
+            android:layout_toEndOf="@+id/tv_distance" />
+    </RelativeLayout>
+
+    <View style="@style/lineStyle" />
+
+
+    <ImageView
+        android:id="@+id/iv_need_detials_images_one"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="12dp"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        />
+    <ImageView
+        android:id="@+id/iv_need_detials_images_two"
+        android:layout_width="wrap_content"
+        android:layout_marginBottom="12dp"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        />
+    <ImageView
+        android:id="@+id/iv_need_detials_images_three"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="12dp"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        />
+
+    </LinearLayout>

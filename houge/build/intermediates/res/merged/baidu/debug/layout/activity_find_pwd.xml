@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- 用来存放actionbar的容器布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:showDividers="middle">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minEms="4"
+            android:text="@string/telephone_number"
+            android:textColor="@color/color_adadad" />
+
+        <!-- 手机号码 -->
+
+        <com.ysp.houge.widget.ClearEditText
+            android:id="@+id/mMobileEdit"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="@string/mobile_when_register"
+            android:inputType="phone"
+            android:maxLength="11"
+            android:textSize="14sp">
+
+            <requestFocus />
+        </com.ysp.houge.widget.ClearEditText>
+    </LinearLayout>
+
+    <View
+        style="@style/lineStyle"
+        android:background="@color/color_adadad" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dip"
+        android:background="@color/white"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:showDividers="middle">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:hint="@string/check_code"
+            android:minEms="4"
+            android:singleLine="true"
+            android:textColor="@color/color_adadad"
+            android:textSize="14sp" />
+
+        <!-- 验证码 -->
+
+        <EditText
+            android:id="@+id/mCheckCodeView"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="@string/please_input_checkcode"
+            android:inputType="number"
+            android:maxLength="4"
+            android:singleLine="true"
+            android:textSize="14sp" />
+
+        <View
+            style="@style/lineStyle"
+            android:layout_width="1dp"
+            android:layout_height="36dp"
+            android:layout_marginBottom="6dp"
+            android:layout_marginTop="6dp" />
+
+        <!-- 发送验证码 -->
+
+        <Button
+            android:id="@+id/mResendBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:background="@drawable/btn_default"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip"
+            android:text="@string/send_check_code"
+            android:textColor="@color/color_555555"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <View
+        style="@style/lineStyle"
+        android:background="@color/color_adadad" />
+
+    <!-- 语音验证码 -->
+
+    <TextView
+        android:id="@+id/tv_voice_code"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dip"
+        android:layout_marginTop="15dip"
+        android:gravity="center_horizontal"
+        android:visibility="gone" />
+
+    <!-- 新密码 -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:showDividers="middle">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:minEms="4"
+            android:text="@string/set_new_password"
+            android:textColor="@color/color_adadad" />
+
+        <!-- 手机号码 -->
+
+        <com.ysp.houge.widget.ClearEditText
+            android:id="@+id/et_new_password"
+            android:layout_width="0dp"
+            android:layout_height="48dp"
+            android:layout_weight="1"
+            android:background="@null"
+            android:hint="@string/please_input_new_password"
+            android:inputType="textPassword"
+            android:maxLength="16"
+            android:textSize="14sp"></com.ysp.houge.widget.ClearEditText>
+    </LinearLayout>
+
+    <View
+        style="@style/lineStyle"
+        android:background="@color/color_adadad" />
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginTop="20dip"
+        android:background="@color/color_adadad" />
+
+    <!-- 完成 -->
+
+    <Button
+        android:id="@+id/mFinishBtn"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/btn_default"
+        android:padding="10dip"
+        android:text="@string/next_step"
+        android:textColor="@color/color_555555"
+        android:textSize="16sp" />
+
+    <View
+        style="@style/lineStyle"
+        android:background="@color/color_adadad" />
+
+</LinearLayout>

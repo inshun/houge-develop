@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 用来存放actionbar的容器布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="48dp"
+        android:gravity="center"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/shapa_square_border_gray_padding_white">
+
+
+        <TextView
+            android:id="@+id/tv_safeguard_money"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="保障金："/>
+        <TextView
+            android:id="@+id/tv_bond"
+            android:layout_marginLeft="3dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/holo_orange_dark"/>
+
+    </LinearLayout>
+
+    <View style="@style/lineStyle" />
+
+    <TextView
+        android:id="@+id/tv_zhifubao"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/btn_default"
+        android:drawableLeft="@drawable/icon_zhifubao"
+        android:drawablePadding="12dp"
+        android:drawableRight="@drawable/icon_sel_orange"
+        android:gravity="center_vertical"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:text="@string/alipay" />
+
+    <View style="@style/lineStyle" />
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginTop="60dp" />
+
+    <TextView
+        android:id="@+id/tv_submit"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/btn_default"
+        android:drawablePadding="12dp"
+        android:gravity="center"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:text="@string/submit" />
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginBottom="60dp" />
+
+</LinearLayout>

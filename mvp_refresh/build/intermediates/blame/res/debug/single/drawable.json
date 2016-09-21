@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/res/merged/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/res/merged/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/mvp_refresh/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/drawable/indicator_bg_top.xml"
+    }
+]

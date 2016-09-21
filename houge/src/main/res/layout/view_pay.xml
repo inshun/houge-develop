@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <View style="@style/lineStyle" />
+
+    <!-- 支付宝支付 -->
+
+    <LinearLayout
+        android:id="@+id/line_order_pay_way_alipay"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_default"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:gravity="center_vertical"
+        android:minHeight="48dp"
+        android:padding="10dp"
+        android:showDividers="middle" >
+
+        <ImageView
+            android:id="@+id/iv_icon_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@null"
+            android:src="@drawable/icon_zhifubao" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/pay_way_alipay" />
+
+        <ImageView
+            android:id="@+id/iv_alipay_choose_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@null" />
+    </LinearLayout>
+
+    <View android:id="@+id/alipay" style="@style/lineStyle" />
+
+    <!-- 当面支付 -->
+
+    <LinearLayout
+        android:id="@+id/line_order_pay_way_face_to_face"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_default"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:gravity="center_vertical"
+        android:minHeight="48dp"
+        android:padding="10dp"
+        android:showDividers="middle" >
+
+        <ImageView
+            android:id="@+id/iv_icon_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@null"
+            android:src="@drawable/icon_diangmianzhifu" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/pay_by_face_to_face" />
+
+        <ImageView
+            android:id="@+id/iv_face_to_face_choose_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@null" />
+    </LinearLayout>
+
+    <View android:id="@+id/face_to_face" style="@style/lineStyle" />
+
+    <!-- 余额支付 -->
+
+    <LinearLayout
+        android:id="@+id/line_order_pay_way_balance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_default"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:gravity="center_vertical"
+        android:minHeight="48dp"
+        android:padding="10dp"
+        android:showDividers="middle" >
+
+        <ImageView
+            android:id="@+id/iv_icon_3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@null"
+            android:src="@drawable/icon_yuer" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/pay_by_balance" />
+
+        <TextView
+            android:id="@+id/tv_balance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/color_e5e5e5" />
+
+        <ImageView
+            android:id="@+id/iv_balance_choose_icon"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@null" />
+    </LinearLayout>
+
+    <View android:id="@+id/balance" style="@style/lineStyle" />
+
+</LinearLayout>

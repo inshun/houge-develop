@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- 存放actionbar的布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:background="@drawable/btn_default"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/i_can" />
+
+                <!-- 技能标题 -->
+
+                <EditText
+                    android:id="@+id/et_seller_title"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:layout_marginLeft="20dp"
+                    android:background="@null"
+                    android:hint="@string/seller_pulish_hint"
+                    android:maxLength="12"
+                    android:singleLine="true"
+                    android:textSize="14sp">
+
+                    <requestFocus />
+                </EditText>
+            </LinearLayout>
+
+            <View style="@style/lineStyle" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:minHeight="48dp"
+                android:orientation="horizontal"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp">
+
+                <!-- 技能详情 -->
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/desc" />
+
+                <EditText
+                    android:id="@+id/et_seller_desc"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:layout_weight="1"
+                    android:background="@null"
+                    android:hint="@string/seller_pulish_desc_hint"
+                    android:minHeight="48dp"
+                    android:paddingBottom="8dp"
+                    android:paddingTop="8dp"
+                    android:textSize="14sp" />
+            </LinearLayout>
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginTop="20dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/publish_skill_case" />
+
+                <com.ysp.houge.widget.NoScrollGridView
+                    android:id="@+id/nsgv_seller_pulish_imgs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="20dp"
+                    android:background="@color/white"
+                    android:horizontalSpacing="1dp"
+                    android:listSelector="#00000000"
+                    android:numColumns="3"
+                    android:verticalSpacing="10dp" />
+            </LinearLayout>
+
+            <View
+                style="@style/lineStyle"
+                android:layout_marginTop="20dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:background="@drawable/btn_default"
+                android:gravity="center_vertical"
+                android:orientation="horizontal"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/publish_skill_price_name" />
+
+                <!-- 技能单价 -->
+
+                <EditText
+                    android:id="@+id/et_seller_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="48dp"
+                    android:layout_marginLeft="@dimen/publshskillprice"
+                    android:background="@null"
+                    android:hint="@string/write_selling_price"
+                    android:inputType="numberDecimal"
+                    android:maxLength="8"
+                    android:textSize="14sp" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="12dp"
+                    android:layout_marginRight="12dp"
+                    android:text="@string/publish_skill_price_unit" />
+
+                <!-- 技能单位 -->
+
+                <EditText
+                    android:id="@+id/et_seller_unit"
+                    android:layout_width="match_parent"
+                    android:layout_height="48dp"
+                    android:background="@null"
+                    android:hint="@string/write_selling_unit"
+                    android:maxLength="10"
+                    android:singleLine="true"
+                    android:textSize="14sp" />
+            </LinearLayout>
+
+            <View style="@style/lineStyle" />
+
+            <RelativeLayout
+                android:id="@+id/rela_free_practice"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:background="@drawable/btn_default"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:visibility="gone">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:text="@string/free_practice" />
+
+                <!-- 免薪实习 -->
+
+                <ImageView
+                    android:id="@+id/iv_free_practice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:scaleType="centerInside" />
+            </RelativeLayout>
+
+            <!-- 免薪实习的附带条件 -->
+
+            <RelativeLayout
+                android:id="@+id/rela_free_practice_treatment"
+                android:layout_width="match_parent"
+                android:layout_height="49dp"
+                android:background="@drawable/btn_default"
+                android:orientation="horizontal"
+                android:paddingBottom="12dp"
+                android:visibility="gone">
+
+                <View style="@style/lineStyle" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="12dp"
+                    android:text="@string/need_provide" />
+
+                <!-- 工作餐 -->
+
+                <TextView
+                    android:id="@+id/tv_working_lunch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="12dp"
+                    android:drawablePadding="8dp"
+                    android:drawableRight="@drawable/examine_error"
+                    android:gravity="center_vertical"
+                    android:text="@string/working_lunch" />
+
+                <!-- 住宿 -->
+
+                <TextView
+                    android:id="@+id/tv_stay"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="12dp"
+                    android:layout_toLeftOf="@+id/tv_working_lunch"
+                    android:drawablePadding="8dp"
+                    android:drawableRight="@drawable/examine_error"
+                    android:gravity="center_vertical"
+                    android:text="@string/stay" />
+            </RelativeLayout>
+
+            <View style="@style/lineStyle" />
+
+
+            <TextView
+                android:id="@+id/tv_submit"
+                android:layout_width="match_parent"
+                android:layout_height="48dip"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/btn_default"
+                android:gravity="center"
+                android:text="@string/submit" />
+
+
+            <ImageView
+                android:id="@+id/iv_pick_up"
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginBottom="40dp"
+                android:layout_marginTop="20dp"
+                android:scaleType="centerInside"
+                android:src="@drawable/pick_up" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

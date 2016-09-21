@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 用来存放actionbar的容器布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@color/white"
+        android:orientation="horizontal" >
+
+        <RelativeLayout
+            android:id="@+id/rela_skill_footprint"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/btn_default"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_skill_footprint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/skill" />
+
+            <View
+                android:id="@+id/v_skill_footprint"
+                style="@style/lineStyle"
+                android:layout_height="2dp"
+                android:layout_alignParentBottom="true"
+                android:background="@color/color_app_theme_orange_bg"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rela_user_footprint"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/btn_default"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_user_footprint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/user" />
+
+            <View
+                android:id="@+id/v_user_footprint"
+                style="@style/lineStyle"
+                android:layout_height="2dp"
+                android:layout_alignParentBottom="true"
+                android:background="@color/color_app_theme_orange_bg"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/rela_need_footprint"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/btn_default"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/tv_need_footprint"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="@string/need" />
+
+            <View
+                android:id="@+id/v_need_footprint"
+                style="@style/lineStyle"
+                android:layout_height="2dp"
+                android:layout_alignParentBottom="true"
+                android:background="@color/color_app_theme_orange_bg"
+                android:visibility="gone" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_footprint"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+</LinearLayout>

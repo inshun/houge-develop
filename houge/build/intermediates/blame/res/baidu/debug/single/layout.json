@@ -1,0 +1,1154 @@
+[
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_chat_menu_item.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_chat_menu_item.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/custom_progress_dialog.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/custom_progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_buy.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_buy.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_other_skill.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_other_skill.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/dialog_record.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/dialog_record.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/include_toptitle_withprogress.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/include_toptitle_withprogress.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_popup_job_type.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_popup_job_type.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_my_need.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_my_need.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/register_agreement.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/register_agreement.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/dialog_date.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/dialog_date.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_tab.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_tab.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_buyer_nearby_list.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_buyer_nearby_list.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_search_bar_with_padding.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_search_bar_with_padding.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_search_user.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_search_user.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_chat_send_edit.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_chat_send_edit.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_fragment_chat.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_fragment_chat.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_emojicon.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_emojicon.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_pay.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_pay.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_love_me.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_love_me.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/head_user_info.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/head_user_info.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_bak_at_list_item.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_bak_at_list_item.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_tabs.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_tabs.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_order.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_order.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_write_new_password.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_write_new_password.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_socialize_oauth_dialog.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_popup_job_area_type.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_popup_job_area_type.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_received_voice_call.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_received_voice_call.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_photo_picker.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_photo_picker.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_money_unit_listview.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_money_unit_listview.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_work_type_list.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_work_type_list.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_skill.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_skill.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/footer_search_history.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/footer_search_history.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_two_switch_btn.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_two_switch_btn.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_authentication_success.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_authentication_success.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_list_camera.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_list_camera.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_submit_cash_deposit.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_submit_cash_deposit.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_search_need.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_search_need.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_recommend_distance.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_recommend_distance.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_unfreeze_cash_deposit.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_unfreeze_cash_deposit.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_popup_recommend_sort.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_popup_recommend_sort.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_widget_voice_recorder.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_widget_voice_recorder.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_login.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/list_item_album.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/list_item_album.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/head_balance.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/head_balance.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_order_details.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_order_details.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_socialize_simple_spinner_item.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_socialize_simple_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_new_join_skill.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_new_join_skill.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_scroll_tab_item.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_scroll_tab_item.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_my_skill.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_my_skill.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_authentication.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_authentication.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_sent_voice_call.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_sent_voice_call.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_multi_image.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_multi_image.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_recharge.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_recharge.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_socialize_full_alert_dialog.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_socialize_full_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_received_good.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_received_good.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_skill_details.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_skill_details.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_alert_dialog.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_coupon.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_coupon.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_skill_details.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_skill_details.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_balance_details.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_balance_details.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_clear_edit_btn.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_clear_edit_btn.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_recom_setting_work_type.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_recom_setting_work_type.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_localphoto.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_localphoto.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/popup_list_top.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/popup_list_top.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_auth.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_auth.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_fragment_conversation_list.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_fragment_conversation_list.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/popup_search_type.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/popup_search_type.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_pri_paid_explain.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_pri_paid_explain.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_socialize_failed_load_page.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_socialize_failed_load_page.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_info_sex.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_info_sex.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_search_history.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_search_history.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_user_info_details.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_user_info_details.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_pre_paid_step_two.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_pre_paid_step_two.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/city_item.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/city_item.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_received_bigexpression.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_received_bigexpression.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_love_me.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_love_me.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_system_message.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_system_message.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_info_nickame.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_info_nickame.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_top_title_recommand.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_top_title_recommand.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_need.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_need.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_time_manager.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_time_manager.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_big_expression.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_big_expression.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_chat_un.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_chat_un.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/androidPullToRefreshLibrary/unspecified/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_make_by_share.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_make_by_share.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_service_date.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_service_date.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/popup_recommend_flow.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/popup_recommend_flow.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/layout_listview_foot.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/mvp_refresh/unspecified/res/layout/layout_listview_foot.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_widget_title_bar.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_widget_title_bar.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/dialog_bottom_two_btn.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/dialog_bottom_two_btn.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_edit_choose_search.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_edit_choose_search.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_seller_pulish_img.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_seller_pulish_img.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_user_detail.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_user_detail.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_info.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_info.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/head_my_skill.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/head_my_skill.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_commom_back_btn.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_commom_back_btn.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_sent_picture.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_sent_picture.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_received_file.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_received_file.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/dialog_yesorno.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/dialog_yesorno.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/load_error.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/mvp_refresh/unspecified/res/layout/load_error.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/popup_change_login_status.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/popup_change_login_status.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_bak_platform_selector_dialog.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_bak_platform_selector_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_search.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_widget_emojicon.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_widget_emojicon.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/increment_popup_dialog.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/increment_popup_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_coupon.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_coupon.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/head_nearby_skill.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/head_nearby_skill.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/popup_list_top_tanslusent.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/popup_list_top_tanslusent.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_recommend_need.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_recommend_need.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_received_voice.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_received_voice.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_buyer_pulish.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_buyer_pulish.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_received_message.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_received_message.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_activity_show_file.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_activity_show_file.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_balance.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_balance.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_mobile_register.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_mobile_register.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_need_footprint.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_need_footprint.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_widget_chat_input_menu.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_widget_chat_input_menu.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_valid_coupom.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_valid_coupom.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_choose_school.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_choose_school.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_sumbit_success.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_sumbit_success.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_user_need.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_user_need.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_pre_paid_step_one.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_pre_paid_step_one.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/bg_texture.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/bg_texture.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_recommend_time.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_recommend_time.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_received_video_call.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_received_video_call.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/custom_title_bar.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/custom_title_bar.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_recommend.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_recommend.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/dialog_yes.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/dialog_yes.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_prepaid_record.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_prepaid_record.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_two.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_two.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_add_address.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_add_address.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_default.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_default.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_user_info.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_user_info.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_my_footprint.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_my_footprint.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_change_password.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/load_ing.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/mvp_refresh/unspecified/res/layout/load_ing.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_socialize_shareboard_item.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_socialize_shareboard_item.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_buy_need.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_buy_need.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_comment.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_comment.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_received_video.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_received_video.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_company_auth.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_company_auth.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/withdrawal_webview.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/withdrawal_webview.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_widget_contact_list.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_widget_contact_list.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_order_details.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_order_details.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_socialize_post_share.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_socialize_post_share.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_seller_pulish.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_seller_pulish.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_home.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_choose_login_or_register.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_choose_login_or_register.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_info_username.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_info_username.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/include_refresh_listview.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/include_refresh_listview.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_register.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_past_date_coupom.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_past_date_coupom.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_pay.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_pay.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_search_skill.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_search_skill.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_chat.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_system_message.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_system_message.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_need_details.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_need_details.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_part_job.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_part_job.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_sent_voice.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_sent_voice.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_buyer_recommend_list.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_buyer_recommend_list.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_need_details.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_need_details.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_photo_view.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_photo_view.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_chat_history.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_chat_history.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_sent_location.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_sent_location.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/popup_nearby_job.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/popup_nearby_job.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_search_bar.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_search_bar.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/getui_notification.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/getui_notification.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_layout_chat_primary_menu.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_layout_chat_primary_menu.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_balance.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_balance.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_safeguard.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_safeguard.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_address_manager.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_address_manager.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/popup_password.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/popup_password.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/include_customer_actionbar.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/include_customer_actionbar.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/actionbar_normal.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/actionbar_normal.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_bak_at_list.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_bak_at_list.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_list_image.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_list_image.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_map_skill.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_map_skill.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_comment_list.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_comment_list.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/popup_report.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/popup_report.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_comment.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_comment.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_choose_map.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_choose_map.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_map_work_type.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_map_work_type.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_order_status.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_order_status.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_widget_chat_primary_menu.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_widget_chat_primary_menu.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_student_auth.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_student_auth.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_work_type.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_work_type.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_need_details.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_need_details.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_feedback.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_user_footprint.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_user_footprint.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_socialize_full_alert_dialog_item.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_socialize_full_alert_dialog_item.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_message.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_message.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/city_holo_layout.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/city_holo_layout.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_web_view.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_web_view.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_advance_salary.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_advance_salary.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_cropper.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_cropper.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_info_paidaccount.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_info_paidaccount.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_change_phone.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_change_phone.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_sent_message.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_sent_message.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_resident_address.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_resident_address.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_user_skills.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_user_skills.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/include_btn_system.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/include_btn_system.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_skill_footprint.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_skill_footprint.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/viewstub_summon_recode_and_imgs.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/viewstub_summon_recode_and_imgs.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_socialize_bind_select_dialog.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_socialize_bind_select_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_map_choose_map.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_map_choose_map.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_widget_emojicon_tab_bar.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_widget_emojicon_tab_bar.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_expression_gridview.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_expression_gridview.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_splash.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_me.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_me.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_widget_switch_button.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_widget_switch_button.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_recommend_skill_setting.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_recommend_skill_setting.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_socialize_titile_bar.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_socialize_titile_bar.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_received_location.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_received_location.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_sent_video.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_sent_video.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/load_empty.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/mvp_refresh/unspecified/res/layout/load_empty.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_map_nearby.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_map_nearby.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_info_choose_school.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_info_choose_school.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_about_us.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_expression.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_expression.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_search_history.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_search_history.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_layout_emojicon_menu.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_layout_emojicon_menu.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/head_need_details.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/head_need_details.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_find_pwd.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_find_pwd.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_conversation_item.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_conversation_item.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_address_manager.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_address_manager.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_socialize_full_curtain.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_socialize_full_curtain.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_prepaid_detail.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_prepaid_detail.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_info_education.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_info_education.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_nearby.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_nearby.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/popup_map_common_address.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/popup_map_common_address.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/chatting_item_txt_to.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/chatting_item_txt_to.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/customer_toast_layout.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/customer_toast_layout.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_new_message_notification.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_new_message_notification.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_skill_details.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_skill_details.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/popup_money_util.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/popup_money_util.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_socialize_base_alert_dialog_button.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_socialize_base_alert_dialog_button.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_map_resident_address.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_map_resident_address.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/include_refresh_listview_weight.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/include_refresh_listview_weight.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/view_map_icon.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/view_map_icon.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_me_pre_paid_step_three.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_me_pre_paid_step_three.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_search_user.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_search_user.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_comment.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_comment.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/head_nearby_need.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/head_nearby_need.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_popup_view_type.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_popup_view_type.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_need_details_image.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_need_details_image.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/head_skill_details.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/head_skill_details.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/notification_inc.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/notification_inc.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/dialog_bottom_three_btn.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/dialog_bottom_three_btn.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_work_info.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_work_info.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/include_pri_paid_step_two_header.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/include_pri_paid_step_two_header.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_grid_img.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_grid_img.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_showvideo_activity.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_showvideo_activity.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_message.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_message.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_sent_video_call.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_sent_video_call.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_contact.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_contact.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_withdraw_deposit.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_withdraw_deposit.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_map_need.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_map_need.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_sent_bigexpression.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_sent_bigexpression.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_activity_baidumap.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_activity_baidumap.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_service_time.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_service_time.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/dialog_service_time.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/dialog_service_time.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_socialize_base_alert_dialog.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_socialize_base_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_fragment_contact_list.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_fragment_contact_list.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/include_horizontal_listview.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/include_horizontal_listview.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_sent_good.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_sent_good.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_add_work_info.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_add_work_info.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_buy_order.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_buy_order.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_prepaid_record.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_prepaid_record.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_horizontal_part_time_job.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_horizontal_part_time_job.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_sell_order.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_sell_order.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/dialog_pulish.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/dialog_pulish.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/progress_dialog.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/progress_dialog.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_chat_message_list.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_chat_message_list.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_received_picture.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_received_picture.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_photo_album.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_photo_album.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_recommend_need_setting.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_recommend_need_setting.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_setting.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_other_need.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_other_need.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_activity_show_big_image.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_activity_show_big_image.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/chatting_item_txt_from.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/chatting_item_txt_from.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_my_sell.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_my_sell.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/activity_work_info_list.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/activity_work_info_list.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/popup_map_pop.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/popup_map_pop.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/item_list_folder.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/item_list_folder.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/ease_row_sent_file.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/exploded-aar/houge-develop/easeUI/unspecified/res/layout/ease_row_sent_file.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/fragment_order_status.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/fragment_order_status.xml"
+    },
+    {
+        "merged": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/build/intermediates/res/merged/baidu/debug/layout/umeng_bak_platform_item_simple.xml",
+        "source": "/Users/zhangjianlong/AndroidStudioProjects/houge-develop/houge/src/main/res/layout/umeng_bak_platform_item_simple.xml"
+    }
+]

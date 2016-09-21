@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/public_toptitle_layout"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:background="@color/color_actionbar_bg" >
+
+    <LinearLayout
+        android:id="@+id/public_toptitle_leftbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="5dip" >
+
+        <ImageView
+            android:id="@+id/mTopLeftBtnImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="5dip"
+            android:scaleType="matrix"
+            android:src="@drawable/menu_left_orange" />
+
+        <TextView
+            android:id="@+id/mTopLeftBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/back"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/public_toptitle_centertext"
+        android:layout_width="160dip"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:singleLine="true"
+        android:textColor="@android:color/white"
+        android:textSize="20.0sp" />
+
+    <ProgressBar
+        android:id="@+id/public_toptitle_progress"
+        style="@android:style/Widget.ProgressBar.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toLeftOf="@+id/public_toptitle_rightbutton" />
+
+    <ImageView
+        android:id="@+id/public_toptitle_rightbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="46dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:paddingLeft="20dip"
+        android:paddingRight="10dip"
+        android:visibility="invisible" >
+    </ImageView>
+
+</RelativeLayout>

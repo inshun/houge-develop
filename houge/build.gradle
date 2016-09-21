@@ -1,0 +1,135 @@
+apply plugin: 'com.android.application'
+
+def releaseTime() {
+    return new Date().format("yyyy-MM-dd", TimeZone.getTimeZone("UTC"))
+}
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion '23.0.2'
+    defaultConfig {
+        applicationId "com.ysp.houge"
+        minSdkVersion 15
+        versionName "1.0.2"
+        targetSdkVersion 21
+        // dex突破65535的限制
+        multiDexEnabled true
+    }
+    //签名
+    signingConfigs {
+        debug {
+//            storeFile file("C:\\project\\houge-develop\\houge\\monkey")
+//            storeFile file("\\Users\\zhangjianlong\\AndroidStudioProjects\\houge-develop\\houge\\monkey")
+            storeFile file("monkey")
+            storePassword "monkey"
+            keyAlias "monkey"
+            keyPassword "monkey"
+        }
+        relealse {
+            //这样写就得把demo.jk文件放在项目目录
+//            storeFile file("C:\\project\\houge-develop\\houge\\monkey")
+//            storeFile file("\\Users\\zhangjianlong\\AndroidStudioProjects\\houge-develop\\houge\\monkey")
+            storeFile file("monkey")
+            storePassword "monkey"
+            keyAlias "monkey"
+            keyPassword "monkey"
+        }
+    }
+    buildTypes {
+        debug {
+            // 显示Log
+            buildConfigField "boolean", "LOG_DEBUG", "true"
+            //修改版本号文本
+            //versionNameSuffix "-debug"
+            minifyEnabled false
+            // dex突破65535的限制
+            multiDexEnabled true
+            zipAlignEnabled true
+            shrinkResources true
+            signingConfig signingConfigs.debug
+        }
+        release {
+            // 不显示Log
+            buildConfigField "boolean", "LOG_DEBUG", "false"
+            //混淆
+            minifyEnabled true
+            //Zipalign优化
+            zipAlignEnabled true
+            // dex突破65535的限制
+            multiDexEnabled true
+            // 移除无用的resource文件
+            shrinkResources true
+            //签名
+            signingConfig signingConfigs.relealse
+            //前一部分代表系统默认的android程序的混淆文件，该文件已经包含了基本的混淆声明
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+            applicationVariants.all { variant ->
+                variant.outputs.each { output ->
+                    def outputFile = output.outputFile
+                    if (outputFile != null && outputFile.name.endsWith('.apk')) {
+                        // 输出apk名称为appname_v1.0_2015-09-15_09-57-58_wandoujia.apk
+                        // 下面的appname改为你自己的app name
+                        def fileName = "houge_v${defaultConfig.versionName}_${releaseTime()}_${variant.productFlavors[0].name}.apk"
+                        output.outputFile = new File(outputFile.parent, fileName)
+                    }
+                }
+            }
+        }
+    }
+    productFlavors {
+        baidu {}
+        c360 {}
+        xiaomi {}
+        yinyongbao {}
+        huawei {}
+        weixin {}
+        anzhi {}
+        wandoujia {}
+        sina {}
+        flyme {}
+        oppo {}
+        vivo {}
+        lenovo {}
+        anruan {}
+        jifeng {}
+        zhushou {}
+        anzhuoshichang {}
+        jinli {}
+        leshi {}
+        productFlavors.all { flavor ->
+            flavor.manifestPlaceholders = [UMENG_CHANNEL_VALUE: name]
+        }
+    }
+//    useLibrary 'org.apache.http.legacy'
+    dexOptions {
+        incremental true
+        javaMaxHeapSize "4g"
+    }
+}
+dependencies {
+    compile project(':mvp_refresh')
+    compile project(':wheel')
+    compile project(':easeUI')
+    compile 'com.google.code.gson:gson:2.2.4'
+    compile files('libs/core-3.1.0.jar')
+    compile files('libs/GetuiExt-2.0.3.jar')
+    compile files('libs/GetuiSDK2.7.0.0.jar')
+    compile files('libs/httpclient-4.3.5.jar')
+    compile files('libs/httpcore-4.3.2.jar')
+    compile files('libs/httpmime-4.3.5.jar')
+    compile files('libs/ormlite-android-4.48.jar')
+    compile files('libs/ormlite-core-4.48.jar')
+    compile files('libs/qqbrowser_sdk_v1.2.jar')
+    compile files('libs/universal-image-loader-1.9.3.jar')
+    compile files('libs/volley.jar')
+    compile files('libs/umeng-analytics-v5.6.4.jar')
+    compile files('libs/mta-sdk-1.6.2.jar')
+    compile files('libs/open_sdk_r5509.jar')
+    compile files('libs/SocialSDK_QQZone_3.jar')
+    compile files('libs/SocialSDK_WeiXin_1.jar')
+    compile files('libs/SocialSDK_WeiXin_2.jar')
+    compile files('libs/SocialSDK_Sina.jar')
+    compile files('libs/umeng_social_sdk.jar')
+    compile files('libs/weiboSDKCore_3.1.2.jar')
+    compile files('libs/alipaySdk-20160120.jar')
+}

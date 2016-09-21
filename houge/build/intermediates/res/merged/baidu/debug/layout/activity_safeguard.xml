@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <!-- 用来存放actionbar的容器布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+    <WebView
+        android:id="@+id/wv_service_deal"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/color_e5e5e5"
+        android:scrollbars="none" >
+    </WebView>
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginTop="20dp" />
+
+    <TextView
+        android:id="@+id/tv_next_step"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/btn_default"
+        android:gravity="center"
+        android:text="@string/next_step" />
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginBottom="20dp" />
+
+    <TextView
+        android:id="@+id/tv_service_deal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:drawablePadding="8dp"
+        android:gravity="center"
+        android:text="@string/read_and_agree_service_deal" />
+
+</LinearLayout>

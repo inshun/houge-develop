@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <!-- 用来存放actionbar的容器布局 -->
+
+    <RelativeLayout
+        android:id="@+id/rl_actionbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <View style="@style/lineStyle" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_default"
+        android:paddingBottom="8dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:paddingTop="8dp" >
+
+        <TextView
+            android:id="@+id/mNameLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:minEms="4"
+            android:text="@string/your_name"
+            android:textColor="@color/color_cbcbcb"
+            android:textSize="14sp" />
+
+        <!-- 名字 -->
+
+        <EditText
+            android:id="@+id/mNameEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_toLeftOf="@+id/mAvatar"
+            android:layout_toRightOf="@+id/mNameLabel"
+            android:background="@null"
+            android:ellipsize="end"
+            android:hint="@string/nickname"
+            android:inputType="text"
+            android:maxLength="8"
+            android:paddingBottom="10dip"
+            android:paddingTop="10dip"
+            android:textColor="@color/color_333333"
+            android:textSize="14sp" >
+
+            <requestFocus />
+        </EditText>
+
+        <!-- 头像 -->
+
+        <ImageView
+            android:id="@+id/mAvatar"
+            android:layout_width="60dip"
+            android:layout_height="60dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/shapa_sex_def"
+            android:padding="1dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/user_small" />
+    </RelativeLayout>
+
+    <View style="@style/lineStyle" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/btn_default"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center_vertical"
+            android:minEms="4"
+            android:text="@string/sex"
+            android:textColor="@color/color_cbcbcb"
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/iv_sex"
+            android:layout_width="60dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:contentDescription="@null"
+            android:src="@drawable/icon_sex_male" />
+    </RelativeLayout>
+
+    <View style="@style/lineStyle" />
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginTop="20dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/btn_default"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp" >
+
+        <TextView
+            android:id="@+id/mMobileLabel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:minEms="4"
+            android:text="@string/commend_code"
+            android:textColor="@color/color_cbcbcb"
+            android:textSize="14sp" />
+
+        <EditText
+            android:id="@+id/mRecommentCodeEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dip"
+            android:layout_marginRight="12dip"
+            android:background="@null"
+            android:hint="@string/fbt"
+            android:inputType="text"
+            android:maxLength="16"
+            android:singleLine="true"
+            android:textColor="@color/color_333333"
+            android:textSize="16sp" />
+    </LinearLayout>
+
+    <View style="@style/lineStyle" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:text="每推荐一位朋友加入接活咯，您就能赚200元"
+        android:textColor="@color/color_app_theme_orange_bg"
+        android:textSize="12sp"
+        android:visibility="gone" />
+
+    <View style="@style/lineStyle" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_i_skill"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="@color/color_app_theme_orange_bg"
+            android:textSize="16sp"
+            android:textColor="@color/color_f2f2f2"
+            android:layout_weight="1"
+            android:text="@string/i_want_jiehuo"/>
+
+
+        <Button
+        android:id="@+id/btn_i_need"
+        android:layout_width="match_parent"
+        android:textSize="16sp"
+        android:background="@color/color_app_theme_blue_bg"
+        android:textColor="@color/color_f2f2f2"
+        android:layout_height="48dp"
+        android:layout_weight="1" android:text="@string/i_want_niuren"/>
+    </LinearLayout>
+    <View style="@style/lineStyle" />
+
+    <RelativeLayout
+        android:id="@+id/me_sure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/tv_service_deal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:drawablePadding="8dp"
+        android:textColor="#666666"
+        android:text="@string/me_read_and_agree_service_deal" />
+
+        <TextView
+            android:id="@+id/me_sure_user_agreement"
+            android:layout_marginTop="20dp"
+            android:drawablePadding="8dp"
+            android:layout_marginBottom="20dp"
+            android:layout_toRightOf="@id/tv_service_deal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ff6724"
+            android:text="《接活喽用户协议》"/>
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<TextView android:id="@+id/tv_text"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/btn_default"
+    android:drawableLeft="@drawable/search_history_icon"
+    android:drawablePadding="20dp"
+    android:gravity="center_vertical"
+    android:minHeight="48dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="20dp"
+    android:singleLine="true"
+    android:textColor="@color/color_e5e5e5" />

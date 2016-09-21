@@ -1,0 +1,266 @@
+# Add project specific ProGuard rules here.
+# By default, the flags in this file are appended to flags specified
+# in D:\workSdk\adt-bundle-windows-x86_64-20140702\sdk/tools/proguard/proguard-android.txt
+# You can edit the include path and order by changing the proguardFiles
+# directive in build.gradle.
+#
+# For more details, see
+#   http://developer.android.com/guide/developing/tools/proguard.html
+# Add any project specific keep options here:
+# If your project uses WebView with JS, uncomment the following
+# and specify the fully qualified class name to the JavaScript interface
+# class:
+-optimizationpasses 5   #Which seems to have seen greater than 3, generally 5
+-dontusemixedcaseclassnames
+-dontskipnonpubliclibraryclasses
+-dontpreverify
+-ignorewarnings   #Ignore the warning may also be used -dontwarn (recommendation ignorewarnings)
+-verbose
+-optimizations !code/simplification/arithmetic,!field/*,!class/merging/*
+-keepclassmembers class fqcn.of.javascript.interface.for.webview {
+   public *;
+}
+
+
+# ------------------------------------EaseUI
+-keepattributes *Annotation*
+-keep public class com.google.vending.licensing.ILicensingService
+-keep public class com.android.vending.licensing.ILicensingService
+
+# For native methods, see http://proguard.sourceforge.net/manual/examples.html#native
+-keepclasseswithmembernames class * {
+    native <methods>;
+}
+
+# keep setters in Views so that animations can still work.
+# see http://proguard.sourceforge.net/manual/examples.html#beans
+-keepclassmembers public class * extends android.view.View {
+   void set*(***);
+   *** get*();
+}
+
+# We want to keep methods in Activity that could be used in the XML attribute onClick
+-keepclassmembers class * extends android.app.Activity {
+   public void *(android.view.View);
+}
+
+# For enumeration classes, see http://proguard.sourceforge.net/manual/examples.html#enumerations
+-keepclassmembers enum * {
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+
+-keep class * implements android.os.Parcelable {
+  public static final android.os.Parcelable$Creator *;
+}
+
+-keepclassmembers class **.R$* {
+    public static <fields>;
+}
+
+-keep class android.support.v4.** {*;}
+-keep class org.xmlpull.** {*;}
+-keep class com.baidu.** {*;}
+-keep public class * extends com.umeng.**
+-keep class com.umeng.** { *; }
+-keep class com.squareup.picasso.* {*;}
+
+
+-keep class com.easemob.chat.** {*;}
+
+#ormlite 配置
+-keep class com.j256.**
+-keepclassmembers class com.j256.** { *; }
+-keep enum com.j256.**
+-keepclassmembers enum com.j256.** { *; }
+-keep interface com.j256.**
+-keepclassmembers interface com.j256.** { *; }
+-keepclassmembers class * {
+    @com.j256.ormlite.field.DatabaseField *;
+}
+
+-keep class com.easemob.** {*;}
+-keep class org.jivesoftware.** {*;}
+-keep class org.apache.** {*;}
+-dontwarn  com.easemob.**
+#2.0.9后的不需要加下面这个keep
+#-keep class org.xbill.DNS.** {*;}
+#另外，demo中发送表情的时候使用到反射，需要keep SmileUtils
+#-keep class com.easemob.chatuidemo.utils.SmileUtils {*;}
+#注意前面的包名，如果把这个类复制到自己的项目底下，比如放在com.example.utils底下，应该这么写（实际要去掉#）
+#-keep class com.example.utils.SmileUtils {*;}
+#如果使用EaseUI库，需要这么写
+-keep class com.easemob.easeui.utils.EaseSmileUtils {*;}
+
+#2.0.9后加入语音通话功能，如需使用此功能的API，加入以下keep
+-dontwarn ch.imvs.**
+-dontwarn org.slf4j.**
+-keep class org.ice4j.** {*;}
+-keep class net.java.sip.** {*;}
+-keep class org.webrtc.voiceengine.** {*;}
+-keep class org.bitlet.** {*;}
+-keep class org.slf4j.** {*;}
+-keep class ch.imvs.** {*;}
+#-----------------------------------------------------------------------
+
+#-libraryjars libs\android-support-v4.jar
+-libraryjars <java.home>\lib\rt.jar
+
+-dontwarn org.apache.commons.**
+
+#-----------------------------------
+-keep class * extends java.util.ListResourceBundle {
+    protected Object[][] getContents();
+}
+
+-keep public class com.google.android.gms.common.internal.safeparcel.SafeParcelable {
+    public static final *** NULL;
+}
+
+-keepnames @com.google.android.gms.common.annotation.KeepName class *
+-keepclassmembernames class * {
+    @com.google.android.gms.common.annotation.KeepName *;
+}
+
+-keepnames class * implements android.os.Parcelable {
+    public static final ** CREATOR;
+}
+
+-keep public class com.google.android.gms.* { public *; }
+-dontwarn com.google.android.gms.**
+
+-keep class com.google.android.gms.** { *; }
+-dontwarn com.google.android.gms.**
+
+-keep class de.greenrobot.event.** {*;}
+-keepclassmembers class ** {
+    public void onEvent*(**);
+    void onEvent*(**);
+}
+#-------------------------------------------------
+-keep class com.ysp.houge.model.entity.** { *; }
+-keep class com.ysp.houge.model.entity.bean.** { *; }
+-keep class com.ysp.houge.utilily.SystemUtils.** {*;}
+-keep class com.ysp.houge.widget.** {*;}
+-keep class com.ysp.houge.adapter.SkillDetailstAdapter.** {*;}
+#--------------------------------------evenbus
+#eventBus
+-keepattributes *Annotation*
+-keepclassmembers class ** {
+    @org.greenrobot.eventbus.Subscribe <methods>;
+}
+-keep enum org.greenrobot.eventbus.ThreadMode { *; }
+-keepclassmembers class * extends org.greenrobot.eventbus.util.ThrowableFailureEvent {
+    <init>(java.lang.Throwable);
+}
+#------------------友盟
+-keepclassmembers class * {
+   public <init> (org.json.JSONObject);
+}
+-keep public class com.ysp.houge.R$*{
+public static final int *;
+}
+-keepclassmembers enum * {
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
+
+#---------------------------友盟分享
+ -dontshrink
+ -dontoptimize
+ -dontwarn com.google.android.maps.**
+ -dontwarn android.webkit.WebView
+ -dontwarn com.umeng.**
+ -dontwarn com.tencent.weibo.sdk.**
+ -dontwarn com.facebook.**
+ -keep public class javax.**
+ -keep public class android.webkit.**
+ -dontwarn android.support.v4.**
+ -keep enum com.facebook.**
+ -keepattributes Exceptions,InnerClasses,Signature
+ -keepattributes *Annotation*
+ -keepattributes SourceFile,LineNumberTable
+
+ -keep public interface com.facebook.**
+ -keep public interface com.tencent.**
+ -keep public interface com.umeng.socialize.**
+ -keep public interface com.umeng.socialize.sensor.**
+ -keep public interface com.umeng.scrshot.**
+
+ -keep public class com.umeng.socialize.* {*;}
+
+
+ -keep class com.facebook.**
+ -keep class com.facebook.** { *; }
+ -keep class com.umeng.scrshot.**
+ -keep public class com.tencent.** {*;}
+ -keep class com.umeng.socialize.sensor.**
+ -keep class com.umeng.socialize.handler.**
+ -keep class com.umeng.socialize.handler.*
+ -keep class com.tencent.mm.sdk.modelmsg.WXMediaMessage {*;}
+ -keep class com.tencent.mm.sdk.modelmsg.** implements com.tencent.mm.sdk.modelmsg.WXMediaMessage$IMediaObject {*;}
+
+ -keep class im.yixin.sdk.api.YXMessage {*;}
+ -keep class im.yixin.sdk.api.** implements im.yixin.sdk.api.YXMessage$YXMessageData{*;}
+
+ -dontwarn twitter4j.**
+ -keep class twitter4j.** { *; }
+
+ -keep class com.tencent.** {*;}
+ -dontwarn com.tencent.**
+ -keep public class com.umeng.soexample.R$*{
+     public static final int *;
+ }
+ -keep public class com.umeng.soexample.R$*{
+     public static final int *;
+ }
+ -keep class com.tencent.open.TDialog$*
+ -keep class com.tencent.open.TDialog$* {*;}
+ -keep class com.tencent.open.PKDialog
+ -keep class com.tencent.open.PKDialog {*;}
+ -keep class com.tencent.open.PKDialog$*
+ -keep class com.tencent.open.PKDialog$* {*;}
+
+ -keep class com.sina.** {*;}
+ -dontwarn com.sina.**
+ -keep class  com.alipay.share.sdk.** {
+    *;
+ }
+ -keepnames class * implements android.os.Parcelable {
+     public static final ** CREATOR;
+ }
+
+ -keep class com.linkedin.** { *; }
+ -keepattributes Signature
+#----------------------------个推
+-dontwarn com.igexin.**
+-keep class com.igexin.**{*;}
+
+################支付宝##################
+#-libraryjars libs/alipaysecsdk.jar
+#-libraryjars libs/alipayutdid.jar
+#-libraryjars libs/alipaysdk.jar
+-keep class com.alipay.android.app.IAliPay{*;}
+-keep class com.alipay.android.app.IAlixPay{*;}
+-keep class com.alipay.android.app.IRemoteServiceCallback{*;}
+-keep class com.alipay.android.app.lib.ResourceMap{*;}
+
+#-------------------------------百度地图
+-keep class com.baidu.** {*;}
+-keep class vi.com.** {*;}
+-dontwarn com.baidu.**
+
+#---------------------------------混淆之后的报错，不能转换...
+#You need to add these lines to your proguard so that gson class is kept while signing your app.
+##---------------Begin: proguard configuration for Gson  ----------
+# Gson uses generic type information stored in a class file when working with fields. Proguard
+# removes such information by default, so configure it to keep all of it.
+-keepattributes Signature
+# For using GSON @Expose annotation
+-keepattributes *Annotation*
+# Gson specific classes
+-keep class sun.misc.Unsafe { *; }
+#-keep class com.google.gson.stream.** { *; }
+# Application classes that will be serialized/deserialized over Gson
+-keep class com.google.gson.examples.android.model.** { *; }
+##---------------End: proguard configuration for Gson  ----------

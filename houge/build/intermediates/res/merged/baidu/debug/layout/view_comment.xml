@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <View style="@style/lineStyle" />
+
+    <!-- 浏览数量 -->
+
+    <TextView
+        android:id="@+id/tv_browse_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:drawableLeft="@drawable/skill_love"
+        android:drawablePadding="8dp"
+        android:textColor="@color/color_e5e5e5" />
+
+    <!-- 赞的用户头像 -->
+
+    <LinearLayout
+        android:id="@+id/line_love_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:showDividers="middle" >
+
+        <ImageView
+            android:id="@+id/iv_browse_one"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:contentDescription="@null"
+            android:padding="1dp"
+            android:scaleType="centerInside" />
+
+        <ImageView
+            android:id="@+id/iv_browse_two"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@null"
+            android:padding="1dp"
+            android:scaleType="centerCrop" />
+
+        <ImageView
+            android:id="@+id/iv_browse_three"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@null"
+            android:padding="1dp"
+            android:scaleType="centerCrop" />
+
+        <ImageView
+            android:id="@+id/iv_browse_four"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@null"
+            android:padding="1dp"
+            android:scaleType="centerCrop" />
+
+        <ImageView
+            android:id="@+id/iv_browse_five"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@null"
+            android:padding="1dp"
+            android:scaleType="centerCrop" />
+
+        <ImageView
+            android:id="@+id/iv_browse_six"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:contentDescription="@null"
+            android:padding="1dp"
+            android:scaleType="centerCrop" />
+
+        <ImageView
+            android:id="@+id/iv_browse_seven"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:background="@drawable/shapa_sex_def"
+            android:contentDescription="@null"
+            android:padding="1dp"
+            android:scaleType="centerInside"
+            android:src="@drawable/icon_diandian"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp" />
+
+    <!-- 留言数量 -->
+
+    <TextView
+        android:id="@+id/tv_message_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp"
+        android:drawableLeft="@drawable/skill_level_message"
+        android:drawablePadding="8dp"
+        android:textColor="@color/color_e5e5e5" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:showDividers="middle" >
+
+        <!-- 留言 -->
+
+        <com.ysp.houge.widget.ClearEditText
+            android:id="@+id/et_message"
+            android:layout_width="0dp"
+            android:layout_height="40dp"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:layout_weight="1"
+            android:background="@drawable/borner_gray"
+            android:hint="@string/have_a_comment"
+            android:inputType="text"
+            android:maxLength="120"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:singleLine="true"
+            android:textColor="@color/color_555555"
+            android:textSize="14sp" >
+        </com.ysp.houge.widget.ClearEditText>
+
+        <!-- 发表 -->
+
+        <Button
+            android:id="@+id/btn_message_publish"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:background="@null"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="@string/comment"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/rela_msg_one"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp" >
+
+        <View
+            style="@style/lineStyle"
+            android:layout_marginLeft="12dp" />
+
+        <ImageView
+            android:id="@+id/iv_leavel_one"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:background="@drawable/shapa_sex_def"
+            android:contentDescription="@null"
+            android:padding="1dp"
+            android:src="@drawable/user_small" />
+
+        <TextView
+            android:id="@+id/tv_leavel_one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="12dp"
+            android:layout_toRightOf="@+id/iv_leavel_one"
+            android:maxLines="2"
+            android:singleLine="true"
+            android:textColor="@color/color_999999" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rela_msg_two"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp" >
+
+        <View
+            style="@style/lineStyle"
+            android:layout_marginLeft="12dp" />
+
+        <ImageView
+            android:id="@+id/iv_leavel_two"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:background="@drawable/shapa_sex_def"
+            android:contentDescription="@null"
+            android:padding="1dp"
+            android:src="@drawable/user_small" />
+
+        <TextView
+            android:id="@+id/tv_leavel_two"
+            android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="12dp"
+            android:layout_toRightOf="@+id/iv_leavel_two"
+            android:maxLines="2"
+            android:singleLine="true"
+            android:textColor="@color/color_999999" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rela_msg_three"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="48dp" >
+
+        <View
+            style="@style/lineStyle"
+            android:layout_marginLeft="12dp" />
+
+        <ImageView
+            android:id="@+id/iv_leavel_three"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:background="@drawable/shapa_sex_def"
+            android:contentDescription="@null"
+            android:padding="1dp"
+            android:src="@drawable/user_small" />
+
+        <TextView
+            android:id="@+id/tv_leavel_three"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true" android:layout_centerVertical="true"
+            android:layout_marginRight="12dp"
+            android:layout_toRightOf="@+id/iv_leavel_three"
+            android:maxLines="2"
+            android:singleLine="true"
+            android:textColor="@color/color_999999" />
+    </RelativeLayout>
+
+    <View style="@style/lineStyle" />
+
+    <!-- 查看更多留言 -->
+
+    <TextView
+        android:id="@+id/tv_more_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_default"
+        android:gravity="center"
+        android:minHeight="48dp"
+        android:text="@string/look_more"
+        android:textColor="@color/color_555555" />
+
+    <View style="@style/lineStyle" />
+
+    <!-- 更多 -->
+
+    <TextView
+        android:id="@+id/tv_more"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/color_e5e5e5"
+        android:gravity="bottom"
+        android:padding="12dp"
+        android:textColor="@color/color_999999" />
+
+</LinearLayout>

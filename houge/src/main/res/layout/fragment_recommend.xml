@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/line_out_side_layout"
+        layout="@layout/view_top_title_recommand" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <!-- 搜藏的列表 -->
+
+        <com.ysp.houge.widget.PagerSlidingTabStrip
+            android:id="@+id/psts_recommned_list"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" >
+        </com.ysp.houge.widget.PagerSlidingTabStrip>
+        <!-- 展开搜藏列表的图片 -->
+
+        <ImageView
+            android:id="@+id/iv_spread_recommend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="4dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/recommend_more_def" />
+
+        <!-- 排序 -->
+
+        <ImageView
+            android:id="@+id/iv_sort_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="4dp"
+            android:layout_marginRight="8dp"
+            android:layout_marginTop="4dp"
+            android:adjustViewBounds="true"
+            android:src="@drawable/sort_def" />
+    </LinearLayout>
+
+    <View
+        android:id="@+id/line"
+        style="@style/lineStyle"
+        android:layout_height="2dp" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp_recommend"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical" >
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>

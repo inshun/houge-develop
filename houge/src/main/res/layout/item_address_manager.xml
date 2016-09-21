@@ -1,0 +1,53 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/btn_default"
+    android:descendantFocusability="blocksDescendants"
+    android:paddingBottom="20dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:paddingTop="20dp" >
+
+    <!-- 是否是默认地址 -->
+
+    <CheckBox
+        android:id="@+id/cb_is_default"
+        style="@style/CheckboxOrangeTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:gravity="center"
+        android:padding="12dp" />
+
+    <!-- 详细地址 -->
+
+    <TextView
+        android:id="@+id/tv_detail_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="8dp"
+        android:layout_toRightOf="@+id/cb_is_default"
+        android:maxLines="2" />
+
+    <!-- 联系人姓名 -->
+
+    <TextView
+        android:id="@+id/tv_contacts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tv_detail_address"
+        android:layout_below="@+id/tv_detail_address"
+        android:layout_marginTop="10dp" />
+
+    <!-- 联系电话 -->
+
+    <TextView
+        android:id="@+id/tv_contact_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tv_contacts"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/tv_contacts" />
+
+</RelativeLayout>

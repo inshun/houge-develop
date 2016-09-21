@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 卖家关注的item -->
+<LinearLayout android:id="@+id/line_need_skill"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:divider="@drawable/shapa_driver_8dp"
+    android:orientation="vertical"
+    android:paddingBottom="8dp"
+    android:paddingTop="8dp"
+    android:showDividers="middle" >
+
+    <!-- 个人信息栏目 -->
+
+    <LinearLayout
+        android:id="@+id/line_user_info_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:baselineAligned="false"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp" >
+
+        <!-- 用户头像 -->
+
+        <RelativeLayout
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:background="@color/white" >
+
+            <ImageView
+                android:id="@+id/iv_user_icon"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="@null" />
+
+            <ImageView
+                android:id="@+id/iv_user_icon_bg"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:layout_centerInParent="true"
+                android:contentDescription="@null" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@drawable/shapa_driver_8dp"
+                android:gravity="center_vertical"
+                android:showDividers="middle" >
+
+                <!-- 昵称 -->
+
+                <TextView
+                    android:id="@+id/tv_user_name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxEms="10"
+                    android:textColor="@color/color_app_theme_blue_bg"
+                    android:textSize="12sp" />
+
+                <!-- 评级 -->
+
+                <TextView
+                    android:id="@+id/tv_rate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@color/color_app_theme_orange_bg"
+                    android:paddingLeft="2dp"
+                    android:paddingRight="2dp"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/smail_text" />
+
+                <!-- 服务保障 -->
+
+                <TextView
+                    android:id="@+id/tv_service_safeguard"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/holo_green_light"
+                    android:paddingLeft="2dp"
+                    android:paddingRight="2dp"
+                    android:text="@string/service_safeguard"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/smail_text"
+                    android:visibility="gone" />
+
+                <!-- 认证 -->
+
+                <TextView
+                    android:id="@+id/tv_auth"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/holo_blue_light"
+                    android:paddingLeft="2dp"
+                    android:paddingRight="2dp"
+                    android:text="@string/student_auth"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/smail_text"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+            <!-- 距离 -->
+
+            <TextView
+                android:id="@+id/tv_distance"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:textSize="12sp"
+                android:textColor="@color/color_app_theme_blue_bg"/>
+
+
+            <TextView
+                android:id="@+id/tv_street"
+                android:layout_toRightOf="@id/tv_distance"
+                android:layout_marginLeft="10dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:textColor="@color/color_app_theme_blue_bg"
+                android:textSize="12sp" />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:contentDescription="@null"
+            android:src="@drawable/goods_title_blue" />
+
+        <!-- 标题 -->
+
+        <TextView
+            android:id="@+id/tv_good_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:singleLine="true"
+            android:textColor="@color/color_555555" />
+    </RelativeLayout>
+
+    <!-- 时间 -->
+
+    <TextView
+        android:id="@+id/tv_good_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:singleLine="true"
+        android:textColor="@color/color_555555" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:divider="@drawable/shapa_driver_8dp"
+            android:gravity="center_horizontal"
+            android:showDividers="middle" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/salary"
+                android:textColor="@color/color_555555" />
+
+            <!-- 当面付标记 -->
+
+            <ImageView
+                android:id="@+id/iv_face_to_face"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@null" />
+
+            <!-- 价格 -->
+
+            <TextView
+                android:id="@+id/tv_goods_price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/color_555555" />
+        </LinearLayout>
+
+        <!-- 聊一聊 -->
+
+        <TextView
+            android:id="@+id/tv_have_a_talk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shapa_square_border_blue"
+            android:gravity="center"
+            android:paddingBottom="8dp"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:paddingTop="8dp"
+            android:text="@string/have_a_talk"
+            android:textColor="@color/white" />
+    </LinearLayout>
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:gravity="center_vertical" >
+
+        <!-- 分享 -->
+
+        <ImageView
+            android:id="@+id/iv_share"
+            android:layout_width="60dp"
+            android:layout_height="35dp"
+            android:background="@drawable/shapa_circular_gray_border"
+            android:baselineAlignBottom="false"
+            android:contentDescription="@null"
+            android:padding="8dp"
+            android:src="@drawable/skill_share" />
+
+        <!-- 留言 -->
+
+        <LinearLayout
+            android:id="@+id/line_leave_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/shapa_circular_gray_border"
+            android:gravity="center"
+            android:minWidth="60dp"
+            android:orientation="horizontal" >
+
+            <!-- 留言的数量 -->
+
+            <TextView
+                android:id="@+id/tv_msg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:textColor="@color/color_e5e5e5" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:contentDescription="@null"
+                android:src="@drawable/skill_level_message" />
+        </LinearLayout>
+
+        <!-- 喜欢 -->
+
+        <LinearLayout
+            android:id="@+id/line_praise"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:layout_toLeftOf="@+id/line_leave_msg"
+            android:background="@drawable/shapa_circular_gray_border"
+            android:gravity="center"
+            android:minWidth="60dp"
+            android:orientation="horizontal" >
+
+            <!-- 喜欢的数量 -->
+
+            <TextView
+                android:id="@+id/tv_praise"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:textColor="@color/color_e5e5e5" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:contentDescription="@null"
+                android:src="@drawable/skill_love" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</LinearLayout>

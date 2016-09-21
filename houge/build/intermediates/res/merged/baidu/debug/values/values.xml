@@ -1,0 +1,1452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boy_characteristic">
+        <item>聪明</item>
+        <item>帅气</item>
+        <item>强壮</item>
+        <item>力气大</item>
+    </string-array>
+    <string-array name="girl_characteristic">
+        <item>高颜值</item>
+        <item>修长</item>
+        <item>能说会道</item>
+        <item>外向</item>
+        <item>内向</item>
+        <item>勤快</item>
+    </string-array>
+    <string-array name="part_time_job_list">
+        <item>发传单</item>
+        <item>促销</item>
+        <item>主持</item>
+        <item>驻唱</item>
+        <item>电子商务</item>
+        <item>服务员</item>
+        <item>模特</item>
+        <item>保安</item>
+        <item>设计</item>
+        <item>翻译</item>
+        <item>家教</item>
+        <item>迎宾</item>
+    </string-array>
+    <attr format="boolean" name="centered"/>
+    <attr format="color" name="selectedColor"/>
+    <attr format="dimension" name="strokeWidth"/>
+    <attr format="color" name="unselectedColor"/>
+    <color name="activity_bg">#eceef1</color>
+    <color name="album_list_feeditem_nor">#fffafafa</color>
+    <color name="album_list_feeditem_sel">#fff1f1f1</color>
+    <color name="background">#FF000000</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="black">#FF000000</color>
+    <color name="black_deep">#FF000000</color>
+    <color name="bottom_bar_normal_bg">#2D2F31</color>
+    <color name="bottom_text_color_normal">#ffffff</color>
+    <color name="btn_answer_normal">#2dafa3</color>
+    <color name="btn_answer_pressed">#4ebcd3</color>
+    <color name="btn_blue_normal">#1e90ff</color>
+    <color name="btn_blue_pressed">#0066FF</color>
+    <color name="btn_gray_normal">#c0c0c0</color>
+    <color name="btn_gray_pressed">#666667</color>
+    <color name="btn_gray_pressed_status">#b5b5b6</color>
+    <color name="btn_green_noraml">#68C270</color>
+    <color name="btn_green_pressed">#6FCD78</color>
+    <color name="btn_login_normal">#00acff</color>
+    <color name="btn_login_pressed">#46678d</color>
+    <color name="btn_logout_normal">#d33f3f</color>
+    <color name="btn_logout_pressed">#DA5A4D</color>
+    <color name="btn_pressed_green_solid">#B6DA53</color>
+    <color name="btn_register_normal">#ffffff</color>
+    <color name="btn_register_pressed">#00acff</color>
+    <color name="btn_white_normal">#f7f8f8</color>
+    <color name="btn_white_pressed">#b5b5b6</color>
+    <color name="bule_overlay">#660D92DD</color>
+    <color name="bulegray">#f0f0f0</color>
+    <color name="color_00ffffff">#00ffffff</color>
+    <color name="color_013F64">#013F64</color>
+    <color name="color_157efb">#157efb</color>
+    <color name="color_2963a3">#2963a3</color>
+    <color name="color_2a9782">#2a9782</color>
+    <color name="color_333333">#333333</color>
+    <color name="color_3474ba">#ff3474ba</color>
+    <color name="color_3ba1c5">#3ba1c5</color>
+    <color name="color_454545">#454545</color>
+    <color name="color_4fc0e8">#4fc0e8</color>
+    <color name="color_555555">#555555</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_7d7d7d">#7d7d7d</color>
+    <color name="color_838383">#838383</color>
+    <color name="color_909090">#909090</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_9b9b9b">#9b9b9b</color>
+    <color name="color_9bcd5f">#9bcd5f</color>
+    <color name="color_9e9e9e">#9e9e9e</color>
+    <color name="color_FFCB1D">#FFCB1D</color>
+    <color name="color_actionbar_bg">#46B39E</color>
+    <color name="color_actionbar_pressed_bg">#40B39E</color>
+    <color name="color_adadad">#adadad</color>
+    <color name="color_app_theme_blue_66_tran_bg">#6630ccda</color>
+    <color name="color_app_theme_blue_bg">#30ccda</color>
+    <color name="color_app_theme_orange_66_tran_bg">#66ff6724</color>
+    <color name="color_app_theme_orange_bg">#ff6724</color>
+    <color name="color_b2b2b2">#b2b2b2</color>
+    <color name="color_b3b3b3">#b3b3b3</color>
+    <color name="color_b8b8b8">#b8b8b8</color>
+    <color name="color_bde390">#bde390</color>
+    <color name="color_bebebe">#bebebe</color>
+    <color name="color_c7c7c7">#c7c7c7</color>
+    <color name="color_c8c7cc">#c8c7cc</color>
+    <color name="color_cbcbcb">#cbcbcb</color>
+    <color name="color_cccccc">#cccccc</color>
+    <color name="color_d0d0d0">#d0d0d0</color>
+    <color name="color_d3d2d2">#d3d2d2</color>
+    <color name="color_d7d7d7">#d7d7d7</color>
+    <color name="color_d9d9d9">#d9d9d9</color>
+    <color name="color_dadada">#dadada</color>
+    <color name="color_dddddd">#dddddd</color>
+    <color name="color_e35d42">#e35d42</color>
+    <color name="color_e5e5e5">#e5e5e5</color>
+    <color name="color_e6e6e6">#e6e6e6</color>
+    <color name="color_e8503e">#e8503e</color>
+    <color name="color_e8e8e8">#e8e8e8</color>
+    <color name="color_e8eaef">#e8eaef</color>
+    <color name="color_eaeaea">#eaeaea</color>
+    <color name="color_efefef">#efefef</color>
+    <color name="color_f2f2f2">#f2f2f2</color>
+    <color name="color_f4bfbf">#f4bfbf</color>
+    <color name="color_f5f5f5">#f5f5f5</color>
+    <color name="color_f7f7f7">#f7f7f7</color>
+    <color name="color_fb6e52">#fb6e52</color>
+    <color name="color_fbb217">#fbb217</color>
+    <color name="color_fcc95d">#fcc95d</color>
+    <color name="color_ff8004">#ff8004</color>
+    <color name="color_ffb10a">#ffb10a</color>
+    <color name="color_ffecc1">#ffecc1</color>
+    <color name="color_ffffffff">#ffffffff</color>
+    <color name="color_service_safeguard">#ff6724</color>
+    <color name="color_sex_def">@color/gray_color</color>
+    <color name="color_sex_famal">@color/color_app_theme_blue_bg</color>
+    <color name="color_sex_mal">#ff6724</color>
+    <color name="color_student_auth">@color/color_app_theme_blue_bg</color>
+    <color name="common_bg">#fcfcfc</color>
+    <color name="common_bottom_bar_normal_bg">#2d2f31</color>
+    <color name="common_bottom_bar_selected_bg">#161718</color>
+    <color name="common_botton_bar_blue">#2ea7e0</color>
+    <color name="common_top_bar_blue">#4ebcd3</color>
+    <color name="dialog_two_btn">#157efb</color>
+    <color name="divider_line">#FF575757</color>
+    <color name="divider_list">#d4d4d4</color>
+    <color name="emojicon_tab_nomal">#ffffff</color>
+    <color name="emojicon_tab_selected">#D9D9D9</color>
+    <color name="error_item_color">#F6EBE6</color>
+    <color name="font_focus">#D7F679</color>
+    <color name="gold">#ffd700</color>
+    <color name="gold_player">#F7F466</color>
+    <color name="gray">#828282</color>
+    <color name="gray_color">#e5e5e5</color>
+    <color name="gray_normal">#666667</color>
+    <color name="gray_pressed">#b5b5b6</color>
+    <color name="graylight">#cccccc</color>
+    <color name="grid_state_focused">#80000000</color>
+    <color name="grid_state_pressed">#1Affffff</color>
+    <color name="half_transparent_background">#80000000</color>
+    <color name="holo_blue_bright">#ff00ddff</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="holo_red_light">#ffff4444</color>
+    <color name="introduce_bg">#f5f4f2</color>
+    <color name="introduce_dot_choosed">#94b4d6</color>
+    <color name="introduce_dot_normal">#e7e7e6</color>
+    <color name="list_itease_primary_color">#000</color>
+    <color name="list_itease_secondary_color">#888888</color>
+    <color name="listview_item_normal">#eef0ed</color>
+    <color name="listview_item_pressed">#d4d4d4</color>
+    <color name="message_checked">#90918f</color>
+    <color name="message_no_check">#323232</color>
+    <color name="nearly_hard">#97000000</color>
+    <color name="none_color">#00000000</color>
+    <color name="orange">#FF6600</color>
+    <color name="orange_light">#fdaa0b</color>
+    <color name="pink_red">#F63E2A</color>
+    <color name="red">#FF0000</color>
+    <color name="semitransparent">#90000000</color>
+    <color name="status_text">#ff6724</color>
+    <color name="status_text_bg">#ffe7c2</color>
+    <color name="stick_color_bg">#e2e2e2</color>
+    <color name="top_bar_normal_bg">#00acff</color>
+    <color name="transparent">#00000000</color>
+    <color name="umeng_socialize_color_group">#2c3035</color>
+    <color name="umeng_socialize_comments_bg">#F4F4F4</color>
+    <color name="umeng_socialize_divider">#E6E6E6</color>
+    <color name="umeng_socialize_edit_bg">#C4C4C4</color>
+    <color name="umeng_socialize_grid_divider_line">#F8F8F8</color>
+    <color name="umeng_socialize_list_item_bgcolor">#FFFFFF</color>
+    <color name="umeng_socialize_list_item_textcolor">#333333</color>
+    <color name="umeng_socialize_text_friends_list">#959696</color>
+    <color name="umeng_socialize_text_share_content">#666666</color>
+    <color name="umeng_socialize_text_time">#999999</color>
+    <color name="umeng_socialize_text_title">#464f61</color>
+    <color name="umeng_socialize_text_ucenter">#595959</color>
+    <color name="umeng_socialize_ucenter_bg">#EEEEEE</color>
+    <color name="voip_interface_text_color">#bababa</color>
+    <color name="white">#ffffff</color>
+    <color name="whitetran">#87FFFFFF</color>
+    <color name="yellow">#FFFFE400</color>
+    <declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="ColoredRatingBar"><attr format="boolean" name="indicator"/><attr format="float" name="rating"/><attr format="enum" name="type">
+            <enum name="normal" value="0"/>
+            <enum name="small" value="1"/>
+        </attr><attr format="reference" name="coloredRatingBarStyle"/><attr format="reference" name="coloredRatingBarStyleIndicator"/><attr format="reference" name="coloredRatingBarStyleSmall"/><attr format="reference" name="coloredRatingBarStyleSmallIndicator"/></declare-styleable>
+    <declare-styleable name="EaseChatExtendMenu"><attr format="integer" name="numColumns"/></declare-styleable>
+    <declare-styleable name="EaseChatMessageList"><attr format="reference" name="msgListMyBubbleBackground"/><attr format="reference" name="msgListOtherBubbleBackground"/><attr format="boolean" name="msgListShowUserAvatar"/><attr format="boolean" name="msgListShowUserNick"/></declare-styleable>
+    <declare-styleable name="EaseContactList"><attr format="color" name="ctsListPrimaryTextColor"/><attr format="dimension" name="ctsListPrimaryTextSize"/><attr format="boolean" name="ctsListShowSiderBar"/><attr format="reference|color" name="ctsListInitialLetterBg"/><attr format="color" name="ctsListInitialLetterColor"/></declare-styleable>
+    <declare-styleable name="EaseConversationList"><attr format="color" name="cvsListPrimaryTextColor"/><attr format="color" name="cvsListSecondaryTextColor"/><attr format="color" name="cvsListTimeTextColor"/><attr format="dimension" name="cvsListPrimaryTextSize"/><attr format="dimension" name="cvsListSecondaryTextSize"/><attr format="dimension" name="cvsListTimeTextSize"/></declare-styleable>
+    <declare-styleable name="EaseEmojiconMenu"><attr format="integer" name="bigEmojiconRows"/><attr format="integer" name="emojiconColumns"/></declare-styleable>
+    <declare-styleable name="EaseSwitchButton"><attr format="reference" name="switchOpenImage"/><attr format="reference" name="switchCloseImage"/><attr name="switchStatus">
+            <enum name="open" value="0"/>
+            <enum name="close" value="1"/>
+        </attr></declare-styleable>
+    <declare-styleable name="EaseTitleBar"><attr format="string" name="titleBarTitle"/><attr format="reference" name="titleBarLeftImage"/><attr format="reference" name="titleBarRightImage"/><attr format="reference|color" name="titleBarBackground"/></declare-styleable>
+    <declare-styleable name="HorizontalListView"><attr format="dimension" name="dividerWidth"/><attr name="android:divider"/><attr name="android:requiresFadingEdge"/><attr name="android:fadingEdgeLength"/></declare-styleable>
+    <declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="PagerSlidingTabStrip"><attr format="color" name="pstsIndicatorColor"/><attr format="color" name="pstsUnderlineColor"/><attr format="color" name="pstsDividerColor"/><attr format="dimension" name="pstsIndicatorHeight"/><attr format="dimension" name="pstsUnderlineHeight"/><attr format="dimension" name="pstsDividerPadding"/><attr format="dimension" name="pstsTabPaddingLeftRight"/><attr format="dimension" name="pstsScrollOffset"/><attr format="reference" name="pstsTabBackground"/><attr format="boolean" name="pstsShouldExpand"/><attr format="boolean" name="pstsTextAllCaps"/></declare-styleable>
+    <declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable>
+    <declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable>
+    <declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="alphabet_size">12dip</dimen>
+    <dimen name="call_button_padding_left">25dp</dimen>
+    <dimen name="call_button_padding_right">25dp</dimen>
+    <dimen name="call_button_padding_vertical">10dp</dimen>
+    <dimen name="chat_nick_margin_left">12dp</dimen>
+    <dimen name="chat_nick_text_size">13sp</dimen>
+    <dimen name="field_margin_right">5dp</dimen>
+    <dimen name="field_textsize">14sp</dimen>
+    <dimen name="folder_cover_size">72dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="height_row_weixin">59dp</dimen>
+    <dimen name="height_top_bar">46dp</dimen>
+    <dimen name="image_size">120dp</dimen>
+    <dimen name="image_thumbnail_size">100dp</dimen>
+    <dimen name="image_thumbnail_spacing">1dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="margin_chat_activity">5dp</dimen>
+    <dimen name="money_unit_marginbottom">2dp</dimen>
+    <dimen name="padding_search_bar">5dp</dimen>
+    <dimen name="publshskillprice">20dp</dimen>
+    <dimen name="sidebar_text_size">10dp</dimen>
+    <dimen name="size_avatar">48dp</dimen>
+    <dimen name="smail_text">10sp</dimen>
+    <dimen name="space_size">2dp</dimen>
+    <dimen name="umeng_socialize_pad_window_height">350dip</dimen>
+    <dimen name="umeng_socialize_pad_window_width">580dip</dimen>
+    <item name="gridview" type="id"/>
+    <item name="scrollview" type="id"/>
+    <item name="webview" type="id"/>
+    <string name="Add_a_button_was_clicked">Add a button was clicked</string>
+    <string name="Add_a_friend">Let me to be your friend!</string>
+    <string name="Add_group_members_fail">Add group members fail:</string>
+    <string name="Agree_with_failure">Failed to accept</string>
+    <string name="Agreed_to_your_group_chat_application">Accepted your group application</string>
+    <string name="Application_and_notify">Invitation and notification</string>
+    <string name="Apply_to_the_group_of">Apply to join the group</string>
+    <string name="Are_agree_with">Accepting</string>
+    <string name="Are_connected_to_each_other">Connecting to peer..</string>
+    <string name="Are_logged_out">Logging out</string>
+    <string name="Are_moving_to_blacklist">Moving to blacklist</string>
+    <string name="Are_removed">Removing</string>
+    <string name="Cant_chat_with_yourself">cannot chat with yourself</string>
+    <string name="Change_the_group_name">Change group name</string>
+    <string name="Confirm_password_cannot_be_empty">Confirm password cannot be empty!</string>
+    <string name="Connection_failure">Connection failed!</string>
+    <string name="Current_version">Current version</string>
+    <string name="Delete_failed">Failed to delete</string>
+    <string name="Delete_the_contact">Delete the contact</string>
+    <string name="Did_not_download">Not yet downloaded</string>
+    <string name="Dissolve_group_chat_tofail">Failed to dismiss the group:</string>
+    <string name="Download_the_pictures">Download the pictures: 0%</string>
+    <string name="Download_the_pictures_new">Download the pictures:</string>
+    <string name="Empty_the_chat_record">Clear conversation</string>
+    <string name="Exit_the_group_chat">Exit the group</string>
+    <string name="Exit_the_group_chat_failure">Failed to exit the group:</string>
+    <string name="Failed_to_create_groups">Failed to create groups</string>
+    <string name="Failed_to_download_file">Failed to download file:</string>
+    <string name="Failed_to_get_group_chat_information">Failed to get group information:</string>
+    <string name="Failed_to_join_the_group_chat">Failed to join the group</string>
+    <string name="File_does_not_exist">File does not exist</string>
+    <string name="Group_chat">Group chat</string>
+    <string name="Group_chat_information">The group description</string>
+    <string name="Group_chat_profile">Group profile</string>
+    <string name="Group_name_cannot_be_empty">Group name cannot be empty</string>
+    <string name="Group_of_Lord">The group owner</string>
+    <string name="Hands_free">Hands free</string>
+    <string name="Has_agreed_to">Accepted</string>
+    <string name="Has_agreed_to_your_friend_request">Accepted your request</string>
+    <string name="Has_been_cancelled">Cancelled</string>
+    <string name="Has_refused_to">Refused</string>
+    <string name="Have_downloaded">Already downloaded</string>
+    <string name="In_the_call">In the call..</string>
+    <string name="Into_the_blacklist">Move to the blacklist?</string>
+    <string name="Introduction">Brief</string>
+    <string name="Invite_you_to_join_a_group_chat"> Invite you to join this group</string>
+    <string name="Is_download_voice_click_later">Downloading the voice message, click later</string>
+    <string name="Is_landing">logining..</string>
+    <string name="Is_moved_into_blacklist">Moving to blacklist..</string>
+    <string name="Is_not_yet_connected_to_the_server">Not connect to server</string>
+    <string name="Is_sending_a_request">Sending the request..</string>
+    <string name="Is_the_registered">Registering..</string>
+    <string name="Is_to_create_a_group_chat">Creating the group</string>
+    <string name="Is_unblock">Unblocking group</string>
+    <string name="Join_the_group_chat">Join the group</string>
+    <string name="Log_Upload_failed">Failed to upload the log</string>
+    <string name="Log_uploaded_successfully">Log was uploaded successfully</string>
+    <string name="Login_failed">Login failed:</string>
+    <string name="Logoff_notification">Logoff notification</string>
+    <string name="Making_sure_your_location">Making sure your location..</string>
+    <string name="Modify_the_group_name_successful">Modify the group name successful</string>
+    <string name="Move_into_blacklist_failure">Move into blacklist failure</string>
+    <string name="Move_into_blacklist_success">Move into blacklist success</string>
+    <string name="Move_into_the_blacklist_new">Move into the blacklist</string>
+    <string name="Network_error">Network error</string>
+    <string name="Not_Set">Not set</string>
+    <string name="Open_group_chat">Public group</string>
+    <string name="Open_group_members_invited">Allow members to invite</string>
+    <string name="Open_the_equipment_failure">Open the equipment failure!</string>
+    <string name="Password_cannot_be_empty">Password cannot be empty!</string>
+    <string name="Please_enter_a_username">Please enter a username</string>
+    <string name="Recording_without_permission">Recording without permission</string>
+    <string name="Refused">Refused</string>
+    <string name="Registered_successfully">Registered successfully</string>
+    <string name="Registration_failed">Registration failed:</string>
+    <string name="Remove_the_notification">Remove the notification</string>
+    <string name="Removed_from_the_failure">Removed fail</string>
+    <string name="Request_add_buddy_failure">Request add buddy failure:</string>
+    <string name="Request_to_add_you_as_a_friend">You got a friend request</string>
+    <string name="Request_to_join">Apply to join</string>
+    <string name="Select_the_contact">Select the contact</string>
+    <string name="Send_the_following_pictures">Send the following pictures?</string>
+    <string name="Send_voice_need_sdcard_support">Send voice need sdcard support</string>
+    <string name="Shielding_of_the_message">Block message</string>
+    <string name="The_delete_button_is_clicked">The delete button is clicked</string>
+    <string name="The_file_is_not_greater_than_10_m">The file is not greater than 10 m</string>
+    <string name="The_new_group_chat">Create new group</string>
+    <string name="The_other_is_hang_up">The peer has ended the call</string>
+    <string name="The_other_is_not_online">The peer is not online</string>
+    <string name="The_other_is_on_the_phone">The peer is on the phone</string>
+    <string name="The_other_is_on_the_phone_please">The peer is busy now, please try later</string>
+    <string name="The_other_party_did_not_answer">The peer did not answer</string>
+    <string name="The_other_party_did_not_answer_new">The peer did not answer</string>
+    <string name="The_other_party_has_refused_to">Call was refused</string>
+    <string name="The_other_party_is_not_online">The peer is not online now, please try later</string>
+    <string name="The_other_party_refused_to_accept">The call was refused</string>
+    <string name="The_recording_time_is_too_short">The recording time is too short</string>
+    <string name="The_video_to_start">The video to start</string>
+    <string name="This_user_is_already_your_friend">This user is already your friend</string>
+    <string name="To_join_the_chat">Join the group</string>
+    <string name="Two_input_password">Inconsistent password, please enter again!</string>
+    <string name="Upload_the_log">Uploading the log</string>
+    <string name="User_already_exists">User already existed!</string>
+    <string name="User_name_cannot_be_empty">User name cannot be empty!</string>
+    <string name="Version_number_is_wrong">Version number is wrong</string>
+    <string name="Video_footage">Video record</string>
+    <string name="Whether_the_public">Is public</string>
+    <string name="Whether_to_empty_all_chats">Clear all messages?</string>
+    <string name="Whether_to_send">Are you sure to send?</string>
+    <string name="about_text">接活儿</string>
+    <string name="about_us">关于我们</string>
+    <string name="account_info">账户信息</string>
+    <string name="account_password">账号密码</string>
+    <string name="add">添加</string>
+    <string name="add_address_orfen">添加接活地点</string>
+    <string name="add_certificate_of_degree">添加学位证照</string>
+    <string name="add_friend">Add friends</string>
+    <string name="add_head_card">添加手持身份证照</string>
+    <string name="add_head_card_front">添加身份证（正面,带个人头像的页面）</string>
+    <string name="add_head_card_verso">添加身份证（反面,带国徽的页面）</string>
+    <string name="add_legal_head_card">添加法人手持身份证照</string>
+    <string name="add_legal_head_card_front">添加法人身份证（正面,带个人头像的页面）</string>
+    <string name="add_legal_head_card_verso">添加法人身份证（反面,带国徽的页面）</string>
+    <string name="add_public_group_chat">Add public group</string>
+    <string name="add_trading_certificate_copy">添加营业执照副本</string>
+    <string name="add_xuexin">添加学信网截图</string>
+    <string name="address">地点</string>
+    <string name="address_book">Address book</string>
+    <string name="address_manger">地址管理</string>
+    <string name="address_with_space">地址：</string>
+    <string name="advance">预支</string>
+    <string name="advance_feedback">意见反馈</string>
+    <string name="advance_of_wages">预支工资</string>
+    <string name="advance_record">预支纪录</string>
+    <string name="advance_salary">预支工资</string>
+    <string name="advance_salary_highest">最高可预支10000元</string>
+    <string name="afternoon">下午</string>
+    <string name="agree">Agree</string>
+    <string name="alipay">支付宝</string>
+    <string name="alipay_or_bank_card">本人支付宝号或银行账号</string>
+    <string name="all_comment">所有评论</string>
+    <string name="all_of_city">全城</string>
+    <string name="allow_make">允许接活</string>
+    <string name="answer">Answer</string>
+    <string name="app_name">接活喽</string>
+    <string name="apply_money">申请：¥</string>
+    <string name="apply_service_safeguard">申请服务保障</string>
+    <string name="apply_service_safeguard_money">提交服务保障金</string>
+    <string name="apply_time">时间： </string>
+    <string name="apply_unfreeze">申请解冻</string>
+    <string name="are_empty_group_of_news">Clearing messages</string>
+    <string name="area">区域</string>
+    <string name="as_commonly_choose">选择</string>
+    <string name="as_commonly_used">设为常用</string>
+    <string name="attach_file">File</string>
+    <string name="attach_location">Location</string>
+    <string name="attach_picture">Image</string>
+    <string name="attach_smile">Emoticon</string>
+    <string name="attach_take_pic">Capture</string>
+    <string name="attach_video">Video</string>
+    <string name="attach_video_call">Video call</string>
+    <string name="attach_voice_call">Voice call</string>
+    <string name="auth">社会人士</string>
+    <string name="auth_failed">认证失败</string>
+    <string name="authentication">实名认证</string>
+    <string name="authing">认证中</string>
+    <string name="avatar">头像</string>
+    <string name="back">返回</string>
+    <string name="balance">余额</string>
+    <string name="be_removing">Be removing</string>
+    <string name="become_lecturer">升级为讲师</string>
+    <string name="being_added">added</string>
+    <string name="black_item">Black list</string>
+    <string name="blacklist">Black list</string>
+    <string name="book_black">Black list</string>
+    <string name="button_add">Add</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_logout">Logout</string>
+    <string name="button_pushtotalk">Hold to talk</string>
+    <string name="button_save">Save</string>
+    <string name="button_search">Find</string>
+    <string name="button_send">Send</string>
+    <string name="button_uploadlog">Upload the log</string>
+    <string name="buyer_recommend_top_text">系统会把最适合的牛人推荐给您</string>
+    <string name="call_duration">call duration</string>
+    <string name="call_phone">打电话</string>
+    <string name="call_telephone">拨打电话</string>
+    <string name="can_not_connect_chat_server_connection">Cannot connect to server</string>
+    <string name="can_revise_just_once">注：仅可修改一次</string>
+    <string name="can_revise_just_once_one_year">注：一年可修改一次</string>
+    <string name="cancel">取消</string>
+    <string name="cancle_order">取消订单</string>
+    <string name="cant_find_pictures">"Can't find pictures"</string>
+    <string name="card_num">身份证号</string>
+    <string name="change">换</string>
+    <string name="change_price">改价</string>
+    <string name="change_the_group_name_failed_please">Failed to change the group name, please check the network or try again later</string>
+    <string name="characteristic_type_loading_failed">加载特点列表失败</string>
+    <string name="chat">聊天</string>
+    <string name="chat_room">Chat room</string>
+    <string name="chatroom_allow_owner_leave">Allow chatroom owner leave</string>
+    <string name="chatset">Chat settings</string>
+    <string name="chatting_is_dissolution">Dismissing group</string>
+    <string name="check_code">验证码</string>
+    <string name="choose_contact_way">选择联系方式</string>
+    <string name="choose_date">选择日期</string>
+    <string name="choose_discount_coupon">选择您的优惠券</string>
+    <string name="choose_job_type">添加工种</string>
+    <string name="choose_report_type">选择举报原因</string>
+    <string name="choose_sercer_time">选择服务时间</string>
+    <string name="clean_history">清除历史</string>
+    <string name="clear_all_records">Clear all conversations？</string>
+    <string name="clear_records">Clear conversation?</string>
+    <string name="click_to_add">点击添加</string>
+    <string name="click_to_upload">点击上传</string>
+    <string name="collection_account">收款账号</string>
+    <string name="commend_code">推荐码</string>
+    <string name="comment">评论</string>
+    <string name="comment_hint">评价几句，表扬、鼓励一下！让合作更愉快</string>
+    <string name="commodity_name">商品名称</string>
+    <string name="company_auth">企业认证</string>
+    <string name="confirm_forward_to">Confirm to forward to：%1$s ?</string>
+    <string name="confirm_resend">Confirm to resend？</string>
+    <string name="confirm_the_members">Move this member to group blacklist?</string>
+    <string name="confirmpassword">Confirm password</string>
+    <string name="connect_conflict">The same account was loggedin in other device</string>
+    <string name="connect_failuer_toast">Please check the network or try again later</string>
+    <string name="contact_num">联系电话</string>
+    <string name="contact_us">联系我们</string>
+    <string name="contact_way">联系方式</string>
+    <string name="contacts">联系人</string>
+    <string name="contanct_phone">联系电话</string>
+    <string name="contancts">联系人</string>
+    <string name="copy">Copy</string>
+    <string name="copy_message">Copy message</string>
+    <string name="corporation_name">企业名</string>
+    <string name="count">数量</string>
+    <string name="coupom">优惠券</string>
+    <string name="date_format">M月d日 HH:mm</string>
+    <string name="day">天前</string>
+    <string name="default_loading">正在加载</string>
+    <string name="degrees">学历</string>
+    <string name="delete">删除</string>
+    <string name="delete_conversation">Delete conversation</string>
+    <string name="delete_conversation_messages">Delete conversation and messages</string>
+    <string name="delete_message">Delete message</string>
+    <string name="delete_video">Delete video</string>
+    <string name="delete_voice">Delete voice</string>
+    <string name="deleting">Deleting..</string>
+    <string name="desc">描述</string>
+    <string name="detail">详情</string>
+    <string name="detail_service_phone">详情请咨询客服</string>
+    <string name="details_address">详细地址：</string>
+    <string name="diagnose">Diagnose</string>
+    <string name="did_not_answer">did not answer</string>
+    <string name="direct_call">Direct</string>
+    <string name="dismiss_group">Dismiss group</string>
+    <string name="dissolution_group_hint">The group will be dismissed after exiting</string>
+    <string name="dl_cancel">Cancel</string>
+    <string name="dl_msg_local_upload">Local Upload</string>
+    <string name="dl_msg_take_photo">Task Photo</string>
+    <string name="dl_ok">OK</string>
+    <string name="dl_title_upload_photo">Upload Photo</string>
+    <string name="dl_update_nick">update nickname</string>
+    <string name="dl_update_photo">update photo</string>
+    <string name="dl_waiting">waiting...</string>
+    <string name="do_you_sure_call_phone">您确定拨打此号码吗？</string>
+    <string name="doctor">博士</string>
+    <string name="doctor1">博</string>
+    <string name="double_zero">0.0</string>
+    <string name="downwaiting">Downloading the file, please try again later</string>
+    <string name="dynamic_expression">[Dynamic expression]</string>
+    <string name="ease_user_remove">This user has been removed</string>
+    <string name="edit">编辑</string>
+    <string name="eight_to_twelve">8:00 - 12:00</string>
+    <string name="enter_contact_num">填写联系电话</string>
+    <string name="enter_contacts">填写联系人</string>
+    <string name="enter_details_address">请输入详细地址</string>
+    <string name="enter_school_time">入学时间</string>
+    <string name="error_send_invalid_content">The message content is not allowed to be sent!</string>
+    <string name="error_send_not_in_the_group">You already were not in the group</string>
+    <string name="esq">客服</string>
+    <string name="evaluate">评价</string>
+    <string name="examine_error">未通过</string>
+    <string name="examine_error_tip">建议重新编辑后提交</string>
+    <string name="examine_success_tip">请保持通话畅通，客服将会在2小时内上门为您服务</string>
+    <string name="examine_successed">已通过</string>
+    <string name="examining">审核中</string>
+    <string name="examining_in_five_minutes">5分钟内完成审核</string>
+    <string name="exit_group">Exit</string>
+    <string name="exit_group_hint">The group messages will not be received after exiting the group</string>
+    <string name="expand">详细说明</string>
+    <string name="explain">说明</string>
+    <string name="expression">[expression]</string>
+    <string name="failed_to_load_data">Failed to load data, please check network or try again later</string>
+    <string name="failed_to_move_into">Failed to move to the blacklist, please check the network or try again later</string>
+    <string name="fbt">非必填</string>
+    <string name="feedback_failed">反馈失败</string>
+    <string name="feedback_hint">您有任何意见和建议都可以通过这里向我们团队述说......记住是任何话哦！还不明白？意思是大到国家大事，小到鸡毛蒜皮，私生活也口以哒......</string>
+    <string name="feedback_success">反馈成功</string>
+    <string name="female">女</string>
+    <string name="fifty">50</string>
+    <string name="file">[file]</string>
+    <string name="find_no_sdcard_no_store_pic">未找到存储卡，无法存储照片！</string>
+    <string name="find_password">找回密码</string>
+    <string name="finish">完成</string>
+    <string name="folder_all">所有照片</string>
+    <string name="forenoon">上午</string>
+    <string name="forgot_password">找回密码</string>
+    <string name="forgot_password_no_question_mark">忘记密码</string>
+    <string name="forty">40</string>
+    <string name="forward">Forward</string>
+    <string name="free_practice">免薪实习</string>
+    <string name="fri">周五</string>
+    <string name="fri_afternoon">周五下午</string>
+    <string name="fri_forenoon">周五上午</string>
+    <string name="fri_night">周五晚上</string>
+    <string name="from_camera">拍照</string>
+    <string name="from_store">从手机相册选择</string>
+    <string name="frozen_money">冻结保证金</string>
+    <string name="get_check_code">获取验证码</string>
+    <string name="get_failed_please_check">Failed to retrieve, please check the network or try again later</string>
+    <string name="get_no_mobile">对不起，没有获取到手机号码</string>
+    <string name="get_no_mobile_to_send_message">对不起，没有获取到手机号码,不能发送短信</string>
+    <string name="get_user_info_failed">获取用户信息失败</string>
+    <string name="go_to_auth">去认证</string>
+    <string name="gorup_not_found">Can not find this group</string>
+    <string name="group_chat">Group chat</string>
+    <string name="group_id">Group ID</string>
+    <string name="group_is_blocked">Blocking the group..</string>
+    <string name="group_name">Group name</string>
+    <string name="group_not_existed">The group does not exist</string>
+    <string name="group_of_shielding">Group of shielding failure, please check the network or try again later</string>
+    <string name="group_search_failed">Search failed</string>
+    <string name="hang_up">Hang up</string>
+    <string name="hanging_up">Hanging up..</string>
+    <string name="has_auth">已认证</string>
+    <string name="have_a_comment">评论一下</string>
+    <string name="have_a_talk">聊一聊</string>
+    <string name="have_connected_with">Connected to the peer and waiting for the peer to accept</string>
+    <string name="have_you_removed">Have you removed from his buddy list</string>
+    <string name="hour">小时前</string>
+    <string name="i_can">我能</string>
+    <string name="i_need_skill_service">我要找技术服务</string>
+    <string name="i_want_jiehuo">我要接活</string>
+    <string name="i_want_niuren">我找牛人</string>
+    <string name="id_card_in_hand">手持身份证号</string>
+    <string name="illegal_user_name">Illegal user name</string>
+    <string name="input_alipay_or_bank_card">录入本人支付宝账号或银行卡号</string>
+    <string name="input_check_code_to_send_you">输入发送给您的验证码</string>
+    <string name="input_login_password">输入登录时的密码</string>
+    <string name="input_new_nick_hint">Input a new nick</string>
+    <string name="input_nickname_you_like">录入自己喜欢的称呼</string>
+    <string name="input_open_account_bank">录入开户行</string>
+    <string name="input_open_account_name">录入开户人姓名</string>
+    <string name="input_password">输入密码</string>
+    <string name="integrity">诚信报告</string>
+    <string name="invest">推荐好友注册"接活咯",奖励200元</string>
+    <string name="is_down_please_wait">Downloading video, please try again later</string>
+    <string name="is_modify_the_group_name">Modifying the group name..</string>
+    <string name="is_quit_the_group_chat">Exiting group</string>
+    <string name="job_type">工种</string>
+    <string name="join_public_group">Join public group</string>
+    <string name="justnow">刚刚</string>
+    <string name="keep_agreement">请保持一致</string>
+    <string name="kindly_reminder">温馨提示</string>
+    <string name="legal_name">法人姓名</string>
+    <string name="list_is_for">Retrieving the groups and contacts</string>
+    <string name="list_view">列表视图</string>
+    <string name="load_mobile_error">获取手机号码失败，请重新加载</string>
+    <string name="load_part_time_job_error">加载私活详情失败，请重新加载</string>
+    <string name="location_message">The location information</string>
+    <string name="location_prefix">[my location]</string>
+    <string name="location_recv">[%1$s location]</string>
+    <string name="login">登录</string>
+    <string name="login_error_by_lenth">登录失败，密码长度不够</string>
+    <string name="login_failed">登录失败</string>
+    <string name="login_failure_failed">Logon failure: failed to retrieve contacts or groups</string>
+    <string name="login_pwd">登陆密码</string>
+    <string name="logout">退出登陆</string>
+    <string name="logout_hint">Logout will never clear the chat history, this account can be used on next login</string>
+    <string name="look_more">查看更多</string>
+    <string name="love_me">喜欢我的</string>
+    <string name="make_money_by_share">分享赚钱</string>
+    <string name="male">男</string>
+    <string name="map_choose_address">地图选点</string>
+    <string name="map_view">地图视图</string>
+    <string name="master">硕士</string>
+    <string name="master1">硕</string>
+    <string name="me_buy">我购买的</string>
+    <string name="me_read_and_agree_service_deal">我已阅读并同意</string>
+    <string name="me_seller">我卖出的</string>
+    <string name="me_skill">我的技能</string>
+    <string name="member_count">人数</string>
+    <string name="memo_explain">备注说明</string>
+    <string name="message">消息</string>
+    <string name="message_note_text_buttom">开启后，所有提醒将以声音或震动的方式提醒您</string>
+    <string name="message_note_text_top">开启"新消息夜间免打扰"意味着22：00 - 8:00不会接收到"订单电话"和"所有声音提醒"</string>
+    <string name="min">分钟前</string>
+    <string name="mine">我的</string>
+    <string name="mobile_formart_error">手机号码格式有误，请检查后输入</string>
+    <string name="mobile_when_register">注册时的手机号</string>
+    <string name="mon">周一</string>
+    <string name="mon_afrenoon">周一上午</string>
+    <string name="mon_afternoon">周一下午</string>
+    <string name="mon_night">周一晚上</string>
+    <string name="money_list">收支明细</string>
+    <string name="month">月前</string>
+    <string name="month1">月</string>
+    <string name="more_love">更多喜欢</string>
+    <string name="move_out_backlist">Remove from blacklist</string>
+    <string name="move_up_to_cancel">Finger up to cancel sending</string>
+    <string name="msg_amount_limit">已经达到最高选择数量</string>
+    <string name="msg_no_camera">没有系统相机</string>
+    <string name="must_auth_can_apply">完成个人认证才可以申请哦</string>
+    <string name="mute">Mute</string>
+    <string name="my_collect">我的收藏</string>
+    <string name="my_demand">我的需求</string>
+    <string name="my_footprint">我的足迹</string>
+    <string name="my_need">我的需求</string>
+    <string name="my_skill">我的技能</string>
+    <string name="nan">男</string>
+    <string name="nearby">附近</string>
+    <string name="nedd_characteristic_below">希望服务人员有以下几个特点</string>
+    <string name="need">需求</string>
+    <string name="need_detials">需求详情</string>
+    <string name="need_find">要找</string>
+    <string name="need_help_below">需要服务人员提供如下帮助</string>
+    <string name="need_pay">应付</string>
+    <string name="need_provide">需提供</string>
+    <string name="net_no_connected">无法连接网络，请检查网络配置</string>
+    <string name="network_anomalies">Network is not available, please check the network!</string>
+    <string name="network_isnot_available">The network is not available</string>
+    <string name="network_unavailable">The network connection is not available, please check the network</string>
+    <string name="new_join">新技能</string>
+    <string name="new_join_need">新需求</string>
+    <string name="new_message_inform">新消息通知</string>
+    <string name="new_message_night_no_disturbing">新消息夜间免打扰</string>
+    <string name="new_message_note">新消息提醒</string>
+    <string name="new_password">新密码</string>
+    <string name="new_telephone_number">新手机号</string>
+    <string name="new_user">新用户注册</string>
+    <string name="newchat">Create new group</string>
+    <string name="newnotify">Receiving a new message</string>
+    <string name="next_step">下一步</string>
+    <string name="next_stup">下一步</string>
+    <string name="nick">昵称</string>
+    <string name="nickname">有了称呼，便于交友</string>
+    <string name="nickname_description">Once this nick is set, this nick will be used in push notification (by default this is HuanXin ID ) when the receiver is using the IOS device.</string>
+    <string name="night">晚上</string>
+    <string name="no_auth">未认证</string>
+    <string name="no_data">暂无数据</string>
+    <string name="no_more_messages">no more messages</string>
+    <string name="no_name">无名氏</string>
+    <string name="no_net_connected">无网络连接，请检查网络配置</string>
+    <string name="not_add_myself">"Can't add myself"</string>
+    <string name="not_connect_to_server">Not connect to server, please try again later</string>
+    <string name="not_delete_myself">Cannot delete myself</string>
+    <string name="not_download">Did not download:</string>
+    <string name="notify">New message notification</string>
+    <string name="now_on">至今</string>
+    <string name="now_refresh_list">Refreshing contact list</string>
+    <string name="now_withdraw_deposit">马上提现</string>
+    <string name="nv">女</string>
+    <string name="office_public_number">官方公众号</string>
+    <string name="office_telephone_number">4003457658</string>
+    <string name="office_telephone_number_tip">400-345-7658</string>
+    <string name="ok">OK</string>
+    <string name="old_password">旧密码</string>
+    <string name="open_account_bank">开户银行</string>
+    <string name="open_account_name">开户姓名</string>
+    <string name="order">预约</string>
+    <string name="order_details">订单详情</string>
+    <string name="order_manager">订单管理</string>
+    <string name="order_manager_buy">订单管理(买)</string>
+    <string name="order_number">订单编号</string>
+    <string name="other_introdution">其他说明</string>
+    <string name="other_need">您再看看其它...</string>
+    <string name="other_skill">您再看看其它...</string>
+    <string name="paid_account">收款账号</string>
+    <string name="parameter_error">参数错误</string>
+    <string name="part_time_job_type_loading_failed">加载工种列表失败</string>
+    <string name="password">Password</string>
+    <string name="password_hint">建议8-16位 "数字"＋"字母"</string>
+    <string name="password_need_to_lenth">密码必须8位数以上</string>
+    <string name="password_not_agreement">两次密码输入不一致</string>
+    <string name="password_tip">密码为8-16位字符，区分大小写</string>
+    <string name="pay">支付</string>
+    <string name="pay_by_balance">余额支付</string>
+    <string name="pay_by_face_to_face">当面付</string>
+    <string name="pay_way_alipay">支付宝支付</string>
+    <string name="people">people</string>
+    <string name="person_name">本人姓名</string>
+    <string name="phone_number">手机号码</string>
+    <string name="picture">[Picture]</string>
+    <string name="pin_to_record">按住录音</string>
+    <string name="please_check">key validation error!Please on AndroidManifest.xml file check the key set</string>
+    <string name="please_choose_characteristic">请选择特点</string>
+    <string name="please_choose_educational">请选择学历</string>
+    <string name="please_choose_part_time_job_type">请选择工种</string>
+    <string name="please_input_alipay_or_bank_card">请输入本人支付宝账号或银行卡号</string>
+    <string name="please_input_card_num">请输入身份证号</string>
+    <string name="please_input_checkcode">请输入验证码</string>
+    <string name="please_input_content">请输入内容</string>
+    <string name="please_input_feedback">请输入反馈意见</string>
+    <string name="please_input_login_password">请输入登录时的密码</string>
+    <string name="please_input_login_pwd">请输入登陆密码</string>
+    <string name="please_input_new_password">请输入新密码</string>
+    <string name="please_input_new_phone">请输入新手机号</string>
+    <string name="please_input_nickname">请输入昵称</string>
+    <string name="please_input_open_account_bank">请输入开户行</string>
+    <string name="please_input_open_account_name">请输入开户人姓名</string>
+    <string name="please_input_password">请输入您的密码</string>
+    <string name="please_input_person_name">请输入本人姓名</string>
+    <string name="please_input_read_school">请输入就读学校</string>
+    <string name="please_input_recharge_money">请输入充值金额</string>
+    <string name="please_input_telephone">请输入您的手机号</string>
+    <string name="please_input_the_same_as_card_name">填写与身份证上一致的姓名</string>
+    <string name="please_input_the_same_as_trading_certificate">填写与公司营业执照一致的公司名</string>
+    <string name="please_input_withdraw_deposit_money">请输入提现金额</string>
+    <string name="please_intpt_account">请输入收款账户</string>
+    <string name="please_re_input_new_password">请重新输入新密码</string>
+    <string name="please_set_the_current">"Please set the current user's nickname \ n to ios offline push not userid but Nick, see comments"</string>
+    <string name="please_update_app">当前版本不支持此种类型，请升级</string>
+    <string name="please_wait_in_patience">请耐心等待</string>
+    <string name="preference">关注</string>
+    <string name="preference_finish">完成设置</string>
+    <string name="preview">预览</string>
+    <string name="price">填报酬</string>
+    <string name="prompt">Prompt</string>
+    <string name="publish_message_above">发布以上信息</string>
+    <string name="publish_skill_case">案例</string>
+    <string name="publish_skill_price_name">售价</string>
+    <string name="publish_skill_price_unit">/</string>
+    <string name="pulish_skill">发布技能</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_pull_label" translatable="false">向下拉动可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label" translatable="false">加载中…</string>
+    <string name="pull_to_refresh_release_label" translatable="false">松开可以刷新</string>
+    <string name="pull_to_refresh_tap_label" translatable="false">点击刷新</string>
+    <string name="push_nick">IOS offline push nick</string>
+    <string name="rate">评分</string>
+    <string name="re_edit">重新编辑</string>
+    <string name="re_new_password">确认密码</string>
+    <string name="read_and_agree_service_deal">阅读并同意《服务协议》</string>
+    <string name="read_school">就读学校</string>
+    <string name="real_name">真实姓名</string>
+    <string name="receive_account">收款账户</string>
+    <string name="receive_the_passthrough">Receive cmd message : action：</string>
+    <string name="recharge_money">充值金额</string>
+    <string name="recoding_fail">The recording failure, please try again！</string>
+    <string name="recommand">推荐</string>
+    <string name="recommend">推荐</string>
+    <string name="record_longest_time">最长60秒</string>
+    <string name="recording_video">Record video</string>
+    <string name="refreshing_group_list">Refreshing group list</string>
+    <string name="refuse_make">拒绝接活</string>
+    <string name="register">注册</string>
+    <string name="register_failed">注册失败</string>
+    <string name="registration_failed_without_permission">Registration failed, without permission!</string>
+    <string name="relay_call">Relay</string>
+    <string name="release_to_cancel">Finger release to cancel sending</string>
+    <string name="remove_group_of">Remove group of shielding failure, please check the network or try again later</string>
+    <string name="report_type_one">传播淫秽、色情、黄赌毒</string>
+    <string name="report_type_three">反党、反人类</string>
+    <string name="report_type_two">侵权(冒名、抄袭、诽谤)</string>
+    <string name="request_failed">网络错误</string>
+    <string name="request_token_failed">token获取异常</string>
+    <string name="resend">Resend</string>
+    <string name="reset_input">重新输入</string>
+    <string name="reset_send">重新发送</string>
+    <string name="retake_photo">重拍</string>
+    <string name="revise_failed">修改失败</string>
+    <string name="revise_just_one_pri_month">注：一个月仅可修改一次</string>
+    <string name="revise_mobile">修改手机号</string>
+    <string name="revise_password">修改密码</string>
+    <string name="revise_success">修改成功</string>
+    <string name="reward">报酬</string>
+    <string name="robot_chat">Robot chat</string>
+    <string name="safety_promise">此服务享受《众安&amp;新鲜人联合安全承诺》保障</string>
+    <string name="salary">报酬 · </string>
+    <string name="salary1">50-100元/天</string>
+    <string name="salary2">101-200元/天</string>
+    <string name="salary3">201-300元/天</string>
+    <string name="salary4">301元以上/天</string>
+    <string name="sat">周六</string>
+    <string name="sat_afternoon">周六下午</string>
+    <string name="sat_forenoon">周六上午</string>
+    <string name="sat_night">周六晚上</string>
+    <string name="save">Save</string>
+    <string name="save_new_nickname">Save new nickname</string>
+    <string name="scanner_qrcode">扫描二维码下载接活咯</string>
+    <string name="school">学校</string>
+    <string name="sd_card_does_not_exist">"SD card does not exist, can't take pictures"</string>
+    <string name="search">Search</string>
+    <string name="search_header">Search</string>
+    <string name="search_hint">请输入搜索关键字</string>
+    <string name="search_need">搜需求</string>
+    <string name="search_new">Search</string>
+    <string name="search_pubic_group">Search public group</string>
+    <string name="search_skill">搜技能</string>
+    <string name="search_user">搜用户</string>
+    <string name="searching">searching</string>
+    <string name="sec">秒前</string>
+    <string name="select_contacts">Select the contact</string>
+    <string name="seller_pulish_desc_hint">例如：\n1.三年以上Android 应用开发经验;\n2.开发过购物类，金融类，政府机关 等App应用，\n3.有5人（后台，产品，IOS）开发团队；\n4.有6个上线App项目，各大应用市场可搜；\n5.有责任感，可承担一定的后期维护辅助工作。</string>
+    <string name="seller_pulish_hint">一句话描述您的技能、资源</string>
+    <string name="send">发送</string>
+    <string name="send_check_code">发送验证码</string>
+    <string name="send_fail">Send failed</string>
+    <string name="send_failure_please">Send failure, please test whether the server connection</string>
+    <string name="send_message">发送短信</string>
+    <string name="send_successful">Request was sent, waiting for the peer to accept</string>
+    <string name="send_the_request_is">The request was sent and waiting for owner approval</string>
+    <string name="server_time">服务时间</string>
+    <string name="service_add">服务地址</string>
+    <string name="service_pay">服务报酬</string>
+    <string name="service_phone">客服电话</string>
+    <string name="service_safeguard">服务保障</string>
+    <string name="service_safeguard_deal">《服务保障协议》</string>
+    <string name="service_status_wait">等待服务</string>
+    <string name="session">Conversation</string>
+    <string name="set">Settings</string>
+    <string name="set_advance_money">请输入预支金额</string>
+    <string name="set_avatar">请设置头像</string>
+    <string name="set_collection_account">请输入收款账号</string>
+    <string name="set_mobile">请输入手机号码</string>
+    <string name="set_name">请输入姓名</string>
+    <string name="set_new_password">设新密码</string>
+    <string name="set_password">请输入密码</string>
+    <string name="set_password2">设置密码</string>
+    <string name="setting">设置</string>
+    <string name="setting_nickname">Setting nickname</string>
+    <string name="sex">性别</string>
+    <string name="shake">Shake</string>
+    <string name="share_to_make_money">推荐赚钱</string>
+    <string name="shock_note">震动提醒</string>
+    <string name="skill">技能</string>
+    <string name="skill_details">技能详情</string>
+    <string name="sms_code_is_four_num">验证码是四位数的数字</string>
+    <string name="specialty">专科</string>
+    <string name="specialty1">专</string>
+    <string name="start">*</string>
+    <string name="stay">住宿</string>
+    <string name="student_auth">学生认证</string>
+    <string name="student_card_in_hand">手持学生证号</string>
+    <string name="submit">提交</string>
+    <string name="submit_cash_deposit">提交保证金</string>
+    <string name="submit_success">提交成功</string>
+    <string name="sum_afternoon">周日下午</string>
+    <string name="sum_night">周日晚上</string>
+    <string name="summon">我需要</string>
+    <string name="summon_hint">一句话表达您的需求</string>
+    <string name="summon_is_free">平台不收取任何费用，放心发布!</string>
+    <string name="sun">周日</string>
+    <string name="sun_forenoon">周日上午</string>
+    <string name="sure">确定</string>
+    <string name="sure_contact_system_office">确定联系官方客服？</string>
+    <string name="sure_correct">请务必保证准确无误</string>
+    <string name="sure_delete_work_info">确定删除这条工作经历？</string>
+    <string name="sure_feedback">确定反馈？</string>
+    <string name="sure_logout">确定退出当前账号？</string>
+    <string name="sure_must_your_account">注：务必是您本人账户</string>
+    <string name="sure_pay">确定付款</string>
+    <string name="sure_revise_password">确定修改密码？</string>
+    <string name="sure_revise_sex">确定修改性别？</string>
+    <string name="sure_revise_telephone">确定修改手机号？</string>
+    <string name="sure_to_empty_this">Clear all messages?</string>
+    <string name="system">系统</string>
+    <string name="system_message">系统消息</string>
+    <string name="sysytem_will_push_by_distance">系统会把距离最近的私活优先推送给您</string>
+    <string name="sysytem_will_push_by_job_type">系统会把最适合您的私活优先推送给您</string>
+    <string name="sysytem_will_push_by_nearby">系统会自动把这附近的私活信息推送给您!</string>
+    <string name="t_13_to_17">13:00 - 17:30</string>
+    <string name="t_18_to_22">18:30 - 22:30</string>
+    <string name="ta_need">我的需求</string>
+    <string name="ta_skill">我的技能</string>
+    <string name="take">接活</string>
+    <string name="telephone_number">手机号码</string>
+    <string name="temporary_does_not">Currently the video size greater than 10M is not supported!</string>
+    <string name="ten">10</string>
+    <string name="test">返回按钮</string>
+    <string name="text_ack_msg">Read</string>
+    <string name="text_delivered_msg">Delivered</string>
+    <string name="the_area_of_service">服务范围(公里)</string>
+    <string name="the_current_group">The current group has been dismissed</string>
+    <string name="the_current_network">The current network is not available, please check the network Settings</string>
+    <string name="the_day_before_yesterday">前天</string>
+    <string name="they_say">他们说</string>
+    <string name="they_very_like">他们很喜欢</string>
+    <string name="thirty">30</string>
+    <string name="thousand">1000.00</string>
+    <string name="thur">周四</string>
+    <string name="thur_afternoon">周四下午</string>
+    <string name="thur_forenoon">周四上午</string>
+    <string name="thur_night">周四晚上</string>
+    <string name="time">时间</string>
+    <string name="time_manager">接活时间</string>
+    <string name="title_activity_cropper">图片截取</string>
+    <string name="title_activity_localphoto">本地相册</string>
+    <string name="title_btn_localphoto">本地获取照片</string>
+    <string name="title_btn_takephoto">拍照获取</string>
+    <string name="title_user_profile">User Profile</string>
+    <string name="toast_nick_not_isnull">nick cannot be empty!</string>
+    <string name="toast_no_support">No Support!</string>
+    <string name="toast_updatenick_fail">update nickname fail!</string>
+    <string name="toast_updatenick_success">update nickname success!</string>
+    <string name="toast_updatephoto_fail">update photo fail!</string>
+    <string name="toast_updatephoto_success">update photo success!</string>
+    <string name="today">今天</string>
+    <string name="top_up">充值</string>
+    <string name="total_award_money">共奖励2000元</string>
+    <string name="totle">合计</string>
+    <string name="tue">周二</string>
+    <string name="tue_afternoon">周二下午</string>
+    <string name="tue_forenoon">周二上午</string>
+    <string name="tue_night">周二晚上</string>
+    <string name="twenty">20</string>
+    <string name="umeng_example_home_btn_plus">社交分享</string>
+    <string name="umeng_socialize_back" translatable="false">返回</string>
+    <string name="umeng_socialize_cancel_btn_str">取消</string>
+    <string name="umeng_socialize_comment" translatable="false">评论</string>
+    <string name="umeng_socialize_comment_detail" translatable="false">评论详情</string>
+    <string name="umeng_socialize_content_hint">说点啥…</string>
+    <string name="umeng_socialize_friends" translatable="false">关注的好友</string>
+    <string name="umeng_socialize_img_des"/>
+    <string name="umeng_socialize_login">登录</string>
+    <string name="umeng_socialize_login_qq">QQ空间</string>
+    <string name="umeng_socialize_mail">邮件</string>
+    <string name="umeng_socialize_msg_hor" translatable="false">小时前</string>
+    <string name="umeng_socialize_msg_min" translatable="false">分钟前</string>
+    <string name="umeng_socialize_msg_sec" translatable="false">秒前</string>
+    <string name="umeng_socialize_near_At" translatable="false">最近\@的好友</string>
+    <string name="umeng_socialize_network_break_alert" translatable="false">请连接网络后再尝试！</string>
+    <string name="umeng_socialize_send" translatable="false">发布</string>
+    <string name="umeng_socialize_send_btn_str">发送</string>
+    <string name="umeng_socialize_share">分享</string>
+    <string name="umeng_socialize_share_content">友盟社会化组件（SDK）让移动应用快速整合社交分享功能，我们简化了社交平台的接入，为开发者提供坚实的基础服务。（一）支持各大主流社交平台， 
+												（二）支持图片、文字、gif动图、音频、视频；@好友，关注官方微博等功能。
+												（三）提供详尽的后台用户社交行为分析。www.umeng.com/social</string>
+    <string name="umeng_socialize_sina">新浪</string>
+    <string name="umeng_socialize_sms">短信</string>
+    <string name="umeng_socialize_text_add_custom_platform">请配置用户平台</string>
+    <string name="umeng_socialize_text_alipay_key">支付宝</string>
+    <string name="umeng_socialize_text_authorize">授权</string>
+    <string name="umeng_socialize_text_choose_account">选择已有帐号登录</string>
+    <string name="umeng_socialize_text_comment_hint">说点什么吧…</string>
+    <string name="umeng_socialize_text_douban_key">豆瓣网</string>
+    <string name="umeng_socialize_text_evernote_key">印象笔记</string>
+    <string name="umeng_socialize_text_facebook_key">facebook</string>
+    <string name="umeng_socialize_text_flickr_key">Flickr</string>
+    <string name="umeng_socialize_text_foursquare_key">Foursquare</string>
+    <string name="umeng_socialize_text_friend_list">好友列表</string>
+    <string name="umeng_socialize_text_googleplus_key">GooglePlus</string>
+    <string name="umeng_socialize_text_instagram_key">instagram</string>
+    <string name="umeng_socialize_text_kakao_key">Kakao Talk</string>
+    <string name="umeng_socialize_text_laiwangdynamic_key">来往动态</string>
+    <string name="umeng_socialize_text_line_key">LINE</string>
+    <string name="umeng_socialize_text_linkedin_key">Linkedin</string>
+    <string name="umeng_socialize_text_loading_message">载入中,请稍候...</string>
+    <string name="umeng_socialize_text_login_fail">登录失败了，请重试</string>
+    <string name="umeng_socialize_text_pinterest_key">pinterest</string>
+    <string name="umeng_socialize_text_pocket_key">pocket</string>
+    <string name="umeng_socialize_text_qq_key">QQ</string>
+    <string name="umeng_socialize_text_qq_zone_key">QQ空间</string>
+    <string name="umeng_socialize_text_renren_key">人人网</string>
+    <string name="umeng_socialize_text_sina_key">微博</string>
+    <string name="umeng_socialize_text_tencent_key">腾讯微博</string>
+    <string name="umeng_socialize_text_tencent_no_connection">无法连接到腾讯微博客户端</string>
+    <string name="umeng_socialize_text_tencent_no_install">未安装腾讯微博客户端</string>
+    <string name="umeng_socialize_text_tencent_oauth_login_fail">授权登录失败</string>
+    <string name="umeng_socialize_text_tencent_version_no_match">版本不匹配，SSO只对微博客户端V3.8.1及以上的版本提供支持</string>
+    <string name="umeng_socialize_text_tumblr_key">Tumblr</string>
+    <string name="umeng_socialize_text_twitter_key">twitter</string>
+    <string name="umeng_socialize_text_ucenter">个人中心</string>
+    <string name="umeng_socialize_text_unauthorize">未授权</string>
+    <string name="umeng_socialize_text_visitor">游客</string>
+    <string name="umeng_socialize_text_waitting">请稍候...</string>
+    <string name="umeng_socialize_text_waitting_message">,请稍候...</string>
+    <string name="umeng_socialize_text_waitting_qq">跳转QQ中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_qzone">跳转QZone中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_redirect">跳转</string>
+    <string name="umeng_socialize_text_waitting_share">分享中…</string>
+    <string name="umeng_socialize_text_waitting_weixin">跳转微信中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_weixin_circle">跳转朋友圈中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_yixin">跳转易信中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_yixin_circle">跳转易信朋友圈中，请稍候...</string>
+    <string name="umeng_socialize_text_weixin_circle_key">微信朋友圈</string>
+    <string name="umeng_socialize_text_weixin_key">微信</string>
+    <string name="umeng_socialize_text_whatsapp_key">WhatsApp</string>
+    <string name="umeng_socialize_text_ydnote_key">有道云笔记</string>
+    <string name="umeng_socialize_text_yixin_key">易信</string>
+    <string name="umeng_socialize_text_yixincircle_key">易信朋友圈</string>
+    <string name="umeng_socialize_tip_blacklist" translatable="false">对不起，因为违反了用户协议您已被禁言.</string>
+    <string name="umeng_socialize_tip_loginfailed" translatable="false">登录失败…</string>
+    <string name="umeng_socialize_ucenter_login_title_guide" translatable="false">游客登录</string>
+    <string name="umeng_socialize_ucenter_login_title_platform" translatable="false">登录帐号</string>
+    <string name="unable_to_connect">Unable to connect to the server</string>
+    <string name="unable_to_get_loaction">Unable to get to your location information!</string>
+    <string name="undergraduate">本科</string>
+    <string name="undergraduate1">本</string>
+    <string name="unit">选择单位</string>
+    <string name="upload_avatar_failed">上传头像失败</string>
+    <string name="upload_avatar_success">上传头像成功</string>
+    <string name="use">使用</string>
+    <string name="use_this_cropper_photo">选取</string>
+    <string name="user">用户</string>
+    <string name="user_card">Business card</string>
+    <string name="user_name">User name</string>
+    <string name="user_password">用户密码</string>
+    <string name="video">[Video]</string>
+    <string name="view">视图</string>
+    <string name="voice">Voice</string>
+    <string name="voice_call">[Voice call]</string>
+    <string name="voice_note">声音提醒</string>
+    <string name="voice_prefix">[Voice]</string>
+    <string name="was_pay">已支付</string>
+    <string name="wen">周三</string>
+    <string name="wen_afternoon">周三下午</string>
+    <string name="wen_forenoon">周三上午</string>
+    <string name="wen_night">周三晚上</string>
+    <string name="what_characteristic_you_have">你有什么特点？</string>
+    <string name="what_did_you_want_they_service_for_you">你希望他们什么时候为您服务</string>
+    <string name="what_skill_you_need">你需要找具备什么能力的人</string>
+    <string name="withdraw_deposit">提现</string>
+    <string name="withdraw_deposit_safe_code">提现安全码</string>
+    <string name="withdrawal_amount">提现金额</string>
+    <string name="work_experence">工作经历</string>
+    <string name="work_experence_add">添加经历</string>
+    <string name="work_experence_decriptor">详细描述一下这个经历</string>
+    <string name="work_experence_intro">一句话概括这个经历</string>
+    <string name="work_experence_type">给这段经历分类</string>
+    <string name="working_lunch">工作餐</string>
+    <string name="write_education">填写学历</string>
+    <string name="write_selling_price">填写售价</string>
+    <string name="write_selling_unit">填写单位</string>
+    <string name="xpand_hint">详细说明您的需求</string>
+    <string name="yangshengqi">Use speaker</string>
+    <string name="year">年前</string>
+    <string name="year1">年</string>
+    <string name="year_format">yyyy年 M月d日 HH:mm</string>
+    <string name="yesterday">昨天</string>
+    <string name="you_are_group">You have been kicked off from the group</string>
+    <string name="your_education">你的学历</string>
+    <string name="your_name">您的姓名</string>
+    <string name="your_nickname">你的昵称</string>
+    <string name="your_sex">你的性别</string>
+    <style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+    <style name="AnimFade" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/fade_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/hold</item>
+        <item name="android:activityCloseExitAnimation">@anim/fade_out</item>
+    </style>
+    <style name="AnimFade2" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_from_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_to_left</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_out_to_right</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_in_from_left</item>
+    </style>
+    <style name="AnimHead" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/head_in</item>
+        <item name="android:windowExitAnimation">@anim/head_out</item>
+    </style>
+    <style name="AnimTop" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_top_in</item>
+        <item name="android:windowExitAnimation">@anim/push_top_out</item>
+    </style>
+    <style name="AnimTop2" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/push_top_in2</item>
+        <item name="android:windowExitAnimation">@anim/push_top_out2</item>
+    </style>
+    <style name="Anim_style" parent="android:Theme.NoTitleBar.Fullscreen">
+        <item name="android:windowAnimationStyle">@style/AnimFade</item>
+    </style>
+    <style name="Anim_style2" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/AnimFade</item>
+    </style>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+
+    </style>
+    <style name="AppLuncherTheme" parent="android:Theme.Light.NoTitleBar">
+        <!--<item name="android:windowIsTranslucent">true</item>-->
+        <!--<item name="android:windowNoTitle">true</item>-->
+        <item name="android:background">@drawable/splash</item>
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="BottomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="CheckboxBlueTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox_blue_style</item>
+    </style>
+    <style name="CheckboxOrangeTheme" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox_orange_style</item>
+    </style>
+    <style name="DefineprogressBarStyleSmall" parent="android:style/Widget.ProgressBar">
+        <item name="android:indeterminateDrawable">@drawable/progress_medium</item>
+        <item name="android:minWidth">30dp</item>
+        <item name="android:maxWidth">30dp</item>
+        <item name="android:minHeight">30dp</item>
+        <item name="android:maxHeight">30dp</item>
+
+    </style>
+    <style name="FileDesDialogNoBackground" parent="@android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="HeadScale" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimHead</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="HomeTabButton">
+        <item name="android:layout_width">0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1.0</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:drawablePadding">5dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textColor">@color/home_tab_text_color_selector</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="MyAlertDialog" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+    <style name="MyDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="MyDialogStyleBottom" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimBottom</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">true</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="MyDialogStyleTop" parent="android:Theme.Dialog">
+        <item name="android:windowAnimationStyle">@style/AnimTop2</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 模糊 -->
+    </style>
+    <style name="SmallButtonBlue" parent="@android:style/Widget.Button">
+        <item name="android:textSize">15.0dip</item>
+        <item name="android:textColor">@color/skin_color_button_blue</item>
+        <item name="android:background">@drawable/common_btn_small_blue</item>
+        <item name="android:paddingLeft">11.0dip</item>
+        <item name="android:paddingRight">11.0dip</item>
+        <item name="android:minWidth">47.0dip</item>
+        <item name="android:minHeight">30.0dip</item>
+    </style>
+    <style name="Theme.UMDefault" parent="android:style/Theme.NoTitleBar"/>
+    <style name="Theme.UMDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="TitleBtn">
+        <item name="android:textSize">17.0dip</item>
+        <item name="android:textColor">@color/skin_bar_btn</item>
+    </style>
+    <style name="TitleText">
+        <item name="android:textSize">17.0dip</item>
+        <item name="android:textColor">@color/skin_bar_text</item>
+    </style>
+    <style name="bottom_line_edit_text_style" parent="@android:style/Widget.EditText">
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">6.0dip</item>
+        <item name="android:paddingTop">6.0dip</item>
+        <item name="android:paddingRight">6.0dip</item>
+        <item name="android:paddingBottom">6.0dip</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:background">@drawable/ease_edit_text_bg</item>
+    </style>
+    <style name="chat_content_date_style">
+        <item name="android:minHeight">50dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:lineSpacingExtra">2dp</item>
+        <item name="android:background">#bfbfbf</item>
+    </style>
+    <style name="chat_text_date_style">
+        <item name="android:padding">2dp</item>
+        <item name="android:paddingTop">2dip</item>
+        <item name="android:paddingBottom">2dip</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:textColor">@color/btn_gray_normal</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:background">@drawable/ease_timestampe_bg</item>
+    </style>
+    <style name="chat_text_name_style">
+        <item name="android:textColor">#818181</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="coloredRatingBarStyle">
+        <item name="indicator">false</item>
+        <item name="type">normal</item>
+    </style>
+    <style name="devide_line_eee">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1.5dp</item>
+        <item name="android:background">#eee</item>
+    </style>
+    <style name="horizontal_slide" parent="android:Theme.NoTitleBar">
+        <item name="android:windowAnimationStyle">@style/AnimFade2</item>
+    </style>
+    <style name="lineStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:background">@color/color_eaeaea</item>
+    </style>
+    <style name="me_left_text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/color_838383</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="me_right_narrow_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:src">@drawable/narrow_gray</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="me_right_text_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">@color/color_dadada</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="me_rl_style">
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:paddingRight">12dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:background">@drawable/btn_default</item>
+    </style>
+    <style name="mydialog">
+        <item name="@android:windowEnterAnimation">@anim/push_top_in</item>
+        <item name="@android:windowExitAnimation">@anim/push_top_out</item>
+    </style>
+    <style name="nornal_style" parent="android:Theme.NoTitleBar"/>
+    <style name="popwin_anim_top">
+        <item name="android:windowEnterAnimation">@anim/push_top_in</item>
+        <item name="android:windowExitAnimation">@anim/push_bottom_out</item>
+    </style>
+    <style name="umeng_socialize_action_bar_item_im">
+        <item name="android:layout_width">25dp</item>
+        <item name="android:layout_height">25dp</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+    <style name="umeng_socialize_action_bar_item_tv">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_marginLeft">5dp</item>
+        <item name="android:text">999</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="umeng_socialize_action_bar_itemlayout">
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:paddingLeft">4dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingRight">4dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>
+    <style name="umeng_socialize_dialog_anim_fade">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_fade_in</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_fade_out</item>
+    </style>
+    <style name="umeng_socialize_dialog_animations">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_slide_in_from_bottom</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_slide_out_from_bottom</item>
+    </style>
+    <style name="umeng_socialize_divider">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">1dp</item>
+        <item name="android:background">@color/umeng_socialize_divider</item>
+    </style>
+    <style name="umeng_socialize_edit_padding">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">@color/umeng_socialize_list_item_bgcolor</item>
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+        <item name="android:layout_marginTop">6dp</item>
+        <item name="android:layout_marginBottom">6dp</item>
+    </style>
+    <style name="umeng_socialize_list_item">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:background">@color/umeng_socialize_list_item_bgcolor</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:paddingTop">5dp</item>
+    </style>
+    <style name="umeng_socialize_popup_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+    <style name="umeng_socialize_popup_dialog_anim" parent="@style/umeng_socialize_popup_dialog">
+        <item name="android:windowAnimationStyle">@style/umeng_socialize_dialog_animations</item>
+    </style>
+    <style name="umeng_socialize_shareboard_animation">
+        <item name="android:windowEnterAnimation">@anim/umeng_socialize_shareboard_animation_in</item>
+        <item name="android:windowExitAnimation">@anim/umeng_socialize_shareboard_animation_out</item>
+    </style>
+</resources>

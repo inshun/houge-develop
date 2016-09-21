@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 用户详情技能列表item -->
+<LinearLayout android:id="@+id/line_skill"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/btn_default"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:showDividers="middle" >
+
+        <!-- 技能名称 -->
+
+        <TextView
+            android:id="@+id/tv_skill_name"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:paddingBottom="10dp"
+            android:paddingTop="10dp"
+            android:singleLine="true" />
+
+        <!-- 等级 -->
+
+        <TextView
+            android:id="@+id/tv_level"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shapa_square_border_orange_padding_white"
+            android:padding="4dp"
+            android:textColor="@color/color_app_theme_orange_bg"
+            android:textSize="@dimen/smail_text" />
+
+        <!-- 距离 -->
+
+        <TextView
+            android:id="@+id/tv_distance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/shapa_square_border_orange_padding_white"
+            android:padding="4dp"
+            android:textColor="@color/color_app_theme_orange_bg"
+            android:textSize="@dimen/smail_text" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_skill_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="4"
+        android:paddingBottom="10dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="10dp" />
+
+    <LinearLayout
+        android:id="@+id/line_user_skill_img"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@drawable/shapa_driver_8dp"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingLeft="12dp"
+        android:paddingRight="12dp"
+        android:paddingTop="8dp"
+        android:showDividers="middle" >
+
+        <!-- 技能图片第一张 -->
+
+        <ImageView
+            android:id="@+id/iv_skill_img_one"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:scaleType="centerCrop"
+            android:src="@drawable/defaultpic" />
+
+        <!-- 技能图片第二张 -->
+
+        <ImageView
+            android:id="@+id/iv_skill_img_two"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:scaleType="centerCrop"
+            android:src="@drawable/defaultpic" />
+
+        <!-- 技能图片第三张 -->
+
+        <ImageView
+            android:id="@+id/iv_skill_img_three"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:scaleType="centerCrop"
+            android:src="@drawable/defaultpic" />
+    </LinearLayout>
+
+    <!-- 技能描述 -->
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:paddingBottom="10dp"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:paddingTop="10dp" >
+
+        <!-- 技能价格及单位 -->
+
+        <TextView
+            android:id="@+id/tv_skill_price_and_unit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/color_app_theme_orange_bg" />
+
+        <!-- 聊一聊 -->
+
+        <TextView
+            android:id="@+id/tv_have_a_talk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/shapa_square_border_orange"
+            android:gravity="center"
+            android:paddingBottom="8dp"
+            android:paddingLeft="12dp"
+            android:paddingRight="12dp"
+            android:paddingTop="8dp"
+            android:text="@string/have_a_talk"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <View
+        style="@style/lineStyle"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:gravity="center_vertical"
+        android:paddingBottom="8dp"
+        android:paddingTop="8dp" >
+
+        <!-- 分享 -->
+
+        <ImageView
+            android:id="@+id/iv_share"
+            android:layout_width="60dp"
+            android:layout_height="35dp"
+            android:background="@drawable/shapa_circular_gray_border"
+            android:baselineAlignBottom="false"
+            android:contentDescription="@null"
+            android:padding="8dp"
+            android:src="@drawable/skill_share" />
+
+        <!-- 赞 -->
+
+        <LinearLayout
+            android:id="@+id/line_leave_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/shapa_circular_gray_border"
+            android:gravity="center"
+            android:minWidth="60dp"
+            android:orientation="horizontal" >
+
+            <!-- 赞的数量 -->
+
+            <TextView
+                android:id="@+id/tv_level_msg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:textColor="@color/color_e5e5e5" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:contentDescription="@null"
+                android:src="@drawable/skill_level_message" />
+        </LinearLayout>
+
+        <!-- 喜欢 -->
+
+        <LinearLayout
+            android:id="@+id/line_praise"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="12dp"
+            android:layout_marginRight="12dp"
+            android:layout_toLeftOf="@+id/line_leave_msg"
+            android:background="@drawable/shapa_circular_gray_border"
+            android:gravity="center"
+            android:minWidth="60dp"
+            android:orientation="horizontal" >
+
+            <!-- 喜欢的数量 -->
+
+            <TextView
+                android:id="@+id/tv_praise"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:textColor="@color/color_e5e5e5" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="2dp"
+                android:layout_marginRight="2dp"
+                android:contentDescription="@null"
+                android:src="@drawable/skill_love" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        android:background="@color/activity_bg"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+</LinearLayout>

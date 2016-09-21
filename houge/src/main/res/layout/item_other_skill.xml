@@ -1,0 +1,81 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!-- 技能详情中其他技能item -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_default"
+        android:padding="10dp">
+
+        <!-- 技能图片 -->
+
+        <ImageView
+            android:id="@+id/iv_skill_img"
+            android:layout_width="75dp"
+            android:layout_height="75dp"
+            android:contentDescription="@null"
+            android:scaleType="centerCrop"
+            android:src="@drawable/defaultpic"/>
+
+        <LinearLayout
+            android:id="@+id/line_skill_description"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:layout_toRightOf="@+id/iv_skill_img"
+            android:gravity="center_vertical">
+
+            <ImageView
+                android:layout_width="4dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:contentDescription="@null"
+                android:src="@drawable/goods_title_orange"/>
+
+            <!-- 技能描述 -->
+
+            <TextView
+                android:id="@+id/tv_skill_description"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:textColor="@color/color_555555"/>
+        </LinearLayout>
+
+        <!-- 价格单位 -->
+
+        <TextView
+            android:id="@+id/tv_skill_price_and_unit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/line_skill_description"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="8dp"
+            android:layout_toRightOf="@+id/iv_skill_img"/>
+
+        <!-- 已预约次数 -->
+
+        <TextView
+            android:id="@+id/tv_skill_order_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tv_skill_price_and_unit"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_marginTop="4dp"
+            android:layout_toRightOf="@+id/iv_skill_img"
+            android:textColor="@color/color_999999"
+            android:textSize="@dimen/smail_text"/>
+    </RelativeLayout>
+
+    <View
+        style="@style/lineStyle"
+        android:layout_height="1dp"/>
+</LinearLayout>
