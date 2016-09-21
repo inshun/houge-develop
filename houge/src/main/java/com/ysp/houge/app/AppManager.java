@@ -36,6 +36,8 @@ public class AppManager {
 	public void addActivity(Activity activity) {
 		if (activityStack == null) {
 			activityStack = new Stack<Activity>();
+
+
 		}
 		activityStack.add(activity);
 	}
